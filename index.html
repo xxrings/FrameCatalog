@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Frame Catalog</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Frame Catalog</h1>
+  </header>
+
+  <!-- FILTER PANEL -->
+  <section id="filters">
+    <!-- app.js will inject all filter controls here -->
+  </section>
+
+  <!-- THUMBNAILS GRID -->
+  <section id="thumbnails">
+    <!-- app.js will render one card per unique frame -->
+  </section>
+
+  <!-- TEMPLATE FOR A SINGLE THUMBNAIL CARD -->
+  <template id="thumbnail-template">
+    <div class="thumb-card">
+      <a href="" class="thumb-link">
+        <div class="thumb-img-container">
+          <img src="" alt="Frame Image" class="thumb-img" />
+        </div>
+        <div class="thumb-name"></div>
+      </a>
+    </div>
+  </template>
+
+  <script src="app.js"></script>
+  <script>
+    window.addEventListener('DOMContentLoaded', () => {
+      CatalogApp.initMainPage();
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Frame Details</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <button id="back-button">← Back to Catalog</button>
+    <h1 id="frame-name">Frame Name</h1>
+  </header>
+
+  <!-- SELECTORS: Color & Eye Size -->
+  <section id="selectors">
+    <div class="filter-group">
+      <label for="select-color">Color:</label>
+      <select id="select-color">
+        <!-- Populated by app.js -->
+      </select>
+    </div>
+    <div class="filter-group">
+      <label for="select-eyesize">Eye Size:</label>
+      <select id="select-eyesize">
+        <!-- Populated by app.js -->
+      </select>
+    </div>
+  </section>
+
+  <!-- MAIN IMAGE + OVERLAY -->
+  <section id="image-container">
+    <div class="image-wrapper">
+      <img id="frame-image" src="" alt="Frame Image" />
+      <div id="bo-overlay" class="overlay hidden">BACK ORDERED</div>
+    </div>
+  </section>
+
+  <!-- EXTRA‐VIEWS GALLERY (e.g. front, left, right, 3D) -->
+  <section id="view-thumbnails">
+    <!-- app.js will inject <img class="view-thumb"> tags here -->
+  </section>
+
+  <!-- SKU DETAILS TABLE -->
+  <section id="sku-table-container">
+    <table id="sku-table">
+      <thead>
+        <tr>
+          <th>SKU</th>
+          <th>Color</th>
+          <th>Eye Size</th>
+          <th>B</th>
+          <th>Frame PD</th>
+          <th>Temple</th>
+          <th>Back Ordered</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- Rows inserted by app.js -->
+      </tbody>
+    </table>
+  </section>
+
+  <script src="app.js"></script>
+  <script>
+    window.addEventListener('DOMContentLoaded', () => {
+      CatalogApp.initDetailPage();
+    });
+  </script>
+</body>
+</html>

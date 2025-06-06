@@ -1,0 +1,7550 @@
+[
+  {
+    "SKU": "009398228348",
+    "FrameName": "FX 118",
+    "Material": "Metal",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 51,
+    "DBL": 18,
+    "B": 44,
+    "Temple": 140,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "FX_118_51_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "009398228355",
+    "FrameName": "FX 118",
+    "Material": "Metal",
+    "Color": "BURGUNDY",
+    "ColorTags": [
+      "RED"
+    ],
+    "EyeSize": 51,
+    "DBL": 18,
+    "B": 44,
+    "Temple": 140,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "FX_118_51_BURGUNDY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "009398228362",
+    "FrameName": "FX 118",
+    "Material": "Metal",
+    "Color": "GOLD",
+    "ColorTags": [
+      "GOLD"
+    ],
+    "EyeSize": 51,
+    "DBL": 18,
+    "B": 44,
+    "Temple": 140,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "FX_118_51_GOLD_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "009398228379",
+    "FrameName": "FX 119",
+    "Material": "Metal",
+    "Color": "Burgundy",
+    "ColorTags": [
+      "RED"
+    ],
+    "EyeSize": 52,
+    "DBL": 16,
+    "B": 39,
+    "Temple": 140,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "FX_119_52_Burgundy_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "009398228393",
+    "FrameName": "FX 119",
+    "Material": "Metal",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 52,
+    "DBL": 16,
+    "B": 39,
+    "Temple": 140,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "FX_119_52_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "009398228409",
+    "FrameName": "FX 119",
+    "Material": "Metal",
+    "Color": "Rose",
+    "ColorTags": [
+      "PINK"
+    ],
+    "EyeSize": 52,
+    "DBL": 16,
+    "B": 39,
+    "Temple": 140,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "FX_119_52_Rose_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "009398228416",
+    "FrameName": "FX 115",
+    "Material": "Metal",
+    "Color": "BLUE",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 53,
+    "DBL": 18,
+    "B": 43,
+    "Temple": 145,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "FX_115_53_BLUE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "009398228423",
+    "FrameName": "FX 115",
+    "Material": "Metal",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 53,
+    "DBL": 18,
+    "B": 43,
+    "Temple": 145,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "FX_115_53_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "009398228430",
+    "FrameName": "FX 115",
+    "Material": "Metal",
+    "Color": "BURGUNDY",
+    "ColorTags": [
+      "RED"
+    ],
+    "EyeSize": 53,
+    "DBL": 18,
+    "B": 43,
+    "Temple": 145,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "FX_115_53_BURGUNDY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "10164369967",
+    "FrameName": "OG 086",
+    "Material": "Safety",
+    "Color": "BLACK CHROME",
+    "ColorTags": [
+      "BLACK",
+      "SILVER"
+    ],
+    "EyeSize": 53,
+    "DBL": 19,
+    "B": 36,
+    "Temple": 140,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "OG_086_53_BLACK_CHROME_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "10164369998",
+    "FrameName": "OG 086",
+    "Material": "Safety",
+    "Color": "CHOC. CHROME",
+    "ColorTags": [
+      "BROWN",
+      "SILVER"
+    ],
+    "EyeSize": 53,
+    "DBL": 19,
+    "B": 36,
+    "Temple": 140,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "OG_086_53_CHOC._CHROME_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "10164376668",
+    "FrameName": "OG 144",
+    "Material": "Safety",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 54,
+    "DBL": 0,
+    "B": 0,
+    "Temple": 0,
+    "FramePD": 0,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "OG_144_54_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "10164505464",
+    "FrameName": "OG 401 A",
+    "Material": "Safety",
+    "Color": "PURPLE",
+    "ColorTags": [
+      "PURPLE"
+    ],
+    "EyeSize": 52,
+    "DBL": 0,
+    "B": 0,
+    "Temple": 0,
+    "FramePD": 0,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "OG_401_A_52_PURPLE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "10164611950",
+    "FrameName": "SIDE SHIELD",
+    "Material": "",
+    "Color": "",
+    "ColorTags": [
+    ],
+    "EyeSize": 0,
+    "DBL": 0,
+    "B": 0,
+    "Temple": 0,
+    "FramePD": 0,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "SIDE_SHIELD___Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "1111100000",
+    "FrameName": "POF",
+    "Material": "Plastic",
+    "Color": "xxxxx",
+    "ColorTags": [
+    ],
+    "EyeSize": 0,
+    "DBL": 0,
+    "B": 0,
+    "Temple": 0,
+    "FramePD": 0,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "POF__xxxxx_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "11112877",
+    "FrameName": "GRANDE",
+    "Material": "Metal",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 58,
+    "DBL": 20,
+    "B": 37,
+    "Temple": 150,
+    "FramePD": 78,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "GRANDE_58_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "11112885",
+    "FrameName": "GRANDE",
+    "Material": "Metal",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 60,
+    "DBL": 20,
+    "B": 39,
+    "Temple": 155,
+    "FramePD": 80,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "GRANDE_60_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "11112893",
+    "FrameName": "GRANDE",
+    "Material": "Metal",
+    "Color": "DARK GREY",
+    "ColorTags": [
+      "GREY"
+    ],
+    "EyeSize": 58,
+    "DBL": 20,
+    "B": 37,
+    "Temple": 150,
+    "FramePD": 78,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "GRANDE_58_DARK_GREY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "11112901",
+    "FrameName": "GRANDE",
+    "Material": "Metal",
+    "Color": "DARK GREY",
+    "ColorTags": [
+      "GREY"
+    ],
+    "EyeSize": 60,
+    "DBL": 20,
+    "B": 39,
+    "Temple": 155,
+    "FramePD": 80,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "GRANDE_60_DARK_GREY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "11123700",
+    "FrameName": "VERTEX ",
+    "Material": "Metal",
+    "Color": "BURGUNDY",
+    "ColorTags": [
+      "RED"
+    ],
+    "EyeSize": 48,
+    "DBL": 18,
+    "B": 29,
+    "Temple": 140,
+    "FramePD": 66,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "VERTEX__48_BURGUNDY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "11123726",
+    "FrameName": "VERTEX ",
+    "Material": "Metal",
+    "Color": "NAVY",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 48,
+    "DBL": 18,
+    "B": 29,
+    "Temple": 140,
+    "FramePD": 66,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "VERTEX__48_NAVY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "11123742",
+    "FrameName": "VERTEX ",
+    "Material": "Metal",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 48,
+    "DBL": 18,
+    "B": 29,
+    "Temple": 140,
+    "FramePD": 66,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "VERTEX__48_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "11125283",
+    "FrameName": "FRACTION ",
+    "Material": "Metal",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 48,
+    "DBL": 19,
+    "B": 26,
+    "Temple": 140,
+    "FramePD": 67,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FRACTION__48_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "11125291",
+    "FrameName": "FRACTION ",
+    "Material": "Metal",
+    "Color": "CHOCOLATE",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 48,
+    "DBL": 19,
+    "B": 26,
+    "Temple": 140,
+    "FramePD": 67,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FRACTION__48_CHOCOLATE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "11125309",
+    "FrameName": "FRACTION ",
+    "Material": "Metal",
+    "Color": "NAVY",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 48,
+    "DBL": 19,
+    "B": 26,
+    "Temple": 140,
+    "FramePD": 67,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FRACTION__48_NAVY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "11126299",
+    "FrameName": "MEDIAN ",
+    "Material": "Metal",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 50,
+    "DBL": 20,
+    "B": 35,
+    "Temple": 140,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "MEDIAN__50_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "11126307",
+    "FrameName": "MEDIAN ",
+    "Material": "Metal",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 50,
+    "DBL": 20,
+    "B": 35,
+    "Temple": 140,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "MEDIAN__50_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "11126315",
+    "FrameName": "MEDIAN ",
+    "Material": "Metal",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 50,
+    "DBL": 20,
+    "B": 35,
+    "Temple": 140,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "MEDIAN__50_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "11126323",
+    "FrameName": "MEDIAN ",
+    "Material": "Metal",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 54,
+    "DBL": 20,
+    "B": 39,
+    "Temple": 145,
+    "FramePD": 74,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "MEDIAN__54_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "11126331",
+    "FrameName": "MEDIAN ",
+    "Material": "Metal",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 54,
+    "DBL": 20,
+    "B": 39,
+    "Temple": 145,
+    "FramePD": 74,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "MEDIAN__54_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "11126349",
+    "FrameName": "MEDIAN ",
+    "Material": "Metal",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 54,
+    "DBL": 20,
+    "B": 39,
+    "Temple": 145,
+    "FramePD": 74,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "MEDIAN__54_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "11165362",
+    "FrameName": "TR 9006",
+    "Material": "Plastic",
+    "Color": "DEMI AMBER",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 51,
+    "DBL": 16,
+    "B": 41,
+    "Temple": 140,
+    "FramePD": 67,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "TR_9006_51_DEMI_AMBER_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "11165370",
+    "FrameName": "TR 9006",
+    "Material": "Plastic",
+    "Color": "DEMI BURGUNDY",
+    "ColorTags": [
+      "RED"
+    ],
+    "EyeSize": 51,
+    "DBL": 16,
+    "B": 41,
+    "Temple": 140,
+    "FramePD": 67,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "TR_9006_51_DEMI_BURGUNDY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "11165388",
+    "FrameName": "TR 9006",
+    "Material": "Plastic",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 51,
+    "DBL": 16,
+    "B": 41,
+    "Temple": 140,
+    "FramePD": 67,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "TR_9006_51_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "675254111101",
+    "FrameName": "JAZZ",
+    "Material": "Metal",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 52,
+    "DBL": 18,
+    "B": 29,
+    "Temple": 140,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "JAZZ_52_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "675254111125",
+    "FrameName": "JAZZ",
+    "Material": "Metal",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 52,
+    "DBL": 18,
+    "B": 29,
+    "Temple": 140,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "JAZZ_52_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "675254111132",
+    "FrameName": "JAZZ",
+    "Material": "Metal",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 54,
+    "DBL": 18,
+    "B": 31,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "JAZZ_54_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "675254111149",
+    "FrameName": "JAZZ",
+    "Material": "Metal",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 52,
+    "DBL": 18,
+    "B": 29,
+    "Temple": 140,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "JAZZ_52_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "675254111156",
+    "FrameName": "JAZZ",
+    "Material": "Metal",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 54,
+    "DBL": 18,
+    "B": 31,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "JAZZ_54_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "675254115529",
+    "FrameName": "JAZZ",
+    "Material": "Metal",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 54,
+    "DBL": 18,
+    "B": 31,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "JAZZ_54_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "675254145458",
+    "FrameName": "JAZZ",
+    "Material": "Metal",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 56,
+    "DBL": 18,
+    "B": 34,
+    "Temple": 150,
+    "FramePD": 74,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "JAZZ_56_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "675254145465",
+    "FrameName": "JAZZ",
+    "Material": "Metal",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 56,
+    "DBL": 18,
+    "B": 34,
+    "Temple": 150,
+    "FramePD": 74,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "JAZZ_56_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "675254145519",
+    "FrameName": "JAZZ",
+    "Material": "Metal",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 56,
+    "DBL": 18,
+    "B": 34,
+    "Temple": 150,
+    "FramePD": 74,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "JAZZ_56_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "712316002509",
+    "FrameName": "AXIS",
+    "Material": "Safety",
+    "Color": "DARK GUN/GRN",
+    "ColorTags": [
+      "GUNMETAL",
+      "GREEN"
+    ],
+    "EyeSize": 58,
+    "DBL": 16,
+    "B": 35,
+    "Temple": 140,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "AXIS_58_DARK_GUN/GRN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "712316002523",
+    "FrameName": "AXIS",
+    "Material": "Safety",
+    "Color": "SILVER/BLACK",
+    "ColorTags": [
+      "SILVER",
+      "BLACK"
+    ],
+    "EyeSize": 58,
+    "DBL": 16,
+    "B": 35,
+    "Temple": 140,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "AXIS_58_SILVER/BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "712316008938",
+    "FrameName": "SPECTRE",
+    "Material": "Safety",
+    "Color": "MATTE BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 54,
+    "DBL": 17,
+    "B": 36,
+    "Temple": 135,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "SPECTRE_54_MATTE_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "712316008945",
+    "FrameName": "SPECTRE",
+    "Material": "Safety",
+    "Color": "CRYSTAL/GREY",
+    "ColorTags": [
+      "CLEAR",
+      "GREY"
+    ],
+    "EyeSize": 54,
+    "DBL": 17,
+    "B": 36,
+    "Temple": 135,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "SPECTRE_54_CRYSTAL/GREY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317119251",
+    "FrameName": "EN 5716",
+    "Material": "Plastic",
+    "Color": "BROWN FADE",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 56,
+    "DBL": 22,
+    "B": 48,
+    "Temple": 150,
+    "FramePD": 78,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EN_5716_56_BROWN_FADE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317119268",
+    "FrameName": "EN 5716",
+    "Material": "Plastic",
+    "Color": "GREY FADE",
+    "ColorTags": [
+      "GREY"
+    ],
+    "EyeSize": 52,
+    "DBL": 22,
+    "B": 44,
+    "Temple": 140,
+    "FramePD": 74,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EN_5716_52_GREY_FADE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317119282",
+    "FrameName": "EN 5716",
+    "Material": "Plastic",
+    "Color": "GREY FADE",
+    "ColorTags": [
+      "GREY"
+    ],
+    "EyeSize": 56,
+    "DBL": 22,
+    "B": 48,
+    "Temple": 150,
+    "FramePD": 78,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EN_5716_56_GREY_FADE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317150247",
+    "FrameName": "H 4629",
+    "Material": "Combination",
+    "Color": "GOLD/TORT",
+    "ColorTags": [
+      "GOLD",
+      "TORTOISE"
+    ],
+    "EyeSize": 51,
+    "DBL": 17,
+    "B": 37,
+    "Temple": 140,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "H_4629_51_GOLD/TORT_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317150254",
+    "FrameName": "H 4629",
+    "Material": "Combination",
+    "Color": "SILVER/BLACK",
+    "ColorTags": [
+      "SILVER",
+      "BLACK"
+    ],
+    "EyeSize": 51,
+    "DBL": 17,
+    "B": 37,
+    "Temple": 140,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "H_4629_51_SILVER/BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317161588",
+    "FrameName": "H 4617",
+    "Material": "Plastic",
+    "Color": "COBALT/BLACK",
+    "ColorTags": [
+      "BLACK",
+      "BLUE"
+    ],
+    "EyeSize": 52,
+    "DBL": 17,
+    "B": 34,
+    "Temple": 140,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "H_4617_52_COBALT/BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317161618",
+    "FrameName": "H 4617",
+    "Material": "Plastic",
+    "Color": "BLACK/PINK",
+    "ColorTags": [
+      "BLACK",
+      "PINK"
+    ],
+    "EyeSize": 52,
+    "DBL": 17,
+    "B": 34,
+    "Temple": 140,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "H_4617_52_BLACK/PINK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317161663",
+    "FrameName": "H 4617",
+    "Material": "Plastic",
+    "Color": "RED/CRYSTAL ",
+    "ColorTags": [
+      "RED",
+      "CLEAR"
+    ],
+    "EyeSize": 52,
+    "DBL": 17,
+    "B": 34,
+    "Temple": 140,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "H_4617_52_RED/CRYSTAL__Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317161670",
+    "FrameName": "H 4617",
+    "Material": "Plastic",
+    "Color": "TEAL/BLACK",
+    "ColorTags": [
+      "BLUE",
+      "BLACK"
+    ],
+    "EyeSize": 52,
+    "DBL": 17,
+    "B": 34,
+    "Temple": 140,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "H_4617_52_TEAL/BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317162073",
+    "FrameName": "H 4629",
+    "Material": "Combination",
+    "Color": "TORTOISE/GUN",
+    "ColorTags": [
+      "TORTOISE",
+      "GUNMETAL",
+      "BLACK",
+      "BROWN"
+    ],
+    "EyeSize": 51,
+    "DBL": 17,
+    "B": 37,
+    "Temple": 140,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "H_4629_51_TORTOISE/GUN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317162080",
+    "FrameName": "H 4629",
+    "Material": "Combination",
+    "Color": "BLACK/GUN",
+    "ColorTags": [
+      "BLACK",
+      "GUNMETAL"
+    ],
+    "EyeSize": 51,
+    "DBL": 17,
+    "B": 37,
+    "Temple": 140,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "H_4629_51_BLACK/GUN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317164145",
+    "FrameName": "H 4665",
+    "Material": "Plastic",
+    "Color": "MATTE TORT",
+    "ColorTags": [
+      "TORTOISE",
+      "BROWN",
+      "BLACK"
+    ],
+    "EyeSize": 53,
+    "DBL": 19,
+    "B": 35,
+    "Temple": 150,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "H_4665_53_MATTE_TORT_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317164152",
+    "FrameName": "H 4665",
+    "Material": "Plastic",
+    "Color": "MATTE BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 53,
+    "DBL": 19,
+    "B": 35,
+    "Temple": 150,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "H_4665_53_MATTE_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317169201",
+    "FrameName": "EH 4679",
+    "Material": "Plastic",
+    "Color": "BROWN MIST",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 53,
+    "DBL": 17,
+    "B": 35,
+    "Temple": 140,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EH_4679_53_BROWN_MIST_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317169218",
+    "FrameName": "EH 4679",
+    "Material": "Plastic",
+    "Color": "GREY MIST",
+    "ColorTags": [
+      "GREY"
+    ],
+    "EyeSize": 53,
+    "DBL": 17,
+    "B": 35,
+    "Temple": 140,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EH_4679_53_GREY_MIST_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317169843",
+    "FrameName": "J 5903",
+    "Material": "Metal",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 52,
+    "DBL": 18,
+    "B": 38,
+    "Temple": 140,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "J_5903_52_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317169850",
+    "FrameName": "J 5903",
+    "Material": "Metal",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 54,
+    "DBL": 18,
+    "B": 42,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "J_5903_54_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317169867",
+    "FrameName": "J 5903",
+    "Material": "Metal",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 56,
+    "DBL": 18,
+    "B": 42,
+    "Temple": 1445,
+    "FramePD": 74,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "J_5903_56_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317169874",
+    "FrameName": "J 5903",
+    "Material": "Metal",
+    "Color": "GOLD",
+    "ColorTags": [
+      "GOLD"
+    ],
+    "EyeSize": 52,
+    "DBL": 18,
+    "B": 38,
+    "Temple": 140,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "J_5903_52_GOLD_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317169881",
+    "FrameName": "J 5903",
+    "Material": "Metal",
+    "Color": "GOLD",
+    "ColorTags": [
+      "GOLD"
+    ],
+    "EyeSize": 54,
+    "DBL": 18,
+    "B": 42,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "J_5903_54_GOLD_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317169898",
+    "FrameName": "J 5903",
+    "Material": "Metal",
+    "Color": "GOLD",
+    "ColorTags": [
+      "GOLD"
+    ],
+    "EyeSize": 56,
+    "DBL": 18,
+    "B": 42,
+    "Temple": 1445,
+    "FramePD": 74,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "J_5903_56_GOLD_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317169904",
+    "FrameName": "J 5903",
+    "Material": "Metal",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 52,
+    "DBL": 18,
+    "B": 38,
+    "Temple": 140,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "J_5903_52_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317169911",
+    "FrameName": "J 5903",
+    "Material": "Metal",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 54,
+    "DBL": 18,
+    "B": 42,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "J_5903_54_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317169928",
+    "FrameName": "J 5903",
+    "Material": "Metal",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 56,
+    "DBL": 18,
+    "B": 42,
+    "Temple": 1445,
+    "FramePD": 74,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "J_5903_56_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317170429",
+    "FrameName": "VS 9311",
+    "Material": "Semi Rimless",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 53,
+    "DBL": 17,
+    "B": 30,
+    "Temple": 140,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "VS_9311_53_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317170436",
+    "FrameName": "VS 9311",
+    "Material": "Semi Rimless",
+    "Color": "PURPLE",
+    "ColorTags": [
+      "PURPLE"
+    ],
+    "EyeSize": 53,
+    "DBL": 17,
+    "B": 30,
+    "Temple": 140,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "VS_9311_53_PURPLE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317178272",
+    "FrameName": "EQ 1508",
+    "Material": "Plastic",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 51,
+    "DBL": 17,
+    "B": 35,
+    "Temple": 140,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EQ_1508_51_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317178289",
+    "FrameName": "EQ 1508",
+    "Material": "Plastic",
+    "Color": "COBALT",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 51,
+    "DBL": 17,
+    "B": 35,
+    "Temple": 140,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EQ_1508_51_COBALT_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317178302",
+    "FrameName": "EQ 1508",
+    "Material": "Plastic",
+    "Color": "TORTOISE",
+    "ColorTags": [
+      "TORTOISE",
+      "BLACK",
+      "BROWN"
+    ],
+    "EyeSize": 51,
+    "DBL": 17,
+    "B": 35,
+    "Temple": 140,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EQ_1508_51_TORTOISE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317178425",
+    "FrameName": "EQ 1513",
+    "Material": "Plastic",
+    "Color": "BRIER",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 54,
+    "DBL": 17,
+    "B": 37,
+    "Temple": 145,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EQ_1513_54_BRIER_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317178432",
+    "FrameName": "EQ 1513",
+    "Material": "Plastic",
+    "Color": "NAVY",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 54,
+    "DBL": 17,
+    "B": 37,
+    "Temple": 145,
+    "FramePD": 71,
+    "BackOrdered": true,
+    "Discontinued": false,
+    "HeroImage": "EQ_1513_54_NAVY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317181517",
+    "FrameName": "EN 4011",
+    "Material": "Metal",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 48,
+    "DBL": 18,
+    "B": 41,
+    "Temple": 140,
+    "FramePD": 66,
+    "BackOrdered": true,
+    "Discontinued": false,
+    "HeroImage": "EN_4011_48_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317181524",
+    "FrameName": "EN 4011",
+    "Material": "Metal",
+    "Color": "GUN",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 48,
+    "DBL": 18,
+    "B": 41,
+    "Temple": 140,
+    "FramePD": 66,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EN_4011_48_GUN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317183399",
+    "FrameName": "EQ 1513",
+    "Material": "Plastic",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 54,
+    "DBL": 17,
+    "B": 37,
+    "Temple": 145,
+    "FramePD": 71,
+    "BackOrdered": true,
+    "Discontinued": false,
+    "HeroImage": "EQ_1513_54_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317183412",
+    "FrameName": "H 4665",
+    "Material": "Plastic",
+    "Color": "SHINY BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 53,
+    "DBL": 19,
+    "B": 35,
+    "Temple": 150,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "H_4665_53_SHINY_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317183429",
+    "FrameName": "H 4665",
+    "Material": "Plastic",
+    "Color": "SHINY TORT",
+    "ColorTags": [
+      "TORTOISE",
+      "BROWN",
+      "BLACK"
+    ],
+    "EyeSize": 53,
+    "DBL": 19,
+    "B": 35,
+    "Temple": 150,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "H_4665_53_SHINY_TORT_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317186376",
+    "FrameName": "EQ 1547",
+    "Material": "Metal",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 54,
+    "DBL": 18,
+    "B": 36,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EQ_1547_54_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317186383",
+    "FrameName": "EQ 1547",
+    "Material": "Metal",
+    "Color": "NAVY",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 54,
+    "DBL": 18,
+    "B": 36,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EQ_1547_54_NAVY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317187441",
+    "FrameName": "MC 6244",
+    "Material": "Plastic",
+    "Color": "TEAL MIX",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 54,
+    "DBL": 15,
+    "B": 41,
+    "Temple": 140,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "MC_6244_54_TEAL_MIX_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317187458",
+    "FrameName": "MC 6244",
+    "Material": "Plastic",
+    "Color": "LAVENDER MIX",
+    "ColorTags": [
+      "PURPLE"
+    ],
+    "EyeSize": 54,
+    "DBL": 15,
+    "B": 41,
+    "Temple": 140,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "MC_6244_54_LAVENDER_MIX_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317187465",
+    "FrameName": "MC 6244",
+    "Material": "Plastic",
+    "Color": "BROWN PEARL MIX",
+    "ColorTags": [
+      "BROWN",
+      "WHITE"
+    ],
+    "EyeSize": 54,
+    "DBL": 15,
+    "B": 41,
+    "Temple": 140,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "MC_6244_54_BROWN_PEARL_MIX_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317191363",
+    "FrameName": "7765",
+    "Material": "Metal",
+    "Color": "Brown",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 54,
+    "DBL": 16,
+    "B": 39,
+    "Temple": 140,
+    "FramePD": 70,
+    "BackOrdered": true,
+    "Discontinued": false,
+    "HeroImage": "7765_54_Brown_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317191370",
+    "FrameName": "7765",
+    "Material": "Metal",
+    "Color": "Brown",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 57,
+    "DBL": 16,
+    "B": 42,
+    "Temple": 145,
+    "FramePD": 73,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "7765_57_Brown_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317191387",
+    "FrameName": "7765",
+    "Material": "Metal",
+    "Color": "Gunmetal",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 54,
+    "DBL": 16,
+    "B": 39,
+    "Temple": 140,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "7765_54_Gunmetal_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317191394",
+    "FrameName": "7765",
+    "Material": "Metal",
+    "Color": "Gunmetal",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 57,
+    "DBL": 16,
+    "B": 42,
+    "Temple": 145,
+    "FramePD": 73,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "7765_57_Gunmetal_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317191400",
+    "FrameName": "7766",
+    "Material": "Metal",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 54,
+    "DBL": 16,
+    "B": 40,
+    "Temple": 145,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "7766_54_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317191417",
+    "FrameName": "7766",
+    "Material": "Metal",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 57,
+    "DBL": 16,
+    "B": 43,
+    "Temple": 150,
+    "FramePD": 73,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "7766_57_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317191424",
+    "FrameName": "7766",
+    "Material": "Metal",
+    "Color": "GUN",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 54,
+    "DBL": 16,
+    "B": 40,
+    "Temple": 145,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "7766_54_GUN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317191431",
+    "FrameName": "7766",
+    "Material": "Metal",
+    "Color": "GUN",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 57,
+    "DBL": 16,
+    "B": 43,
+    "Temple": 150,
+    "FramePD": 73,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "7766_57_GUN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317191448",
+    "FrameName": "EQ 7857",
+    "Material": "Plastic",
+    "Color": "BROWN ",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 53,
+    "DBL": 18,
+    "B": 34,
+    "Temple": 145,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EQ_7857_53_BROWN__Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317191455",
+    "FrameName": "EQ 7857",
+    "Material": "Plastic",
+    "Color": "BROWN ",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 56,
+    "DBL": 18,
+    "B": 37,
+    "Temple": 150,
+    "FramePD": 74,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EQ_7857_56_BROWN__Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317191462",
+    "FrameName": "EQ 7857",
+    "Material": "Plastic",
+    "Color": "MATT BLACK ",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 53,
+    "DBL": 18,
+    "B": 34,
+    "Temple": 145,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EQ_7857_53_MATT_BLACK__Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317191479",
+    "FrameName": "EQ 7857",
+    "Material": "Plastic",
+    "Color": "MATT BLACK ",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 56,
+    "DBL": 18,
+    "B": 37,
+    "Temple": 150,
+    "FramePD": 74,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EQ_7857_56_MATT_BLACK__Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317191486",
+    "FrameName": "EQ 7857",
+    "Material": "Plastic",
+    "Color": "SHINY BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 53,
+    "DBL": 18,
+    "B": 34,
+    "Temple": 145,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EQ_7857_53_SHINY_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317191493",
+    "FrameName": "EQ 7857",
+    "Material": "Plastic",
+    "Color": "SHINY BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 56,
+    "DBL": 18,
+    "B": 37,
+    "Temple": 150,
+    "FramePD": 74,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EQ_7857_56_SHINY_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317191509",
+    "FrameName": "EQ 8844 ",
+    "Material": "Semi Rimless",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 55,
+    "DBL": 19,
+    "B": 35,
+    "Temple": 145,
+    "FramePD": 74,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EQ_8844__55_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317191516",
+    "FrameName": "EQ 8844 ",
+    "Material": "Semi Rimless",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 55,
+    "DBL": 19,
+    "B": 35,
+    "Temple": 145,
+    "FramePD": 74,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EQ_8844__55_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317191806",
+    "FrameName": "MC 6254",
+    "Material": "Plastic",
+    "Color": "PURPLE TORT",
+    "ColorTags": [
+      "PURPLE",
+      "TORTOISE"
+    ],
+    "EyeSize": 56,
+    "DBL": 17,
+    "B": 42,
+    "Temple": 145,
+    "FramePD": 73,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "MC_6254_56_PURPLE_TORT_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317191813",
+    "FrameName": "MC 6254",
+    "Material": "Plastic",
+    "Color": "BURGUNDY TORT",
+    "ColorTags": [
+      "RED",
+      "TORTOISE"
+    ],
+    "EyeSize": 56,
+    "DBL": 17,
+    "B": 42,
+    "Temple": 145,
+    "FramePD": 73,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "MC_6254_56_BURGUNDY_TORT_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317192544",
+    "FrameName": "EN 4093",
+    "Material": "Metal",
+    "Color": "PURPLE",
+    "ColorTags": [
+      "PURPLE"
+    ],
+    "EyeSize": 46,
+    "DBL": 21,
+    "B": 42,
+    "Temple": 135,
+    "FramePD": 67,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EN_4093_46_PURPLE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317192551",
+    "FrameName": "EN 4093",
+    "Material": "Metal",
+    "Color": "BLUE",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 46,
+    "DBL": 21,
+    "B": 42,
+    "Temple": 135,
+    "FramePD": 67,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EN_4093_46_BLUE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317192568",
+    "FrameName": "EN 4093",
+    "Material": "Metal",
+    "Color": "RED",
+    "ColorTags": [
+      "RED"
+    ],
+    "EyeSize": 46,
+    "DBL": 21,
+    "B": 42,
+    "Temple": 135,
+    "FramePD": 67,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EN_4093_46_RED_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317192575",
+    "FrameName": "EN 4093",
+    "Material": "Metal",
+    "Color": "GREEN",
+    "ColorTags": [
+      "GREEN"
+    ],
+    "EyeSize": 46,
+    "DBL": 21,
+    "B": 42,
+    "Temple": 135,
+    "FramePD": 67,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EN_4093_46_GREEN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317193107",
+    "FrameName": "H 4835",
+    "Material": "Plastic",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 50,
+    "DBL": 19,
+    "B": 45,
+    "Temple": 145,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "H_4835_50_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317193114",
+    "FrameName": "H 4835",
+    "Material": "Plastic",
+    "Color": "TORTOISE",
+    "ColorTags": [
+      "TORTOISE",
+      "BLACK",
+      "BROWN"
+    ],
+    "EyeSize": 50,
+    "DBL": 19,
+    "B": 45,
+    "Temple": 145,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "H_4835_50_TORTOISE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317193121",
+    "FrameName": "H 4835",
+    "Material": "Plastic",
+    "Color": "CRYSTAL",
+    "ColorTags": [
+      "CLEAR"
+    ],
+    "EyeSize": 50,
+    "DBL": 19,
+    "B": 45,
+    "Temple": 145,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "H_4835_50_CRYSTAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317193688",
+    "FrameName": "EN 4011",
+    "Material": "Metal",
+    "Color": "GOLD",
+    "ColorTags": [
+      "GOLD"
+    ],
+    "EyeSize": 48,
+    "DBL": 18,
+    "B": 41,
+    "Temple": 140,
+    "FramePD": 66,
+    "BackOrdered": true,
+    "Discontinued": false,
+    "HeroImage": "EN_4011_48_GOLD_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317194494",
+    "FrameName": "EN 4091",
+    "Material": "Metal",
+    "Color": "SILVER",
+    "ColorTags": [
+      "SILVER"
+    ],
+    "EyeSize": 50,
+    "DBL": 22,
+    "B": 30,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EN_4091_50_SILVER_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317194500",
+    "FrameName": "EN 4091",
+    "Material": "Metal",
+    "Color": "GOLD",
+    "ColorTags": [
+      "GOLD"
+    ],
+    "EyeSize": 50,
+    "DBL": 22,
+    "B": 30,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EN_4091_50_GOLD_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317194517",
+    "FrameName": "EN 4091",
+    "Material": "Metal",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 50,
+    "DBL": 22,
+    "B": 30,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EN_4091_50_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317194906",
+    "FrameName": "MC 6268",
+    "Material": "Plastic",
+    "Color": "BLUE AMBER",
+    "ColorTags": [
+      "BLUE",
+      "BROWN"
+    ],
+    "EyeSize": 53,
+    "DBL": 16,
+    "B": 38,
+    "Temple": 140,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "MC_6268_53_BLUE_AMBER_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317194913",
+    "FrameName": "MC 6268",
+    "Material": "Plastic",
+    "Color": "PINK AMBER",
+    "ColorTags": [
+      "PINK",
+      "BROWN"
+    ],
+    "EyeSize": 53,
+    "DBL": 16,
+    "B": 38,
+    "Temple": 140,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "MC_6268_53_PINK_AMBER_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317194920",
+    "FrameName": "MC 6268",
+    "Material": "Plastic",
+    "Color": "PURPLE AMBER",
+    "ColorTags": [
+      "PURPLE",
+      "BROWN"
+    ],
+    "EyeSize": 53,
+    "DBL": 16,
+    "B": 38,
+    "Temple": 140,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "MC_6268_53_PURPLE_AMBER_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317195750",
+    "FrameName": "EN 4090",
+    "Material": "Metal",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 48,
+    "DBL": 18,
+    "B": 32,
+    "Temple": 140,
+    "FramePD": 66,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EN_4090_48_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317195774",
+    "FrameName": "EN 4090",
+    "Material": "Metal",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 48,
+    "DBL": 18,
+    "B": 32,
+    "Temple": 140,
+    "FramePD": 66,
+    "BackOrdered": true,
+    "Discontinued": false,
+    "HeroImage": "EN_4090_48_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317202045",
+    "FrameName": "MC 6278",
+    "Material": "Metal",
+    "Color": "SATIN BLK/GOLD",
+    "ColorTags": [
+      "BLACK",
+      "GOLD"
+    ],
+    "EyeSize": 52,
+    "DBL": 18,
+    "B": 42,
+    "Temple": 140,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "MC_6278_52_SATIN_BLK/GOLD_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317202052",
+    "FrameName": "MC 6278",
+    "Material": "Metal",
+    "Color": "SATIN RED/GOLD",
+    "ColorTags": [
+      "RED",
+      "GOLD"
+    ],
+    "EyeSize": 52,
+    "DBL": 18,
+    "B": 42,
+    "Temple": 140,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "MC_6278_52_SATIN_RED/GOLD_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317202069",
+    "FrameName": "MC 6278",
+    "Material": "Metal",
+    "Color": "SATIN PURP/GOLD",
+    "ColorTags": [
+      "PURPLE",
+      "GOLD"
+    ],
+    "EyeSize": 52,
+    "DBL": 18,
+    "B": 42,
+    "Temple": 140,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "MC_6278_52_SATIN_PURP/GOLD_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317203271",
+    "FrameName": "H 4858",
+    "Material": "Semi Rimless",
+    "Color": "SILVER",
+    "ColorTags": [
+      "SILVER"
+    ],
+    "EyeSize": 49,
+    "DBL": 19,
+    "B": 44,
+    "Temple": 140,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "H_4858_49_SILVER_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317203288",
+    "FrameName": "H 4858",
+    "Material": "Semi Rimless",
+    "Color": "GOLD",
+    "ColorTags": [
+      "GOLD"
+    ],
+    "EyeSize": 49,
+    "DBL": 19,
+    "B": 44,
+    "Temple": 140,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "H_4858_49_GOLD_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317203295",
+    "FrameName": "H 4858",
+    "Material": "Semi Rimless",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 49,
+    "DBL": 19,
+    "B": 44,
+    "Temple": 140,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "H_4858_49_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317204070",
+    "FrameName": "EN 5716",
+    "Material": "Plastic",
+    "Color": "BROWN FADE",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 52,
+    "DBL": 22,
+    "B": 44,
+    "Temple": 140,
+    "FramePD": 74,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EN_5716_52_BROWN_FADE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317204087",
+    "FrameName": "EN 5716",
+    "Material": "Plastic",
+    "Color": "BROWN FADE",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 54,
+    "DBL": 22,
+    "B": 46,
+    "Temple": 145,
+    "FramePD": 76,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EN_5716_54_BROWN_FADE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317204117",
+    "FrameName": "EN 5716",
+    "Material": "Plastic",
+    "Color": "GREY FADE",
+    "ColorTags": [
+      "GREY"
+    ],
+    "EyeSize": 54,
+    "DBL": 22,
+    "B": 46,
+    "Temple": 145,
+    "FramePD": 76,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EN_5716_54_GREY_FADE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317204414",
+    "FrameName": "MC 6284",
+    "Material": "Plastic",
+    "Color": "GREEN FADE",
+    "ColorTags": [
+      "GREEN"
+    ],
+    "EyeSize": 50,
+    "DBL": 18,
+    "B": 45,
+    "Temple": 143,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "MC_6284_50_GREEN_FADE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317204421",
+    "FrameName": "MC 6284",
+    "Material": "Plastic",
+    "Color": "MAUVE FADE",
+    "ColorTags": [
+      "PURPLE"
+    ],
+    "EyeSize": 50,
+    "DBL": 18,
+    "B": 45,
+    "Temple": 143,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "MC_6284_50_MAUVE_FADE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317204438",
+    "FrameName": "MC 6284",
+    "Material": "Plastic",
+    "Color": "PURPLE FADE",
+    "ColorTags": [
+      "PURPLE"
+    ],
+    "EyeSize": 50,
+    "DBL": 18,
+    "B": 45,
+    "Temple": 143,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "MC_6284_50_PURPLE_FADE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317206784",
+    "FrameName": "EQ 6733",
+    "Material": "Semi Rimless",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 54,
+    "DBL": 0,
+    "B": 0,
+    "Temple": 0,
+    "FramePD": 0,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "EQ_6733_54_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317206791",
+    "FrameName": "EQ 6733",
+    "Material": "Semi Rimless",
+    "Color": "BROWN ",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 54,
+    "DBL": 0,
+    "B": 0,
+    "Temple": 0,
+    "FramePD": 0,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "EQ_6733_54_BROWN__Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317206807",
+    "FrameName": "EQ 6763",
+    "Material": "Semi Rimless",
+    "Color": "BROWN ",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 57,
+    "DBL": 17,
+    "B": 34,
+    "Temple": 145,
+    "FramePD": 74,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EQ_6763_57_BROWN__Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317206814",
+    "FrameName": "EQ 6763",
+    "Material": "Semi Rimless",
+    "Color": "GUN",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 57,
+    "DBL": 17,
+    "B": 34,
+    "Temple": 145,
+    "FramePD": 74,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EQ_6763_57_GUN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317206920",
+    "FrameName": "EQ 1611",
+    "Material": "Plastic",
+    "Color": "MATT AMBER",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 53,
+    "DBL": 17,
+    "B": 40,
+    "Temple": 140,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EQ_1611_53_MATT_AMBER_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317206937",
+    "FrameName": "EQ 1611",
+    "Material": "Plastic",
+    "Color": "MATT SLATE",
+    "ColorTags": [
+      "GREY"
+    ],
+    "EyeSize": 53,
+    "DBL": 17,
+    "B": 40,
+    "Temple": 140,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EQ_1611_53_MATT_SLATE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317209150",
+    "FrameName": "EN 4350",
+    "Material": "Plastic",
+    "Color": "SHINY BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 53,
+    "DBL": 19,
+    "B": 44,
+    "Temple": 140,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EN_4350_53_SHINY_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317209211",
+    "FrameName": "EN 4350",
+    "Material": "Plastic",
+    "Color": "SHINY COBALT",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 53,
+    "DBL": 19,
+    "B": 44,
+    "Temple": 140,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EN_4350_53_SHINY_COBALT_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317209303",
+    "FrameName": "EN 4350",
+    "Material": "Plastic",
+    "Color": "SH GRAY CR/MA BLK",
+    "ColorTags": [
+      "GREY",
+      "CLEAR",
+      "BLACK"
+    ],
+    "EyeSize": 53,
+    "DBL": 19,
+    "B": 44,
+    "Temple": 140,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EN_4350_53_SH_GRAY_CR/MA_BLK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317212006",
+    "FrameName": "EQ 1616",
+    "Material": "Plastic",
+    "Color": "BLACK CRYSTAL",
+    "ColorTags": [
+      "BLACK",
+      "CLEAR"
+    ],
+    "EyeSize": 53,
+    "DBL": 16,
+    "B": 40,
+    "Temple": 143,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EQ_1616_53_BLACK_CRYSTAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317212013",
+    "FrameName": "EQ 1616",
+    "Material": "Plastic",
+    "Color": "BROWN CRYSTAL",
+    "ColorTags": [
+      "BROWN",
+      "CLEAR"
+    ],
+    "EyeSize": 53,
+    "DBL": 16,
+    "B": 40,
+    "Temple": 143,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EQ_1616_53_BROWN_CRYSTAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317212907",
+    "FrameName": "EQ 1618",
+    "Material": "Plastic",
+    "Color": "BROWN WAVE",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 54,
+    "DBL": 17,
+    "B": 40,
+    "Temple": 145,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EQ_1618_54_BROWN_WAVE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317212914",
+    "FrameName": "EQ 1618",
+    "Material": "Plastic",
+    "Color": "GREY WAVE",
+    "ColorTags": [
+      "GREY"
+    ],
+    "EyeSize": 54,
+    "DBL": 17,
+    "B": 40,
+    "Temple": 145,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EQ_1618_54_GREY_WAVE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317214925",
+    "FrameName": "EN 4011",
+    "Material": "Metal",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 51,
+    "DBL": 18,
+    "B": 46,
+    "Temple": 143,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EN_4011_51_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317214932",
+    "FrameName": "EN 4011",
+    "Material": "Metal",
+    "Color": "GOLD",
+    "ColorTags": [
+      "GOLD"
+    ],
+    "EyeSize": 51,
+    "DBL": 18,
+    "B": 46,
+    "Temple": 143,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EN_4011_51_GOLD_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "754317214949",
+    "FrameName": "EN 4011",
+    "Material": "Metal",
+    "Color": "GUN",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 51,
+    "DBL": 18,
+    "B": 46,
+    "Temple": 143,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "EN_4011_51_GUN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "819253021577",
+    "FrameName": "D 490",
+    "Material": "Safety",
+    "Color": "BLACK CRYSTAL",
+    "ColorTags": [
+      "BLACK",
+      "CLEAR"
+    ],
+    "EyeSize": 54,
+    "DBL": 16,
+    "B": 31,
+    "Temple": 140,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "D_490_54_BLACK_CRYSTAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "819253021584",
+    "FrameName": "D 490",
+    "Material": "Safety",
+    "Color": "BLACK CRYSTAL",
+    "ColorTags": [
+      "BLACK",
+      "CLEAR"
+    ],
+    "EyeSize": 56,
+    "DBL": 16,
+    "B": 33,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "D_490_56_BLACK_CRYSTAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356062577",
+    "FrameName": "TROJAN",
+    "Material": "Semi Rimless",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 57,
+    "DBL": 17,
+    "B": 32,
+    "Temple": 145,
+    "FramePD": 74,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "TROJAN_57_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356062584",
+    "FrameName": "TROJAN",
+    "Material": "Semi Rimless",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 59,
+    "DBL": 17,
+    "B": 34,
+    "Temple": 150,
+    "FramePD": 76,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "TROJAN_59_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356062591",
+    "FrameName": "TROJAN",
+    "Material": "Semi Rimless",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 57,
+    "DBL": 17,
+    "B": 32,
+    "Temple": 145,
+    "FramePD": 74,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "TROJAN_57_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356062607",
+    "FrameName": "TROJAN",
+    "Material": "Semi Rimless",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 59,
+    "DBL": 17,
+    "B": 34,
+    "Temple": 150,
+    "FramePD": 76,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "TROJAN_59_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356062614",
+    "FrameName": "TROJAN",
+    "Material": "Semi Rimless",
+    "Color": "NAVY",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 57,
+    "DBL": 17,
+    "B": 32,
+    "Temple": 145,
+    "FramePD": 74,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "TROJAN_57_NAVY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356062621",
+    "FrameName": "TROJAN",
+    "Material": "Semi Rimless",
+    "Color": "NAVY",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 59,
+    "DBL": 17,
+    "B": 34,
+    "Temple": 150,
+    "FramePD": 76,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "TROJAN_59_NAVY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356064199",
+    "FrameName": "TERRAPIN",
+    "Material": "Plastic",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 61,
+    "DBL": 18,
+    "B": 38,
+    "Temple": 155,
+    "FramePD": 79,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "TERRAPIN_61_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356064212",
+    "FrameName": "TERRAPIN",
+    "Material": "Plastic",
+    "Color": "TORTOISE",
+    "ColorTags": [
+      "TORTOISE",
+      "BLACK",
+      "BROWN"
+    ],
+    "EyeSize": 61,
+    "DBL": 18,
+    "B": 38,
+    "Temple": 155,
+    "FramePD": 79,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "TERRAPIN_61_TORTOISE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356064410",
+    "FrameName": "COUGAR ",
+    "Material": "Semi Rimless",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 58,
+    "DBL": 17,
+    "B": 33,
+    "Temple": 150,
+    "FramePD": 75,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "COUGAR__58_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356064427",
+    "FrameName": "COUGAR ",
+    "Material": "Semi Rimless",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 58,
+    "DBL": 17,
+    "B": 33,
+    "Temple": 150,
+    "FramePD": 75,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "COUGAR__58_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356064564",
+    "FrameName": "M 573",
+    "Material": "Metal",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 54,
+    "DBL": 17,
+    "B": 44,
+    "Temple": 140,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "M_573_54_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356064571",
+    "FrameName": "M 573",
+    "Material": "Metal",
+    "Color": "GOLD",
+    "ColorTags": [
+      "GOLD"
+    ],
+    "EyeSize": 54,
+    "DBL": 17,
+    "B": 44,
+    "Temple": 140,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "M_573_54_GOLD_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356064588",
+    "FrameName": "M 573",
+    "Material": "Metal",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 54,
+    "DBL": 17,
+    "B": 44,
+    "Temple": 140,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "M_573_54_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356065424",
+    "FrameName": "ROCKAWAY BLVD",
+    "Material": "Semi Rimless",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 52,
+    "DBL": 17,
+    "B": 33,
+    "Temple": 135,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "ROCKAWAY_BLVD_52_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356065431",
+    "FrameName": "ROCKAWAY BLVD",
+    "Material": "Semi Rimless",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 54,
+    "DBL": 17,
+    "B": 34,
+    "Temple": 140,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "ROCKAWAY_BLVD_54_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356065448",
+    "FrameName": "ROCKAWAY BLVD",
+    "Material": "Semi Rimless",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 52,
+    "DBL": 17,
+    "B": 33,
+    "Temple": 135,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "ROCKAWAY_BLVD_52_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356065455",
+    "FrameName": "ROCKAWAY BLVD",
+    "Material": "Semi Rimless",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 54,
+    "DBL": 17,
+    "B": 34,
+    "Temple": 140,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "ROCKAWAY_BLVD_54_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356065462",
+    "FrameName": "ROCKAWAY BLVD",
+    "Material": "Semi Rimless",
+    "Color": "NAVY",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 52,
+    "DBL": 17,
+    "B": 33,
+    "Temple": 135,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "ROCKAWAY_BLVD_52_NAVY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356065479",
+    "FrameName": "ROCKAWAY BLVD",
+    "Material": "Semi Rimless",
+    "Color": "NAVY",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 54,
+    "DBL": 17,
+    "B": 34,
+    "Temple": 140,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "ROCKAWAY_BLVD_54_NAVY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356066032",
+    "FrameName": "LONGHORN",
+    "Material": "Semi Rimless",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 57,
+    "DBL": 18,
+    "B": 33,
+    "Temple": 145,
+    "FramePD": 75,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "LONGHORN_57_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356066056",
+    "FrameName": "LONGHORN",
+    "Material": "Semi Rimless",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 57,
+    "DBL": 18,
+    "B": 33,
+    "Temple": 145,
+    "FramePD": 75,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "LONGHORN_57_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356066070",
+    "FrameName": "LONGHORN",
+    "Material": "Semi Rimless",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 57,
+    "DBL": 18,
+    "B": 33,
+    "Temple": 145,
+    "FramePD": 75,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "LONGHORN_57_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356066780",
+    "FrameName": "BEARCAT",
+    "Material": "Plastic",
+    "Color": "BLACK  ",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 58,
+    "DBL": 17,
+    "B": 38,
+    "Temple": 150,
+    "FramePD": 75,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "BEARCAT_58_BLACK___Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356066803",
+    "FrameName": "BEARCAT",
+    "Material": "Plastic",
+    "Color": "BLACK DEMI",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 58,
+    "DBL": 17,
+    "B": 38,
+    "Temple": 150,
+    "FramePD": 75,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "BEARCAT_58_BLACK_DEMI_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356066827",
+    "FrameName": "BEARCAT",
+    "Material": "Plastic",
+    "Color": "BLUE DEMI",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 58,
+    "DBL": 17,
+    "B": 38,
+    "Temple": 150,
+    "FramePD": 75,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "BEARCAT_58_BLUE_DEMI_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356071364",
+    "FrameName": "ALONDRA",
+    "Material": "Metal",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 56,
+    "DBL": 17,
+    "B": 38,
+    "Temple": 145,
+    "FramePD": 73,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "ALONDRA_56_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356071371",
+    "FrameName": "ALONDRA",
+    "Material": "Metal",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 56,
+    "DBL": 17,
+    "B": 38,
+    "Temple": 145,
+    "FramePD": 73,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "ALONDRA_56_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356071388",
+    "FrameName": "ALONDRA",
+    "Material": "Metal",
+    "Color": "LILAC",
+    "ColorTags": [
+      "PURPLE"
+    ],
+    "EyeSize": 56,
+    "DBL": 17,
+    "B": 38,
+    "Temple": 145,
+    "FramePD": 73,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "ALONDRA_56_LILAC_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356074563",
+    "FrameName": "I 129",
+    "Material": "Metal",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 53,
+    "DBL": 17,
+    "B": 37,
+    "Temple": 140,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "I_129_53_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356074570",
+    "FrameName": "I 129",
+    "Material": "Metal",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 55,
+    "DBL": 17,
+    "B": 38,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "I_129_55_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356074587",
+    "FrameName": "I 129",
+    "Material": "Metal",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 53,
+    "DBL": 17,
+    "B": 37,
+    "Temple": 140,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "I_129_53_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356074594",
+    "FrameName": "I 129",
+    "Material": "Metal",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 55,
+    "DBL": 17,
+    "B": 38,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "I_129_55_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356074600",
+    "FrameName": "I 129",
+    "Material": "Metal",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 53,
+    "DBL": 17,
+    "B": 37,
+    "Temple": 140,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "I_129_53_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356074617",
+    "FrameName": "I 129",
+    "Material": "Metal",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 55,
+    "DBL": 17,
+    "B": 38,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "I_129_55_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356075126",
+    "FrameName": "ZELDA",
+    "Material": "Semi Rimless",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 49,
+    "DBL": 17,
+    "B": 32,
+    "Temple": 135,
+    "FramePD": 66,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "ZELDA_49_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356075133",
+    "FrameName": "ZELDA",
+    "Material": "Semi Rimless",
+    "Color": "BURGUNDY",
+    "ColorTags": [
+      "RED"
+    ],
+    "EyeSize": 49,
+    "DBL": 17,
+    "B": 32,
+    "Temple": 135,
+    "FramePD": 66,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "ZELDA_49_BURGUNDY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356075140",
+    "FrameName": "ZELDA",
+    "Material": "Semi Rimless",
+    "Color": "PLUM",
+    "ColorTags": [
+      "PURPLE"
+    ],
+    "EyeSize": 49,
+    "DBL": 17,
+    "B": 32,
+    "Temple": 135,
+    "FramePD": 66,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "ZELDA_49_PLUM_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356076611",
+    "FrameName": "L 5171 P",
+    "Material": "Metal",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 51,
+    "DBL": 17,
+    "B": 37,
+    "Temple": 140,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "L_5171_P_51_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356076628",
+    "FrameName": "L 5171 P",
+    "Material": "Metal",
+    "Color": "PURPLE",
+    "ColorTags": [
+      "PURPLE"
+    ],
+    "EyeSize": 51,
+    "DBL": 17,
+    "B": 37,
+    "Temple": 140,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "L_5171_P_51_PURPLE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356076635",
+    "FrameName": "L 5171 P",
+    "Material": "Metal",
+    "Color": "NAVY",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 51,
+    "DBL": 17,
+    "B": 37,
+    "Temple": 140,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "L_5171_P_51_NAVY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356077021",
+    "FrameName": "SHARMAIN",
+    "Material": "Metal",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 55,
+    "DBL": 16,
+    "B": 40,
+    "Temple": 140,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "SHARMAIN_55_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356077038",
+    "FrameName": "SHARMAIN",
+    "Material": "Metal",
+    "Color": "PLUM",
+    "ColorTags": [
+      "PURPLE"
+    ],
+    "EyeSize": 55,
+    "DBL": 16,
+    "B": 40,
+    "Temple": 140,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "SHARMAIN_55_PLUM_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356077045",
+    "FrameName": "SHARMAIN",
+    "Material": "Metal",
+    "Color": "SAPPHIRE",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 55,
+    "DBL": 16,
+    "B": 40,
+    "Temple": 140,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "SHARMAIN_55_SAPPHIRE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356079834",
+    "FrameName": "M 591 P",
+    "Material": "Metal",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 54,
+    "DBL": 16,
+    "B": 43,
+    "Temple": 140,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "M_591_P_54_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356079841",
+    "FrameName": "M 591 P",
+    "Material": "Metal",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 56,
+    "DBL": 16,
+    "B": 45,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "M_591_P_56_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356079858",
+    "FrameName": "M 591 P",
+    "Material": "Metal",
+    "Color": "GOLD",
+    "ColorTags": [
+      "GOLD"
+    ],
+    "EyeSize": 54,
+    "DBL": 16,
+    "B": 43,
+    "Temple": 140,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "M_591_P_54_GOLD_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356079865",
+    "FrameName": "M 591 P",
+    "Material": "Metal",
+    "Color": "GOLD",
+    "ColorTags": [
+      "GOLD"
+    ],
+    "EyeSize": 56,
+    "DBL": 16,
+    "B": 45,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "M_591_P_56_GOLD_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356079872",
+    "FrameName": "M 591 P",
+    "Material": "Metal",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 54,
+    "DBL": 16,
+    "B": 43,
+    "Temple": 140,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "M_591_P_54_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356079889",
+    "FrameName": "M 591 P",
+    "Material": "Metal",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 56,
+    "DBL": 16,
+    "B": 45,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "M_591_P_56_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356082964",
+    "FrameName": "BLISS",
+    "Material": "Metal",
+    "Color": "JET",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 53,
+    "DBL": 16,
+    "B": 36,
+    "Temple": 135,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "BLISS_53_JET_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356082971",
+    "FrameName": "BLISS",
+    "Material": "Metal",
+    "Color": "NAVY",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 53,
+    "DBL": 16,
+    "B": 36,
+    "Temple": 135,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "BLISS_53_NAVY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356082988",
+    "FrameName": "BLISS",
+    "Material": "Metal",
+    "Color": "RASPBERRY",
+    "ColorTags": [
+      "RED"
+    ],
+    "EyeSize": 53,
+    "DBL": 16,
+    "B": 36,
+    "Temple": 135,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "BLISS_53_RASPBERRY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356083657",
+    "FrameName": "LARIMER RD",
+    "Material": "Metal",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 54,
+    "DBL": 19,
+    "B": 46,
+    "Temple": 140,
+    "FramePD": 73,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "LARIMER_RD_54_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356083664",
+    "FrameName": "LARIMER RD",
+    "Material": "Metal",
+    "Color": "GOLD",
+    "ColorTags": [
+      "GOLD"
+    ],
+    "EyeSize": 54,
+    "DBL": 19,
+    "B": 46,
+    "Temple": 140,
+    "FramePD": 73,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "LARIMER_RD_54_GOLD_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356083671",
+    "FrameName": "LARIMER RD",
+    "Material": "Metal",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 54,
+    "DBL": 19,
+    "B": 46,
+    "Temple": 140,
+    "FramePD": 73,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "LARIMER_RD_54_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356084432",
+    "FrameName": "MARGIE",
+    "Material": "Plastic",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 56,
+    "DBL": 17,
+    "B": 43,
+    "Temple": 145,
+    "FramePD": 73,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "MARGIE_56_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356084449",
+    "FrameName": "MARGIE",
+    "Material": "Plastic",
+    "Color": "HAVANA",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 56,
+    "DBL": 17,
+    "B": 43,
+    "Temple": 145,
+    "FramePD": 73,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "MARGIE_56_HAVANA_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356084456",
+    "FrameName": "MARGIE",
+    "Material": "Plastic",
+    "Color": "MAGENTA",
+    "ColorTags": [
+      "PINK"
+    ],
+    "EyeSize": 56,
+    "DBL": 17,
+    "B": 43,
+    "Temple": 145,
+    "FramePD": 73,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "MARGIE_56_MAGENTA_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356085064",
+    "FrameName": "SAWYER",
+    "Material": "Metal",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 58,
+    "DBL": 18,
+    "B": 40,
+    "Temple": 150,
+    "FramePD": 76,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "SAWYER_58_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356085071",
+    "FrameName": "SAWYER",
+    "Material": "Metal",
+    "Color": "SAPPHIRE",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 58,
+    "DBL": 18,
+    "B": 40,
+    "Temple": 150,
+    "FramePD": 76,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "SAWYER_58_SAPPHIRE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356085088",
+    "FrameName": "SAWYER",
+    "Material": "Metal",
+    "Color": "EGGPLANT",
+    "ColorTags": [
+      "PURPLE"
+    ],
+    "EyeSize": 58,
+    "DBL": 18,
+    "B": 40,
+    "Temple": 150,
+    "FramePD": 76,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "SAWYER_58_EGGPLANT_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356085187",
+    "FrameName": "STATESMAN",
+    "Material": "Metal",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 56,
+    "DBL": 18,
+    "B": 39,
+    "Temple": 150,
+    "FramePD": 74,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "STATESMAN_56_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356085194",
+    "FrameName": "STATESMAN",
+    "Material": "Metal",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 58,
+    "DBL": 18,
+    "B": 40,
+    "Temple": 155,
+    "FramePD": 76,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "STATESMAN_58_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356085200",
+    "FrameName": "STATESMAN",
+    "Material": "Metal",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 56,
+    "DBL": 18,
+    "B": 39,
+    "Temple": 150,
+    "FramePD": 74,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "STATESMAN_56_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356085217",
+    "FrameName": "STATESMAN",
+    "Material": "Metal",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 58,
+    "DBL": 18,
+    "B": 40,
+    "Temple": 155,
+    "FramePD": 76,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "STATESMAN_58_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356085224",
+    "FrameName": "STATESMAN",
+    "Material": "Metal",
+    "Color": "NAVY",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 56,
+    "DBL": 18,
+    "B": 39,
+    "Temple": 150,
+    "FramePD": 74,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "STATESMAN_56_NAVY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356085231",
+    "FrameName": "STATESMAN",
+    "Material": "Metal",
+    "Color": "NAVY",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 58,
+    "DBL": 18,
+    "B": 40,
+    "Temple": 155,
+    "FramePD": 76,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "STATESMAN_58_NAVY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356085514",
+    "FrameName": "BLESSED",
+    "Material": "Plastic",
+    "Color": "ALABASTER",
+    "ColorTags": [
+      "WHITE"
+    ],
+    "EyeSize": 51,
+    "DBL": 17,
+    "B": 38,
+    "Temple": 135,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "BLESSED_51_ALABASTER_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356085521",
+    "FrameName": "BLESSED",
+    "Material": "Plastic",
+    "Color": "DOVE",
+    "ColorTags": [
+      "WHITE"
+    ],
+    "EyeSize": 51,
+    "DBL": 17,
+    "B": 38,
+    "Temple": 135,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "BLESSED_51_DOVE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356085538",
+    "FrameName": "BLESSED",
+    "Material": "Plastic",
+    "Color": "DUSTY ROSE",
+    "ColorTags": [
+      "PINK"
+    ],
+    "EyeSize": 51,
+    "DBL": 17,
+    "B": 38,
+    "Temple": 135,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "BLESSED_51_DUSTY_ROSE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356085811",
+    "FrameName": "CATAMOUNT ",
+    "Material": "Semi Rimless",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 58,
+    "DBL": 19,
+    "B": 38,
+    "Temple": 150,
+    "FramePD": 77,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "CATAMOUNT__58_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356085828",
+    "FrameName": "CATAMOUNT ",
+    "Material": "Semi Rimless",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 60,
+    "DBL": 19,
+    "B": 38,
+    "Temple": 155,
+    "FramePD": 79,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "CATAMOUNT__60_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356085835",
+    "FrameName": "CATAMOUNT ",
+    "Material": "Semi Rimless",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 58,
+    "DBL": 19,
+    "B": 38,
+    "Temple": 150,
+    "FramePD": 77,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "CATAMOUNT__58_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356085842",
+    "FrameName": "CATAMOUNT ",
+    "Material": "Semi Rimless",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 60,
+    "DBL": 19,
+    "B": 38,
+    "Temple": 155,
+    "FramePD": 79,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "CATAMOUNT__60_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356085859",
+    "FrameName": "CATAMOUNT ",
+    "Material": "Semi Rimless",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 58,
+    "DBL": 19,
+    "B": 38,
+    "Temple": 150,
+    "FramePD": 77,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "CATAMOUNT__58_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356085866",
+    "FrameName": "CATAMOUNT ",
+    "Material": "Semi Rimless",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 60,
+    "DBL": 19,
+    "B": 39,
+    "Temple": 155,
+    "FramePD": 79,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "CATAMOUNT__60_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356087259",
+    "FrameName": "AERO 3003",
+    "Material": "Semi Rimless",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 54,
+    "DBL": 18,
+    "B": 34,
+    "Temple": 140,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "AERO_3003_54_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356087266",
+    "FrameName": "AERO 3003",
+    "Material": "Semi Rimless",
+    "Color": "GUN",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 54,
+    "DBL": 18,
+    "B": 34,
+    "Temple": 140,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "AERO_3003_54_GUN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356087273",
+    "FrameName": "AERO 3003",
+    "Material": "Semi Rimless",
+    "Color": "NAVY",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 54,
+    "DBL": 18,
+    "B": 34,
+    "Temple": 140,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "AERO_3003_54_NAVY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356088577",
+    "FrameName": "PRESTON RD",
+    "Material": "Semi Rimless",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 50,
+    "DBL": 21,
+    "B": 42,
+    "Temple": 140,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "PRESTON_RD_50_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356088584",
+    "FrameName": "PRESTON RD",
+    "Material": "Semi Rimless",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 50,
+    "DBL": 21,
+    "B": 42,
+    "Temple": 140,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "PRESTON_RD_50_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356088874",
+    "FrameName": "AERO 1008",
+    "Material": "Plastic",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 50,
+    "DBL": 17,
+    "B": 39,
+    "Temple": 135,
+    "FramePD": 67,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "AERO_1008_50_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356088881",
+    "FrameName": "AERO 1008",
+    "Material": "Plastic",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 50,
+    "DBL": 17,
+    "B": 39,
+    "Temple": 135,
+    "FramePD": 67,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "AERO_1008_50_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356088898",
+    "FrameName": "AERO 1008",
+    "Material": "Plastic",
+    "Color": "NAVY",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 50,
+    "DBL": 17,
+    "B": 39,
+    "Temple": 135,
+    "FramePD": 67,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "AERO_1008_50_NAVY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356089147",
+    "FrameName": "STINGER",
+    "Material": "Metal",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 57,
+    "DBL": 18,
+    "B": 41,
+    "Temple": 150,
+    "FramePD": 75,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "STINGER_57_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356089154",
+    "FrameName": "STINGER",
+    "Material": "Metal",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 59,
+    "DBL": 18,
+    "B": 43,
+    "Temple": 155,
+    "FramePD": 77,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "STINGER_59_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356089161",
+    "FrameName": "STINGER",
+    "Material": "Metal",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 57,
+    "DBL": 18,
+    "B": 41,
+    "Temple": 150,
+    "FramePD": 75,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "STINGER_57_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356089178",
+    "FrameName": "STINGER",
+    "Material": "Metal",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 59,
+    "DBL": 18,
+    "B": 43,
+    "Temple": 155,
+    "FramePD": 77,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "STINGER_59_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356089185",
+    "FrameName": "STINGER",
+    "Material": "Metal",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 57,
+    "DBL": 18,
+    "B": 41,
+    "Temple": 150,
+    "FramePD": 75,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "STINGER_57_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356089192",
+    "FrameName": "STINGER",
+    "Material": "Metal",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 59,
+    "DBL": 18,
+    "B": 43,
+    "Temple": 155,
+    "FramePD": 77,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "STINGER_59_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356089970",
+    "FrameName": "BLANCHE",
+    "Material": "Plastic",
+    "Color": "INDIGO",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 61,
+    "DBL": 16,
+    "B": 44,
+    "Temple": 155,
+    "FramePD": 77,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "BLANCHE_61_INDIGO_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356089987",
+    "FrameName": "BLANCHE",
+    "Material": "Plastic",
+    "Color": "MULBERRY",
+    "ColorTags": [
+      "PURPLE"
+    ],
+    "EyeSize": 61,
+    "DBL": 16,
+    "B": 44,
+    "Temple": 155,
+    "FramePD": 77,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "BLANCHE_61_MULBERRY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356089994",
+    "FrameName": "BLANCHE",
+    "Material": "Plastic",
+    "Color": "RAVEN",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 61,
+    "DBL": 16,
+    "B": 44,
+    "Temple": 155,
+    "FramePD": 77,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "BLANCHE_61_RAVEN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356091690",
+    "FrameName": "SKYHAWK",
+    "Material": "Plastic",
+    "Color": "CRYSTAL",
+    "ColorTags": [
+      "CLEAR"
+    ],
+    "EyeSize": 59,
+    "DBL": 18,
+    "B": 43,
+    "Temple": 150,
+    "FramePD": 77,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "SKYHAWK_59_CRYSTAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356091706",
+    "FrameName": "SKYHAWK",
+    "Material": "Plastic",
+    "Color": "GREY",
+    "ColorTags": [
+      "GREY"
+    ],
+    "EyeSize": 59,
+    "DBL": 18,
+    "B": 43,
+    "Temple": 150,
+    "FramePD": 77,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "SKYHAWK_59_GREY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356091713",
+    "FrameName": "SKYHAWK",
+    "Material": "Plastic",
+    "Color": "FOREST",
+    "ColorTags": [
+      "GREEN"
+    ],
+    "EyeSize": 59,
+    "DBL": 18,
+    "B": 43,
+    "Temple": 150,
+    "FramePD": 77,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "SKYHAWK_59_FOREST_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356092703",
+    "FrameName": "AERO 3008",
+    "Material": "Metal",
+    "Color": "GRAPHITE",
+    "ColorTags": [
+      "GREY"
+    ],
+    "EyeSize": 52,
+    "DBL": 16,
+    "B": 38,
+    "Temple": 145,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "AERO_3008_52_GRAPHITE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356092710",
+    "FrameName": "AERO 3008",
+    "Material": "Metal",
+    "Color": "RED",
+    "ColorTags": [
+      "RED"
+    ],
+    "EyeSize": 52,
+    "DBL": 16,
+    "B": 38,
+    "Temple": 145,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "AERO_3008_52_RED_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "841356092727",
+    "FrameName": "AERO 3008",
+    "Material": "Metal",
+    "Color": "ORANGE",
+    "ColorTags": [
+      "ORANGE"
+    ],
+    "EyeSize": 52,
+    "DBL": 16,
+    "B": 38,
+    "Temple": 145,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "AERO_3008_52_ORANGE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "842691102584",
+    "FrameName": "HAC 109",
+    "Material": "Plastic",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 54,
+    "DBL": 17,
+    "B": 34,
+    "Temple": 135,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "HAC_109_54_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "842691102591",
+    "FrameName": "HAC 109",
+    "Material": "Plastic",
+    "Color": "SLATE",
+    "ColorTags": [
+      "GREY"
+    ],
+    "EyeSize": 54,
+    "DBL": 17,
+    "B": 34,
+    "Temple": 135,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "HAC_109_54_SLATE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "842691102607",
+    "FrameName": "HAC 109",
+    "Material": "Plastic",
+    "Color": "BLACK/RED",
+    "ColorTags": [
+      "BLACK",
+      "RED"
+    ],
+    "EyeSize": 54,
+    "DBL": 17,
+    "B": 34,
+    "Temple": 135,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "HAC_109_54_BLACK/RED_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "882020000976",
+    "FrameName": "7012 R",
+    "Material": "Safety",
+    "Color": "GREY",
+    "ColorTags": [
+      "GREY"
+    ],
+    "EyeSize": 55,
+    "DBL": 17,
+    "B": 34,
+    "Temple": 140,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "7012_R_55_GREY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "882020001072",
+    "FrameName": "7013 R",
+    "Material": "Safety",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 54,
+    "DBL": 17,
+    "B": 35,
+    "Temple": 140,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "7013_R_54_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398104147",
+    "FrameName": "VP 126",
+    "Material": "Semi Rimless",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 55,
+    "DBL": 18,
+    "B": 40,
+    "Temple": 145,
+    "FramePD": 73,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "VP_126_55_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398104154",
+    "FrameName": "VP 126",
+    "Material": "Semi Rimless",
+    "Color": "GOLD",
+    "ColorTags": [
+      "GOLD"
+    ],
+    "EyeSize": 55,
+    "DBL": 18,
+    "B": 40,
+    "Temple": 145,
+    "FramePD": 73,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "VP_126_55_GOLD_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398104161",
+    "FrameName": "VP 126",
+    "Material": "Semi Rimless",
+    "Color": "COFFEE",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 55,
+    "DBL": 18,
+    "B": 40,
+    "Temple": 145,
+    "FramePD": 73,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "VP_126_55_COFFEE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398106288",
+    "FrameName": "PROTECH",
+    "Material": "Sport",
+    "Color": "CLEAR",
+    "ColorTags": [
+      "CLEAR"
+    ],
+    "EyeSize": 55,
+    "DBL": 20,
+    "B": 35,
+    "Temple": 0,
+    "FramePD": 75,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "PROTECH_55_CLEAR_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398112708",
+    "FrameName": "FX 103 ",
+    "Material": "Metal",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 57,
+    "DBL": 18,
+    "B": 40,
+    "Temple": 145,
+    "FramePD": 75,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FX_103__57_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398112715",
+    "FrameName": "FX 103 ",
+    "Material": "Metal",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 57,
+    "DBL": 18,
+    "B": 40,
+    "Temple": 145,
+    "FramePD": 75,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FX_103__57_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398112722",
+    "FrameName": "FX 103 ",
+    "Material": "Metal",
+    "Color": "GOLD",
+    "ColorTags": [
+      "GOLD"
+    ],
+    "EyeSize": 57,
+    "DBL": 18,
+    "B": 40,
+    "Temple": 145,
+    "FramePD": 75,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FX_103__57_GOLD_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398117154",
+    "FrameName": "FX 107 ",
+    "Material": "Metal",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 57,
+    "DBL": 17,
+    "B": 37,
+    "Temple": 145,
+    "FramePD": 74,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FX_107__57_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398117161",
+    "FrameName": "FX 107 ",
+    "Material": "Metal",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 57,
+    "DBL": 17,
+    "B": 37,
+    "Temple": 145,
+    "FramePD": 74,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FX_107__57_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398117178",
+    "FrameName": "FX 107 ",
+    "Material": "Metal",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 57,
+    "DBL": 17,
+    "B": 37,
+    "Temple": 145,
+    "FramePD": 74,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FX_107__57_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398118106",
+    "FrameName": "GR 803",
+    "Material": "Metal",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 61,
+    "DBL": 17,
+    "B": 42,
+    "Temple": 150,
+    "FramePD": 78,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "GR_803_61_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398118113",
+    "FrameName": "GR 803",
+    "Material": "Metal",
+    "Color": "GUN",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 61,
+    "DBL": 17,
+    "B": 42,
+    "Temple": 150,
+    "FramePD": 78,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "GR_803_61_GUN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398118229",
+    "FrameName": "DC 158",
+    "Material": "Metal",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 55,
+    "DBL": 20,
+    "B": 47,
+    "Temple": 140,
+    "FramePD": 75,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "DC_158_55_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398118236",
+    "FrameName": "DC 158",
+    "Material": "Metal",
+    "Color": "GOLD",
+    "ColorTags": [
+      "GOLD"
+    ],
+    "EyeSize": 55,
+    "DBL": 20,
+    "B": 47,
+    "Temple": 140,
+    "FramePD": 75,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "DC_158_55_GOLD_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398121793",
+    "FrameName": "US 93",
+    "Material": "Plastic",
+    "Color": "BLUE",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 48,
+    "DBL": 18,
+    "B": 34,
+    "Temple": 135,
+    "FramePD": 66,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "US_93_48_BLUE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398121809",
+    "FrameName": "US 93",
+    "Material": "Plastic",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 48,
+    "DBL": 18,
+    "B": 34,
+    "Temple": 135,
+    "FramePD": 66,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "US_93_48_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398121816",
+    "FrameName": "US 93",
+    "Material": "Plastic",
+    "Color": "PURPLE",
+    "ColorTags": [
+      "PURPLE"
+    ],
+    "EyeSize": 48,
+    "DBL": 18,
+    "B": 34,
+    "Temple": 135,
+    "FramePD": 66,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "US_93_48_PURPLE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398121977",
+    "FrameName": "U 212",
+    "Material": "Plastic",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 51,
+    "DBL": 17,
+    "B": 37,
+    "Temple": 140,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "U_212_51_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398121984",
+    "FrameName": "U 212",
+    "Material": "Plastic",
+    "Color": "BURGUNDY",
+    "ColorTags": [
+      "RED"
+    ],
+    "EyeSize": 51,
+    "DBL": 17,
+    "B": 37,
+    "Temple": 140,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "U_212_51_BURGUNDY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398121991",
+    "FrameName": "U 212",
+    "Material": "Plastic",
+    "Color": "PURPLE",
+    "ColorTags": [
+      "PURPLE"
+    ],
+    "EyeSize": 51,
+    "DBL": 17,
+    "B": 37,
+    "Temple": 140,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "U_212_51_PURPLE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398122189",
+    "FrameName": "US 92",
+    "Material": "Plastic",
+    "Color": "BROWN BLUE",
+    "ColorTags": [
+      "BROWN",
+      "BLUE"
+    ],
+    "EyeSize": 47,
+    "DBL": 17,
+    "B": 41,
+    "Temple": 140,
+    "FramePD": 64,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "US_92_47_BROWN_BLUE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398122202",
+    "FrameName": "US 92",
+    "Material": "Plastic",
+    "Color": "GREY BLACK",
+    "ColorTags": [
+      "GREY",
+      "BLACK"
+    ],
+    "EyeSize": 47,
+    "DBL": 17,
+    "B": 41,
+    "Temple": 140,
+    "FramePD": 64,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "US_92_47_GREY_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398122844",
+    "FrameName": "FX 110 ",
+    "Material": "Metal",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 55,
+    "DBL": 17,
+    "B": 38,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FX_110__55_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398122851",
+    "FrameName": "FX 110 ",
+    "Material": "Metal",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 55,
+    "DBL": 17,
+    "B": 38,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FX_110__55_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398122868",
+    "FrameName": "FX 110 ",
+    "Material": "Metal",
+    "Color": "BLUE",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 55,
+    "DBL": 17,
+    "B": 38,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FX_110__55_BLUE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398217625",
+    "FrameName": "DC 188",
+    "Material": "Metal",
+    "Color": "BLACK GOLD",
+    "ColorTags": [
+      "BLACK",
+      "GOLD"
+    ],
+    "EyeSize": 51,
+    "DBL": 16,
+    "B": 43,
+    "Temple": 145,
+    "FramePD": 67,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "DC_188_51_BLACK_GOLD_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398217649",
+    "FrameName": "DC 188",
+    "Material": "Metal",
+    "Color": "PURPLE PINK",
+    "ColorTags": [
+      "PURPLE",
+      "PINK"
+    ],
+    "EyeSize": 51,
+    "DBL": 16,
+    "B": 43,
+    "Temple": 145,
+    "FramePD": 67,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "DC_188_51_PURPLE_PINK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398217977",
+    "FrameName": "EMMA",
+    "Material": "Plastic",
+    "Color": "BLACK PURPLE",
+    "ColorTags": [
+      "BLACK",
+      "PURPLE"
+    ],
+    "EyeSize": 55,
+    "DBL": 0,
+    "B": 0,
+    "Temple": 0,
+    "FramePD": 0,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "EMMA_55_BLACK_PURPLE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398217984",
+    "FrameName": "EMMA",
+    "Material": "Plastic",
+    "Color": "MAROON RED",
+    "ColorTags": [
+      "RED"
+    ],
+    "EyeSize": 55,
+    "DBL": 0,
+    "B": 0,
+    "Temple": 0,
+    "FramePD": 0,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "EMMA_55_MAROON_RED_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398217991",
+    "FrameName": "EMMA",
+    "Material": "Plastic",
+    "Color": "BLACK BURGUNDY",
+    "ColorTags": [
+      "BLACK",
+      "RED"
+    ],
+    "EyeSize": 55,
+    "DBL": 0,
+    "B": 0,
+    "Temple": 0,
+    "FramePD": 0,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "EMMA_55_BLACK_BURGUNDY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398219247",
+    "FrameName": "DC 200",
+    "Material": "Plastic",
+    "Color": "BLUE",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 51,
+    "DBL": 0,
+    "B": 0,
+    "Temple": 0,
+    "FramePD": 0,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "DC_200_51_BLUE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398219254",
+    "FrameName": "DC 200",
+    "Material": "Plastic",
+    "Color": "PINK",
+    "ColorTags": [
+      "PINK"
+    ],
+    "EyeSize": 51,
+    "DBL": 0,
+    "B": 0,
+    "Temple": 0,
+    "FramePD": 0,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "DC_200_51_PINK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398219261",
+    "FrameName": "DC 200",
+    "Material": "Plastic",
+    "Color": "BLUSH CLEAR",
+    "ColorTags": [
+      "PINK",
+      "CLEAR"
+    ],
+    "EyeSize": 51,
+    "DBL": 0,
+    "B": 0,
+    "Temple": 0,
+    "FramePD": 0,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "DC_200_51_BLUSH_CLEAR_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398219513",
+    "FrameName": "UP 310",
+    "Material": "Plastic",
+    "Color": "PINK",
+    "ColorTags": [
+      "PINK"
+    ],
+    "EyeSize": 51,
+    "DBL": 18,
+    "B": 42,
+    "Temple": 140,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "UP_310_51_PINK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398219520",
+    "FrameName": "UP 310",
+    "Material": "Plastic",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 51,
+    "DBL": 18,
+    "B": 42,
+    "Temple": 140,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "UP_310_51_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398219537",
+    "FrameName": "UP 310",
+    "Material": "Plastic",
+    "Color": "CRYSTAL",
+    "ColorTags": [
+      "CLEAR"
+    ],
+    "EyeSize": 51,
+    "DBL": 18,
+    "B": 42,
+    "Temple": 140,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "UP_310_51_CRYSTAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398219575",
+    "FrameName": "FX 114 ",
+    "Material": "Semi Rimless",
+    "Color": "BLUE",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 52,
+    "DBL": 18,
+    "B": 38,
+    "Temple": 140,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FX_114__52_BLUE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398219582",
+    "FrameName": "FX 114 ",
+    "Material": "Semi Rimless",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 52,
+    "DBL": 18,
+    "B": 38,
+    "Temple": 140,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FX_114__52_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398219599",
+    "FrameName": "FX 114 ",
+    "Material": "Semi Rimless",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 52,
+    "DBL": 18,
+    "B": 38,
+    "Temple": 140,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FX_114__52_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398220809",
+    "FrameName": "DC 350",
+    "Material": "Plastic",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 50,
+    "DBL": 0,
+    "B": 0,
+    "Temple": 0,
+    "FramePD": 0,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "DC_350_50_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398220816",
+    "FrameName": "DC 350",
+    "Material": "Plastic",
+    "Color": "GREY",
+    "ColorTags": [
+      "GREY"
+    ],
+    "EyeSize": 50,
+    "DBL": 0,
+    "B": 0,
+    "Temple": 0,
+    "FramePD": 0,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "DC_350_50_GREY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398220823",
+    "FrameName": "DC 350",
+    "Material": "Plastic",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 50,
+    "DBL": 0,
+    "B": 0,
+    "Temple": 0,
+    "FramePD": 0,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "DC_350_50_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398221127",
+    "FrameName": "GR 818",
+    "Material": "Plastic",
+    "Color": "BLUE",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 58,
+    "DBL": 19,
+    "B": 40,
+    "Temple": 155,
+    "FramePD": 77,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "GR_818_58_BLUE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398221134",
+    "FrameName": "GR 818",
+    "Material": "Plastic",
+    "Color": "BLACK CLEAR",
+    "ColorTags": [
+      "BLACK",
+      "CLEAR"
+    ],
+    "EyeSize": 58,
+    "DBL": 19,
+    "B": 40,
+    "Temple": 155,
+    "FramePD": 77,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "GR_818_58_BLACK_CLEAR_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398221141",
+    "FrameName": "GR 818",
+    "Material": "Plastic",
+    "Color": "CRYSTAL",
+    "ColorTags": [
+      "CLEAR"
+    ],
+    "EyeSize": 58,
+    "DBL": 19,
+    "B": 40,
+    "Temple": 155,
+    "FramePD": 77,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "GR_818_58_CRYSTAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398221189",
+    "FrameName": "DC 355",
+    "Material": "Plastic",
+    "Color": "TORTOISE",
+    "ColorTags": [
+      "TORTOISE",
+      "BLACK",
+      "BROWN"
+    ],
+    "EyeSize": 50,
+    "DBL": 18,
+    "B": 40,
+    "Temple": 145,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "DC_355_50_TORTOISE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398221196",
+    "FrameName": "DC 355",
+    "Material": "Plastic",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 50,
+    "DBL": 18,
+    "B": 40,
+    "Temple": 145,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "DC_355_50_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398221202",
+    "FrameName": "DC 355",
+    "Material": "Plastic",
+    "Color": "CLEAR",
+    "ColorTags": [
+      "CLEAR"
+    ],
+    "EyeSize": 50,
+    "DBL": 18,
+    "B": 40,
+    "Temple": 145,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "DC_355_50_CLEAR_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398221479",
+    "FrameName": "US 111",
+    "Material": "Plastic",
+    "Color": "BLACK CLEAR",
+    "ColorTags": [
+      "BLACK",
+      "CLEAR"
+    ],
+    "EyeSize": 51,
+    "DBL": 19,
+    "B": 41,
+    "Temple": 145,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "US_111_51_BLACK_CLEAR_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398221486",
+    "FrameName": "US 111",
+    "Material": "Plastic",
+    "Color": "BLUE CLEAR",
+    "ColorTags": [
+      "BLUE",
+      "CLEAR"
+    ],
+    "EyeSize": 51,
+    "DBL": 19,
+    "B": 41,
+    "Temple": 145,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "US_111_51_BLUE_CLEAR_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398221493",
+    "FrameName": "US 111",
+    "Material": "Plastic",
+    "Color": "GREY CLEAR",
+    "ColorTags": [
+      "GREY",
+      "CLEAR"
+    ],
+    "EyeSize": 51,
+    "DBL": 19,
+    "B": 41,
+    "Temple": 145,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "US_111_51_GREY_CLEAR_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398221905",
+    "FrameName": "PT 204",
+    "Material": "Metal",
+    "Color": "PINK",
+    "ColorTags": [
+      "PINK"
+    ],
+    "EyeSize": 54,
+    "DBL": 17,
+    "B": 38,
+    "Temple": 140,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "PT_204_54_PINK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398221912",
+    "FrameName": "PT 204",
+    "Material": "Metal",
+    "Color": "BURGUNDY",
+    "ColorTags": [
+      "RED"
+    ],
+    "EyeSize": 54,
+    "DBL": 17,
+    "B": 38,
+    "Temple": 140,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "PT_204_54_BURGUNDY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398221929",
+    "FrameName": "PT 204",
+    "Material": "Metal",
+    "Color": "GOLD",
+    "ColorTags": [
+      "GOLD"
+    ],
+    "EyeSize": 54,
+    "DBL": 17,
+    "B": 38,
+    "Temple": 140,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "PT_204_54_GOLD_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398222575",
+    "FrameName": "UP 315",
+    "Material": "Plastic",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 54,
+    "DBL": 0,
+    "B": 0,
+    "Temple": 0,
+    "FramePD": 0,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "UP_315_54_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398222582",
+    "FrameName": "UP 315",
+    "Material": "Plastic",
+    "Color": "RUST",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 54,
+    "DBL": 0,
+    "B": 0,
+    "Temple": 0,
+    "FramePD": 0,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "UP_315_54_RUST_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398222599",
+    "FrameName": "UP 315",
+    "Material": "Plastic",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 54,
+    "DBL": 0,
+    "B": 0,
+    "Temple": 0,
+    "FramePD": 0,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "UP_315_54_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398222742",
+    "FrameName": "RAD",
+    "Material": "Plastic",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 55,
+    "DBL": 16,
+    "B": 42,
+    "Temple": 145,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "RAD_55_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398222766",
+    "FrameName": "RAD",
+    "Material": "Plastic",
+    "Color": "BURGUNDY",
+    "ColorTags": [
+      "RED"
+    ],
+    "EyeSize": 55,
+    "DBL": 16,
+    "B": 42,
+    "Temple": 145,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "RAD_55_BURGUNDY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398222773",
+    "FrameName": "RAD",
+    "Material": "Plastic",
+    "Color": "CRYSTAL WHITE",
+    "ColorTags": [
+      "CLEAR",
+      "WHITE"
+    ],
+    "EyeSize": 55,
+    "DBL": 16,
+    "B": 42,
+    "Temple": 145,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "RAD_55_CRYSTAL_WHITE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398222797",
+    "FrameName": "MAX",
+    "Material": "Plastic",
+    "Color": "BLUE",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 56,
+    "DBL": 18,
+    "B": 40,
+    "Temple": 150,
+    "FramePD": 74,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "MAX_56_BLUE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398222803",
+    "FrameName": "MAX",
+    "Material": "Plastic",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 56,
+    "DBL": 18,
+    "B": 40,
+    "Temple": 150,
+    "FramePD": 74,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "MAX_56_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398222810",
+    "FrameName": "MAX",
+    "Material": "Plastic",
+    "Color": "CRYSTAL",
+    "ColorTags": [
+      "CLEAR"
+    ],
+    "EyeSize": 56,
+    "DBL": 18,
+    "B": 40,
+    "Temple": 150,
+    "FramePD": 74,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "MAX_56_CRYSTAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398222964",
+    "FrameName": "PARTY ",
+    "Material": "Plastic",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 52,
+    "DBL": 17,
+    "B": 44,
+    "Temple": 135,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "PARTY__52_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398222971",
+    "FrameName": "PARTY ",
+    "Material": "Plastic",
+    "Color": "BURGUNDY",
+    "ColorTags": [
+      "RED"
+    ],
+    "EyeSize": 52,
+    "DBL": 17,
+    "B": 44,
+    "Temple": 135,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "PARTY__52_BURGUNDY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398222988",
+    "FrameName": "PARTY ",
+    "Material": "Plastic",
+    "Color": "PURPLE",
+    "ColorTags": [
+      "PURPLE"
+    ],
+    "EyeSize": 52,
+    "DBL": 17,
+    "B": 44,
+    "Temple": 135,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "PARTY__52_PURPLE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398222995",
+    "FrameName": "DC 363",
+    "Material": "Plastic",
+    "Color": "BLACK/RED",
+    "ColorTags": [
+      "BLACK RED"
+    ],
+    "EyeSize": 50,
+    "DBL": 18,
+    "B": 40,
+    "Temple": 145,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "DC_363_50_BLACK/RED_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398223015",
+    "FrameName": "DC 363",
+    "Material": "Plastic",
+    "Color": "CRYSTAL/GOLD",
+    "ColorTags": [
+      "CLEAR",
+      "GOLD"
+    ],
+    "EyeSize": 50,
+    "DBL": 18,
+    "B": 40,
+    "Temple": 145,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "DC_363_50_CRYSTAL/GOLD_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398223213",
+    "FrameName": "DC 509",
+    "Material": "Metal",
+    "Color": "SILVER GOLD",
+    "ColorTags": [
+      "SILVER",
+      "GOLD"
+    ],
+    "EyeSize": 51,
+    "DBL": 21,
+    "B": 44,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "DC_509_51_SILVER_GOLD_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398223237",
+    "FrameName": "DC 509",
+    "Material": "Metal",
+    "Color": "BLACK SILVER",
+    "ColorTags": [
+      "BLACK",
+      "SILVER"
+    ],
+    "EyeSize": 51,
+    "DBL": 21,
+    "B": 44,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "DC_509_51_BLACK_SILVER_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398223251",
+    "FrameName": "DC 509",
+    "Material": "Metal",
+    "Color": "BLACK GOLD",
+    "ColorTags": [
+      "BLACK",
+      "GOLD"
+    ],
+    "EyeSize": 51,
+    "DBL": 21,
+    "B": 44,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "DC_509_51_BLACK_GOLD_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398223695",
+    "FrameName": "ML 4",
+    "Material": "Plastic",
+    "Color": "SHINY BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 50,
+    "DBL": 20,
+    "B": 39,
+    "Temple": 145,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "ML_4_50_SHINY_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398223701",
+    "FrameName": "ML 4",
+    "Material": "Plastic",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 50,
+    "DBL": 20,
+    "B": 39,
+    "Temple": 145,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "ML_4_50_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398223718",
+    "FrameName": "ML 4",
+    "Material": "Plastic",
+    "Color": "MATT BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 50,
+    "DBL": 20,
+    "B": 39,
+    "Temple": 145,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "ML_4_50_MATT_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398225699",
+    "FrameName": "DC 372",
+    "Material": "Plastic",
+    "Color": "BLACK RED",
+    "ColorTags": [
+      "BLACK",
+      "RED"
+    ],
+    "EyeSize": 52,
+    "DBL": 19,
+    "B": 42,
+    "Temple": 135,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "DC_372_52_BLACK_RED_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398225712",
+    "FrameName": "DC 372",
+    "Material": "Plastic",
+    "Color": "CRYSTAL RED GREEN",
+    "ColorTags": [
+      "CLEAR",
+      "RED",
+      "GREEN"
+    ],
+    "EyeSize": 52,
+    "DBL": 19,
+    "B": 42,
+    "Temple": 135,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "DC_372_52_CRYSTAL_RED_GREEN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398228348",
+    "FrameName": "FX 118",
+    "Material": "Metal",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 51,
+    "DBL": 18,
+    "B": 44,
+    "Temple": 140,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FX_118_51_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398228355",
+    "FrameName": "FX 118",
+    "Material": "Metal",
+    "Color": "BURGUNDY",
+    "ColorTags": [
+      "RED"
+    ],
+    "EyeSize": 51,
+    "DBL": 18,
+    "B": 44,
+    "Temple": 140,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FX_118_51_BURGUNDY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398228362",
+    "FrameName": "FX 118",
+    "Material": "Metal",
+    "Color": "GOLD",
+    "ColorTags": [
+      "GOLD"
+    ],
+    "EyeSize": 51,
+    "DBL": 18,
+    "B": 44,
+    "Temple": 140,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FX_118_51_GOLD_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398228379",
+    "FrameName": "FX 119",
+    "Material": "Metal",
+    "Color": "BURGUNDY",
+    "ColorTags": [
+      "RED"
+    ],
+    "EyeSize": 52,
+    "DBL": 16,
+    "B": 39,
+    "Temple": 140,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FX_119_52_BURGUNDY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398228393",
+    "FrameName": "FX 119",
+    "Material": "Metal",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 52,
+    "DBL": 16,
+    "B": 39,
+    "Temple": 140,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FX_119_52_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398228409",
+    "FrameName": "FX 119",
+    "Material": "Metal",
+    "Color": "ROSE",
+    "ColorTags": [
+      "PINK"
+    ],
+    "EyeSize": 52,
+    "DBL": 16,
+    "B": 39,
+    "Temple": 140,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FX_119_52_ROSE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398228416",
+    "FrameName": "FX 115",
+    "Material": "Metal",
+    "Color": "BLUE",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 53,
+    "DBL": 18,
+    "B": 43,
+    "Temple": 145,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FX_115_53_BLUE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398228423",
+    "FrameName": "FX 115",
+    "Material": "Metal",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 53,
+    "DBL": 18,
+    "B": 43,
+    "Temple": 145,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FX_115_53_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398228430",
+    "FrameName": "FX 115",
+    "Material": "Metal",
+    "Color": "BURGUNDY",
+    "ColorTags": [
+      "RED"
+    ],
+    "EyeSize": 53,
+    "DBL": 18,
+    "B": 43,
+    "Temple": 145,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FX_115_53_BURGUNDY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398229284",
+    "FrameName": "DC 375",
+    "Material": "Plastic",
+    "Color": "BLUE GUNMETAL",
+    "ColorTags": [
+      "BLUE",
+      "GUNMETAL"
+    ],
+    "EyeSize": 57,
+    "DBL": 21,
+    "B": 43,
+    "Temple": 150,
+    "FramePD": 78,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "DC_375_57_BLUE_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398229291",
+    "FrameName": "DC 375",
+    "Material": "Plastic",
+    "Color": "BLACK GOLD",
+    "ColorTags": [
+      "BLACK",
+      "GOLD"
+    ],
+    "EyeSize": 57,
+    "DBL": 21,
+    "B": 43,
+    "Temple": 150,
+    "FramePD": 78,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "DC_375_57_BLACK_GOLD_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398230983",
+    "FrameName": "DC 381",
+    "Material": "Plastic",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 53,
+    "DBL": 17,
+    "B": 42,
+    "Temple": 145,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "DC_381_53_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398230990",
+    "FrameName": "DC 381",
+    "Material": "Plastic",
+    "Color": "BURGUNDY",
+    "ColorTags": [
+      "RED"
+    ],
+    "EyeSize": 53,
+    "DBL": 17,
+    "B": 42,
+    "Temple": 145,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "DC_381_53_BURGUNDY_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398231010",
+    "FrameName": "DC 381",
+    "Material": "Plastic",
+    "Color": "CLEAR",
+    "ColorTags": [
+      "CLEAR"
+    ],
+    "EyeSize": 53,
+    "DBL": 17,
+    "B": 42,
+    "Temple": 145,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "DC_381_53_CLEAR_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398232185",
+    "FrameName": "DC 385",
+    "Material": "Plastic",
+    "Color": "DARK TORT",
+    "ColorTags": [
+      "TORTOISE",
+      "BROWN",
+      "BLACK"
+    ],
+    "EyeSize": 48,
+    "DBL": 19,
+    "B": 49,
+    "Temple": 145,
+    "FramePD": 67,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "DC_385_48_DARK_TORT_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398232192",
+    "FrameName": "DC 385",
+    "Material": "Plastic",
+    "Color": "BLACK CLEAR",
+    "ColorTags": [
+      "BLACK",
+      "CLEAR"
+    ],
+    "EyeSize": 48,
+    "DBL": 19,
+    "B": 49,
+    "Temple": 145,
+    "FramePD": 67,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "DC_385_48_BLACK_CLEAR_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398232208",
+    "FrameName": "DC 385",
+    "Material": "Plastic",
+    "Color": "GREY CLEAR",
+    "ColorTags": [
+      "GREY",
+      "CLEAR"
+    ],
+    "EyeSize": 48,
+    "DBL": 19,
+    "B": 49,
+    "Temple": 145,
+    "FramePD": 67,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "DC_385_48_GREY_CLEAR_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398232215",
+    "FrameName": "DC 384",
+    "Material": "Plastic",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 49,
+    "DBL": 22,
+    "B": 49,
+    "Temple": 145,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "DC_384_49_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398232222",
+    "FrameName": "DC 384",
+    "Material": "Plastic",
+    "Color": "CRYSTAL",
+    "ColorTags": [
+      "CLEAR"
+    ],
+    "EyeSize": 49,
+    "DBL": 22,
+    "B": 49,
+    "Temple": 145,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "DC_384_49_CRYSTAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398232239",
+    "FrameName": "DC 384",
+    "Material": "Plastic",
+    "Color": "LIGHT BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 49,
+    "DBL": 22,
+    "B": 49,
+    "Temple": 145,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "DC_384_49_LIGHT_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398232345",
+    "FrameName": "GR 825",
+    "Material": "Plastic",
+    "Color": "BLUE",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 59,
+    "DBL": 18,
+    "B": 45,
+    "Temple": 155,
+    "FramePD": 77,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "GR_825_59_BLUE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398232352",
+    "FrameName": "GR 825",
+    "Material": "Plastic",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 59,
+    "DBL": 18,
+    "B": 45,
+    "Temple": 155,
+    "FramePD": 77,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "GR_825_59_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398255705",
+    "FrameName": "DC 372",
+    "Material": "Plastic",
+    "Color": "BLUE RED",
+    "ColorTags": [
+      "BLUE",
+      "RED"
+    ],
+    "EyeSize": 52,
+    "DBL": 19,
+    "B": 42,
+    "Temple": 135,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "DC_372_52_BLUE_RED_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398436002",
+    "FrameName": "OLIVE",
+    "Material": "Metal",
+    "Color": "BLACK GOLD",
+    "ColorTags": [
+      "BLACK",
+      "GOLD"
+    ],
+    "EyeSize": 56,
+    "DBL": 19,
+    "B": 44,
+    "Temple": 140,
+    "FramePD": 75,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "OLIVE_56_BLACK_GOLD_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398436408",
+    "FrameName": "OLIVE",
+    "Material": "Metal",
+    "Color": "DEMI AMBER",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 56,
+    "DBL": 19,
+    "B": 44,
+    "Temple": 140,
+    "FramePD": 75,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "OLIVE_56_DEMI_AMBER_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398436507",
+    "FrameName": "OLIVE",
+    "Material": "Metal",
+    "Color": "DEMI AMBER",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 58,
+    "DBL": 19,
+    "B": 46,
+    "Temple": 145,
+    "FramePD": 77,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "OLIVE_58_DEMI_AMBER_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398871209",
+    "FrameName": "OLIVE",
+    "Material": "Metal",
+    "Color": "BLACK GOLD",
+    "ColorTags": [
+      "BLACK",
+      "GOLD"
+    ],
+    "EyeSize": 58,
+    "DBL": 19,
+    "B": 46,
+    "Temple": 145,
+    "FramePD": 77,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "OLIVE_58_BLACK_GOLD_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398924004",
+    "FrameName": "FX 6",
+    "Material": "Semi Rimless",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 53,
+    "DBL": 20,
+    "B": 37,
+    "Temple": 145,
+    "FramePD": 73,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FX_6_53_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398924103",
+    "FrameName": "FX 6",
+    "Material": "Semi Rimless",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 53,
+    "DBL": 20,
+    "B": 37,
+    "Temple": 145,
+    "FramePD": 73,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FX_6_53_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398924202",
+    "FrameName": "FX 6",
+    "Material": "Semi Rimless",
+    "Color": "COFFEE",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 53,
+    "DBL": 20,
+    "B": 37,
+    "Temple": 145,
+    "FramePD": 73,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FX_6_53_COFFEE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398932900",
+    "FrameName": "FX 10",
+    "Material": "Metal",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 55,
+    "DBL": 17,
+    "B": 45,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FX_10_55_BLACK_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398933006",
+    "FrameName": "FX 10",
+    "Material": "Metal",
+    "Color": "GUN",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 55,
+    "DBL": 17,
+    "B": 45,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FX_10_55_GUN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398933105",
+    "FrameName": "FX 10",
+    "Material": "Metal",
+    "Color": "COFFEE",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 55,
+    "DBL": 17,
+    "B": 45,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FX_10_55_COFFEE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398951901",
+    "FrameName": "PT 68",
+    "Material": "Metal",
+    "Color": "GUN",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 53,
+    "DBL": 18,
+    "B": 32,
+    "Temple": 145,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "PT_68_53_GUN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398952007",
+    "FrameName": "PT 68",
+    "Material": "Metal",
+    "Color": "GOLD",
+    "ColorTags": [
+      "GOLD"
+    ],
+    "EyeSize": 53,
+    "DBL": 18,
+    "B": 32,
+    "Temple": 145,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "PT_68_53_GOLD_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398952106",
+    "FrameName": "PT 68",
+    "Material": "Metal",
+    "Color": "COFFEE",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 53,
+    "DBL": 18,
+    "B": 32,
+    "Temple": 145,
+    "FramePD": 71,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "PT_68_53_COFFEE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398987801",
+    "FrameName": "FX 27 ",
+    "Material": "Metal",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 53,
+    "DBL": 19,
+    "B": 35,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FX_27__53_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398987900",
+    "FrameName": "FX 27 ",
+    "Material": "Metal",
+    "Color": "GOLD",
+    "ColorTags": [
+      "GOLD"
+    ],
+    "EyeSize": 53,
+    "DBL": 19,
+    "B": 35,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FX_27__53_GOLD_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398988006",
+    "FrameName": "FX 27 ",
+    "Material": "Metal",
+    "Color": "COFFEE",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 53,
+    "DBL": 19,
+    "B": 35,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "FX_27__53_COFFEE_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398995301",
+    "FrameName": "7730",
+    "Material": "Metal",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 53,
+    "DBL": 19,
+    "B": 37,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "7730_53_BROWN_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398995400",
+    "FrameName": "7730",
+    "Material": "Metal",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 53,
+    "DBL": 19,
+    "B": 37,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "7730_53_GUNMETAL_Hero.jpg",
+    "Images": [
+    ]
+  }
+,
+  {
+    "SKU": "9398995509",
+    "FrameName": "7730",
+    "Material": "Metal",
+    "Color": "GOLD",
+    "ColorTags": [
+      "GOLD"
+    ],
+    "EyeSize": 53,
+    "DBL": 19,
+    "B": 37,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "7730_53_GOLD_Hero.jpg",
+    "Images": [
+    ]
+  }
+]
