@@ -113,7 +113,7 @@ const CatalogApp = {
 
     // ColorTags (multi‐select)
     html.push('<div class="filter-group">');
-    html.push('  <label for="filter-color">Color Tags:</label>');
+    html.push('  <label for="filter-color">Color:</label>');
     html.push('  <select id="filter-color" multiple size="4">');
     allColors.forEach(tag => {
       html.push(`    <option value="${tag}">${tag}</option>`);
@@ -280,8 +280,11 @@ const CatalogApp = {
     const frameGroups = [];
     groups.forEach((skuList, frameName) => {
       let repImg = '';
-      if (skuList.length > 0) {
-        repImg = skuList[0].HeroImage || '';
+      for (const sku of skuList) {
+	if (sku.heroImage && ! sku.HeroImage.toLowerCase().includes('coming-soon')) {
+		repImg = sku.HeroImage;
+		break;
+	}
       }
       const imgPath = repImg ? `images/${repImg}` : 'images/coming-soon.jpg';
       frameGroups.push({
