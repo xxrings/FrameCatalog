@@ -293,10 +293,7 @@ const CatalogApp = {
 
     // 3) Sort so that frames with “coming-soon” appear last
     frameGroups.sort((a, b) => {
-       const aMissing = a.representativeImage.includes('coming-soon') ? 1 : 0;
-      const bMissing = b.representativeImage.includes('coming-soon') ? 1 : 0;
-      return aMissing - bMissing;
-
+      return a["Frame Name"].localeCompare(b["Frame Name"]);
     });
 
     // 4) Clone thumbnail-template for each group and populate
