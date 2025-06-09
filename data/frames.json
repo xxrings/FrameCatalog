@@ -294,7 +294,7 @@
     "FramePD": 0,
     "BackOrdered": false,
     "Discontinued": true,
-    "HeroImage": "POF__xxxxx_Hero.jpg",
+    "HeroImage": "POF_xxxxx_Hero.jpg",
     "Images": [
     ]
   }
@@ -454,7 +454,7 @@
     "FramePD": 67,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "FRACTION__48_BLACK_Hero.jpg",
+    "HeroImage": "FRACTION_48_BLACK_Hero.jpg",
     "Images": [
     ]
   }
@@ -474,7 +474,7 @@
     "FramePD": 67,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "FRACTION__48_CHOCOLATE_Hero.jpg",
+    "HeroImage": "FRACTION_48_CHOCOLATE_Hero.jpg",
     "Images": [
     ]
   }
@@ -494,7 +494,7 @@
     "FramePD": 67,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "FRACTION__48_NAVY_Hero.jpg",
+    "HeroImage": "FRACTION_48_NAVY_Hero.jpg",
     "Images": [
     ]
   }
@@ -514,7 +514,7 @@
     "FramePD": 70,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "MEDIAN__50_BROWN_Hero.jpg",
+    "HeroImage": "MEDIAN_50_BROWN_Hero.jpg",
     "Images": [
     ]
   }
@@ -534,7 +534,7 @@
     "FramePD": 70,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "MEDIAN__50_BLACK_Hero.jpg",
+    "HeroImage": "MEDIAN_50_BLACK_Hero.jpg",
     "Images": [
     ]
   }
@@ -554,7 +554,7 @@
     "FramePD": 70,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "MEDIAN__50_GUNMETAL_Hero.jpg",
+    "HeroImage": "MEDIAN_50_GUNMETAL_Hero.jpg",
     "Images": [
     ]
   }
@@ -574,7 +574,7 @@
     "FramePD": 74,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "MEDIAN__54_BROWN_Hero.jpg",
+    "HeroImage": "MEDIAN_54_BROWN_Hero.jpg",
     "Images": [
     ]
   }
@@ -594,7 +594,7 @@
     "FramePD": 74,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "MEDIAN__54_BLACK_Hero.jpg",
+    "HeroImage": "MEDIAN_54_BLACK_Hero.jpg",
     "Images": [
     ]
   }
@@ -614,7 +614,7 @@
     "FramePD": 74,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "MEDIAN__54_GUNMETAL_Hero.jpg",
+    "HeroImage": "MEDIAN_54_GUNMETAL_Hero.jpg",
     "Images": [
     ]
   }
@@ -875,7 +875,7 @@
     "FramePD": 72,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "AXIS_58_DARK_GUN/GRN_Hero.jpg",
+    "HeroImage": "AXIS_58_DARK_GUN_GRN_Hero.jpg",
     "Images": [
     ]
   }
@@ -896,7 +896,7 @@
     "FramePD": 72,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "AXIS_58_SILVER/BLACK_Hero.jpg",
+    "HeroImage": "AXIS_58_SILVER_BLACK_Hero.jpg",
     "Images": [
     ]
   }
@@ -1018,7 +1018,7 @@
     "FramePD": 68,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "H_4629_51_GOLD/TORT_Hero.jpg",
+    "HeroImage": "H_4629_51_GOLD_TORT_Hero.jpg",
     "Images": [
     ]
   }
@@ -1060,7 +1060,7 @@
     "FramePD": 69,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "H_4617_52_COBALT/BLACK_Hero.jpg",
+    "HeroImage": "H_4617_52_COBALT_BLACK_Hero.jpg",
     "Images": [
     ]
   }
@@ -1081,7 +1081,7 @@
     "FramePD": 69,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "H_4617_52_BLACK/PINK_Hero.jpg",
+    "HeroImage": "H_4617_52_BLACK_PINK_Hero.jpg",
     "Images": [
     ]
   }
@@ -1102,7 +1102,7 @@
     "FramePD": 69,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "H_4617_52_RED/CRYSTAL__Hero.jpg",
+    "HeroImage": "H_4617_52_RED_CRYSTAL_Hero.jpg",
     "Images": [
     ]
   }
@@ -1123,7 +1123,7 @@
     "FramePD": 69,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "H_4617_52_TEAL/BLACK_Hero.jpg",
+    "HeroImage": "H_4617_52_TEAL_BLACK_Hero.jpg",
     "Images": [
     ]
   }
@@ -1146,7 +1146,7 @@
     "FramePD": 68,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "H_4629_51_TORTOISE/GUN_Hero.jpg",
+    "HeroImage": "H_4629_51_TORTOISE_GUN_Hero.jpg",
     "Images": [
     ]
   }
@@ -1167,7 +1167,7 @@
     "FramePD": 68,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "H_4629_51_BLACK/GUN_Hero.jpg",
+    "HeroImage": "H_4629_51_BLACK_GUN_Hero.jpg",
     "Images": [
     ]
   }
@@ -1954,7 +1954,7 @@
     "FramePD": 71,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "EQ_7857_53_BROWN__Hero.jpg",
+    "HeroImage": "EQ_7857_53_BROWN_Hero.jpg",
     "Images": [
     ]
   }
@@ -1974,7 +1974,7 @@
     "FramePD": 74,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "EQ_7857_56_BROWN__Hero.jpg",
+    "HeroImage": "EQ_7857_56_BROWN_Hero.jpg",
     "Images": [
     ]
   }
@@ -1994,7 +1994,7 @@
     "FramePD": 71,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "EQ_7857_53_MATT_BLACK__Hero.jpg",
+    "HeroImage": "EQ_7857_53_MATT_BLACK_Hero.jpg",
     "Images": [
     ]
   }
@@ -2014,7 +2014,7 @@
     "FramePD": 74,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "EQ_7857_56_MATT_BLACK__Hero.jpg",
+    "HeroImage": "EQ_7857_56_MATT_BLACK_Hero.jpg",
     "Images": [
     ]
   }
@@ -2074,7 +2074,7 @@
     "FramePD": 74,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "EQ_8844__55_BLACK_Hero.jpg",
+    "HeroImage": "EQ_8844_55_BLACK_Hero.jpg",
     "Images": [
     ]
   }
@@ -2094,7 +2094,7 @@
     "FramePD": 74,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "EQ_8844__55_BROWN_Hero.jpg",
+    "HeroImage": "EQ_8844_55_BROWN_Hero.jpg",
     "Images": [
     ]
   }
@@ -2482,7 +2482,7 @@
     "FramePD": 70,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "MC_6278_52_SATIN_BLK/GOLD_Hero.jpg",
+    "HeroImage": "MC_6278_52_SATIN_BLK_GOLD_Hero.jpg",
     "Images": [
     ]
   }
@@ -2503,7 +2503,7 @@
     "FramePD": 70,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "MC_6278_52_SATIN_RED/GOLD_Hero.jpg",
+    "HeroImage": "MC_6278_52_SATIN_RED_GOLD_Hero.jpg",
     "Images": [
     ]
   }
@@ -2524,7 +2524,7 @@
     "FramePD": 70,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "MC_6278_52_SATIN_PURP/GOLD_Hero.jpg",
+    "HeroImage": "MC_6278_52_SATIN_PURP_GOLD_Hero.jpg",
     "Images": [
     ]
   }
@@ -2744,7 +2744,7 @@
     "FramePD": 0,
     "BackOrdered": false,
     "Discontinued": true,
-    "HeroImage": "EQ_6733_54_BROWN__Hero.jpg",
+    "HeroImage": "EQ_6733_54_BROWN_Hero.jpg",
     "Images": [
     ]
   }
@@ -2764,7 +2764,7 @@
     "FramePD": 74,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "EQ_6763_57_BROWN__Hero.jpg",
+    "HeroImage": "EQ_6763_57_BROWN_Hero.jpg",
     "Images": [
     ]
   }
@@ -3252,7 +3252,7 @@
     "FramePD": 75,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "COUGAR__58_BLACK_Hero.jpg",
+    "HeroImage": "COUGAR_58_BLACK_Hero.jpg",
     "Images": [
     ]
   }
@@ -3272,7 +3272,7 @@
     "FramePD": 75,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "COUGAR__58_GUNMETAL_Hero.jpg",
+    "HeroImage": "COUGAR_58_GUNMETAL_Hero.jpg",
     "Images": [
     ]
   }
@@ -3532,7 +3532,7 @@
     "FramePD": 75,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "BEARCAT_58_BLACK___Hero.jpg",
+    "HeroImage": "BEARCAT_58_BLACK_Hero.jpg",
     "Images": [
     ]
   }
@@ -4492,7 +4492,7 @@
     "FramePD": 77,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "CATAMOUNT__58_BLACK_Hero.jpg",
+    "HeroImage": "CATAMOUNT_58_BLACK_Hero.jpg",
     "Images": [
     ]
   }
@@ -4512,7 +4512,7 @@
     "FramePD": 79,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "CATAMOUNT__60_BLACK_Hero.jpg",
+    "HeroImage": "CATAMOUNT_60_BLACK_Hero.jpg",
     "Images": [
     ]
   }
@@ -4532,7 +4532,7 @@
     "FramePD": 77,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "CATAMOUNT__58_BROWN_Hero.jpg",
+    "HeroImage": "CATAMOUNT_58_BROWN_Hero.jpg",
     "Images": [
     ]
   }
@@ -4552,7 +4552,7 @@
     "FramePD": 79,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "CATAMOUNT__60_BROWN_Hero.jpg",
+    "HeroImage": "CATAMOUNT_60_BROWN_Hero.jpg",
     "Images": [
     ]
   }
@@ -4572,7 +4572,7 @@
     "FramePD": 77,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "CATAMOUNT__58_GUNMETAL_Hero.jpg",
+    "HeroImage": "CATAMOUNT_58_GUNMETAL_Hero.jpg",
     "Images": [
     ]
   }
@@ -4592,7 +4592,7 @@
     "FramePD": 79,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "CATAMOUNT__60_GUNMETAL_Hero.jpg",
+    "HeroImage": "CATAMOUNT_60_GUNMETAL_Hero.jpg",
     "Images": [
     ]
   }
@@ -6447,7 +6447,7 @@
     "FramePD": 69,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "PARTY__52_BLACK_Hero.jpg",
+    "HeroImage": "PARTY_52_BLACK_Hero.jpg",
     "Images": [
     ]
   }
@@ -6467,7 +6467,7 @@
     "FramePD": 69,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "PARTY__52_BURGUNDY_Hero.jpg",
+    "HeroImage": "PARTY_52_BURGUNDY_Hero.jpg",
     "Images": [
     ]
   }
@@ -6487,7 +6487,7 @@
     "FramePD": 69,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "PARTY__52_PURPLE_Hero.jpg",
+    "HeroImage": "PARTY_52_PURPLE_Hero.jpg",
     "Images": [
     ]
   }
@@ -6498,7 +6498,8 @@
     "Material": "Plastic",
     "Color": "BLACK/RED",
     "ColorTags": [
-      "BLACK RED"
+      "BLACK",
+      "RED"
     ],
     "EyeSize": 50,
     "DBL": 18,
@@ -6507,7 +6508,7 @@
     "FramePD": 68,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "DC_363_50_BLACK/RED_Hero.jpg",
+    "HeroImage": "DC_363_50_BLACK_RED_Hero.jpg",
     "Images": [
     ]
   }
