@@ -283,17 +283,22 @@ const CatalogApp = {
       if (skuList.length > 0) {
         repImg = skuList[0].HeroImage || '';
       }
+
+	const isSafety = skuList.some(sku => sku.safety === true);
+	const isSport = skuList.some(sku => sku.sport === true);
+
+
       const imgPath = repImg ? `images/${repImg}` : 'images/coming-soon.jpg';
       frameGroups.push({
         frameName,
         skus: skuList,
-        representativeImage: imgPath
+        representativeImage: imgPath, isSafety, isSport
       });
     });
 
-    // 3) Sort so that frames with “coming-soon” appear last
+    // 3) Sort frames alphabetically
     frameGroups.sort((a, b) => {
-      return aframeName.localeCompare(b.frameName);
+      a.frameName.localeCompare(b.frameName);
     });
 
     // 4) Clone thumbnail-template for each group and populate
