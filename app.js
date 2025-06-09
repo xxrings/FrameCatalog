@@ -293,7 +293,7 @@ const CatalogApp = {
 
     // 3) Sort so that frames with “coming-soon” appear last
     frameGroups.sort((a, b) => {
-      return a["Frame Name"].localeCompare(b["Frame Name"]);
+      return aframeName.localeCompare(b.frameName);
     });
 
     // 4) Clone thumbnail-template for each group and populate
