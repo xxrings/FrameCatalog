@@ -298,7 +298,7 @@ const CatalogApp = {
 
     // 3) Sort frames alphabetically
     frameGroups.sort((a, b) => {
-      a.frameName.localeCompare(b.frameName);
+      return a.frameName.localeCompare(b.frameName);
     });
 
     // 4) Clone thumbnail-template for each group and populate
