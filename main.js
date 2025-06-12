@@ -54,24 +54,29 @@ const CatalogApp = (function() {
 
     // --- Material ---
     html.push('<div class="filter-group">');
-    html.push('  <label for="filter-material">Material:</label>');
-    html.push('  <select id="filter-material">');
-    html.push('    <option value="">All</option>');
+    html.push('  <label>Material:</label>');
+    html.push('  <div class="multi-dropdown" id="filter-material-dropdown">');
+    html.push('    <button type="button" class="multi-dropdown-btn">Select Material</button>');
+    html.push('    <div class="multi-dropdown-menu">');
     allMaterials.forEach(m => {
-      html.push(`    <option value="${m}">${m}</option>`);
+      html.push(`<label><input type="checkbox" value="${m}"> ${m}</label>`);
     });
-    html.push('  </select>');
+    html.push('    </div>');
+    html.push('  </div>');
     html.push('</div>');
+   
 
     // --- Color ---
     html.push('<div class="filter-group">');
-    html.push('  <label for="filter-color">Color:</label>');
-    html.push('  <select id="filter-color">');
-    html.push('    <option value="">All</option>');
+    html.push('  <label>Color:</label>');
+    html.push('  <div class="multi-dropdown" id="filter-color-dropdown">');
+    html.push('    <button type="button" class="multi-dropdown-btn">Select Color</button>');
+    html.push('    <div class="multi-dropdown-menu">');
     allColors.forEach(c => {
-      html.push(`    <option value="${c}">${c}</option>`);
+      html.push(`<label><input type="checkbox" value="${c}"> ${c}</label>`);
     });
-    html.push('  </select>');
+    html.push('    </div>');
+    html.push('  </div>');
     html.push('</div>');
 
     // --- Eye Size (multi) ---
