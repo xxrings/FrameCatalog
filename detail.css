@@ -1,0 +1,97 @@
+/* ========================================================================== 
+   DETAILS PAGE: MAIN IMAGE & OVERLAY (fixed 4:3 box via aspect-ratio)  
+   ========================================================================== */
+#detail-main-image-container {
+  position: relative;
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto 1.5rem;
+  aspect-ratio: 4 / 3;           /* lock in 4:3 */
+  background: #fafafa;
+  overflow: hidden;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+#detail-main-image {
+  position: absolute;
+  inset: 0;                      /* top/right/bottom/left: 0 */
+  width: 100%;
+  height: 100%;
+  object-fit: contain;           /* scale to fit inside box */
+}
+
+/* BACK ORDERED overlay */
+#bo-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(255,255,255,0.7);
+  font-size: 2rem;
+  font-weight: bold;
+  color: #c00;
+  z-index: 2;
+}
+#bo-overlay.hidden {
+  display: none;
+}
+
+/* ========================================================================== 
+   DETAILS PAGE: EXTRA-VIEWS GALLERY  
+   ========================================================================== */
+#gallery-thumbs {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+#gallery-thumbs:empty {
+  display: none;
+}
+.gallery-thumb {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: box-shadow 0.2s, border 0.2s;
+}
+.gallery-thumb:hover {
+  box-shadow: 0 0 4px rgba(0,0,0,0.2);
+}
+.gallery-thumb.selected {
+  border: 2px solid #007bff;
+}
+
+/* ========================================================================== 
+   DETAILS PAGE: SKU TABLE  
+   ========================================================================== */
+#sku-table {
+  overflow-x: auto;
+  background: #fff;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-bottom: 1.5rem;
+}
+
+#sku-table table {
+  width: 100%;
+  border-collapse: collapse;
+}
+#sku-table th,
+#sku-table td {
+  border: 1px solid #ccc;
+  padding: 0.6rem;
+  text-align: center;
+  font-size: 0.9rem;
+}
+#sku-table th {
+  background: #f0f0f0;
+  font-weight: 600;
+}
+#sku-table tr:nth-child(even) {
+  background: #fafafa;
+}
