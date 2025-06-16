@@ -1,4 +1,4 @@
-// ===========================================================================
+p// ===========================================================================
 // main.js
 // ===========================================================================
 //
@@ -26,6 +26,7 @@ const CatalogApp = (function() {
         buildFilterControls();
         renderThumbnails(allFrames);
         hookMultiDropdowns();
+        setupFilters();
       })
       .catch(err => {
         thumbsContainer.innerHTML = '<p class="error">Failed to load catalog.</p>';
