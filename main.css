@@ -139,6 +139,9 @@
   font-size: 0.95rem;
   color: #222;
 }
+.thumb-label:empty{
+   display: none;
+}
 
 /* ========================================================================== 
    MAIN PAGE: SAFETY/SPORT BADGE
