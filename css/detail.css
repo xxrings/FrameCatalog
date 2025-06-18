@@ -1,0 +1,122 @@
+/* detail.css */
+
+/* Center header (frame name + back-button) */
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+
+/* 1) Center the entire main flow */
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 1rem;
+}
+
+/* 2) Center the frame name and dropdowns */
+#selectors {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+#selectors h1,
+#selectors label,
+#selectors select {
+  text-align: center;
+}
+
+/* 3) Ensure the gallery stays centered */
+#gallery {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+/* 4) Center the SKU table and constrain its width */
+#sku-table {
+  margin: 0 auto;           /* center horizontally */
+  max-width: 600px;         /* same as image width */
+}
+
+
+/* MAIN IMAGE: natural width, no forced aspect-ratio */
+#detail-main-image-container {
+  position: relative;
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto 1.5rem;
+}
+#detail-main-image {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* BACK ORDERED overlay: red text over image */
+#bo-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: bold;
+  color: #c00;
+  z-index: 2;
+  pointer-events: none;
+}
+#bo-overlay.hidden {
+  display: none;
+}
+
+/* ========================================================================== 
+   DETAILS PAGE: GALLERY THUMBS & SKU TABLE
+   ========================================================================== */
+/* (Keep any additional existing rules below) */
+```css
+/* detail.css */
+
+/* MAIN IMAGE: natural width, no forced aspect-ratio */
+#detail-main-image-container {
+  position: relative;
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto 1.5rem;
+}
+#detail-main-image {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* BACK ORDERED overlay: red text over image */
+#bo-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: bold;
+  color: #c00;
+  pointer-events: none;
+}
+#bo-overlay.hidden {
+  display: none;
+}
+
+/* ========================================================================== 
+   DETAILS PAGE: GALLERY THUMBS & SKU TABLE
+   ========================================================================== */
+/* (Keep the rest of your existing detail.css rules below) */

@@ -4,30 +4,29 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Frame Catalog</title>
-  <link rel="icon" href="favicon.ico">
-  <link rel="stylesheet" href="common.css">
-  <link rel="stylesheet" href="main.css">
-
+  <link rel="icon" href="favicon.ico" />
+  <link rel="stylesheet" href="css/common.css" />
+  <link rel="stylesheet" href="css/main.css" />
 </head>
 <body>
   <header>
     <h1>Frame Catalog</h1>
   </header>
 
-  <!-- FILTER PANEL -->
-  <section id="filters">
-    <!-- app.js will inject all filter controls here -->
-  </section>
+  <main>
+    <div class="catalog-container">
+      <!-- FILTER SIDEBAR -->
+      <aside id="filters"></aside>
 
-  <!-- THUMBNAILS GRID -->
-  <section id="thumbnails">
-    <!-- app.js will render one card per unique frame -->
-  </section>
+      <!-- THUMBNAILS GRID -->
+      <section id="thumbnails"></section>
+    </div>
+  </main>
 
-  <!-- TEMPLATE FOR A SINGLE THUMBNAIL CARD -->
+  <!-- TEMPLATE FOR THUMBNAIL -->
   <template id="thumbnail-template">
     <div class="thumb-card">
-      <a href="" class="thumb-link">
+      <a href="#" class="thumb-link">
         <div class="thumb-img-container">
           <div class="thumb-label"></div>
           <img src="" alt="Frame Image" class="thumb-img" />
@@ -37,11 +36,9 @@
     </div>
   </template>
 
-  <script src="main.js"></script>
-  <script>
-    window.addEventListener('DOMContentLoaded', () => {
-      CatalogApp.initMainPage();
-    });
+  <script type="module">
+    import { initCatalogPage } from './js/app.js';
+    window.addEventListener('DOMContentLoaded', initCatalogPage);
   </script>
 </body>
 </html>

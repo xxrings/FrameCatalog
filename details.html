@@ -4,21 +4,25 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Frame Details</title>
-  <link rel="icon" href="favicon.ico">
-  <link rel="stylesheet" href="common.css">
-  <link rel="stylesheet" href="detail.css">
-
+  <link rel="icon" href="favicon.ico" />
+  <link rel="stylesheet" href="css/common.css" />
+  <link rel="stylesheet" href="css/detail.css" />
 </head>
 <body>
   <header>
-    <button id="back-button">Back</button>
+    <button id="back-button">← Back</button>
     <h1 id="frame-name"></h1>
   </header>
 
-  <!-- Selector controls injected here -->
-  <section id="selectors"></section>
+  <main>
+    <!-- Selector controls injected here -->
+    <section id="selectors"></section>
+    <!-- Gallery and table injected by JS -->
+  </main>
 
-  <!-- detail.js handles gallery and table injection -->
-  <script src="detail.js"></script>
+  <script type="module">
+    import { initDetailPage } from './js/detail-page.js';
+    window.addEventListener('DOMContentLoaded', initDetailPage);
+  </script>
 </body>
 </html>
