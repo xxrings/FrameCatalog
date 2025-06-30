@@ -16,7 +16,7 @@
     "Discontinued": true,
     "HeroImage": "FX_118_51_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -38,7 +38,7 @@
     "Discontinued": true,
     "HeroImage": "FX_118_51_BURGUNDY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -60,7 +60,7 @@
     "Discontinued": true,
     "HeroImage": "FX_118_51_GOLD_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -82,7 +82,7 @@
     "Discontinued": true,
     "HeroImage": "FX_119_52_Burgundy_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -104,7 +104,7 @@
     "Discontinued": true,
     "HeroImage": "FX_119_52_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -126,7 +126,7 @@
     "Discontinued": true,
     "HeroImage": "FX_119_52_Rose_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -148,7 +148,7 @@
     "Discontinued": true,
     "HeroImage": "FX_115_53_BLUE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -170,7 +170,7 @@
     "Discontinued": true,
     "HeroImage": "FX_115_53_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -192,7 +192,7 @@
     "Discontinued": true,
     "HeroImage": "FX_115_53_BURGUNDY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -215,7 +215,7 @@
     "Discontinued": false,
     "HeroImage": "OG_086_53_BLACK_CHROME_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": true,
     "sport": false
   }
@@ -238,7 +238,7 @@
     "Discontinued": false,
     "HeroImage": "OG_086_53_CHOC._CHROME_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": true,
     "sport": false
   }
@@ -260,7 +260,7 @@
     "Discontinued": true,
     "HeroImage": "OG_144_54_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": true,
     "sport": false
   }
@@ -282,7 +282,7 @@
     "Discontinued": true,
     "HeroImage": "OG_401_A_52_PURPLE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": true,
     "sport": false
   }
@@ -303,7 +303,7 @@
     "Discontinued": true,
     "HeroImage": "SIDE_SHIELD___Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -324,7 +324,7 @@
     "Discontinued": true,
     "HeroImage": "POF_xxxxx_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -346,7 +346,7 @@
     "Discontinued": false,
     "HeroImage": "GRANDE_58_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -368,7 +368,7 @@
     "Discontinued": false,
     "HeroImage": "GRANDE_60_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -390,7 +390,7 @@
     "Discontinued": false,
     "HeroImage": "GRANDE_58_DARK_GREY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -412,7 +412,7 @@
     "Discontinued": false,
     "HeroImage": "GRANDE_60_DARK_GREY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -434,7 +434,7 @@
     "Discontinued": false,
     "HeroImage": "",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -456,7 +456,7 @@
     "Discontinued": false,
     "HeroImage": "VERTEX__48_NAVY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -478,7 +478,7 @@
     "Discontinued": false,
     "HeroImage": "",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -500,7 +500,7 @@
     "Discontinued": false,
     "HeroImage": "",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -522,7 +522,7 @@
     "Discontinued": false,
     "HeroImage": "FRACTION_48_CHOCOLATE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -544,7 +544,7 @@
     "Discontinued": false,
     "HeroImage": "",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -566,7 +566,7 @@
     "Discontinued": false,
     "HeroImage": "",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -588,7 +588,7 @@
     "Discontinued": false,
     "HeroImage": "MEDIAN_50_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -610,7 +610,7 @@
     "Discontinued": false,
     "HeroImage": "",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -632,7 +632,7 @@
     "Discontinued": false,
     "HeroImage": "",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -654,7 +654,7 @@
     "Discontinued": false,
     "HeroImage": "MEDIAN_54_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -676,7 +676,7 @@
     "Discontinued": false,
     "HeroImage": "",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -698,7 +698,7 @@
     "Discontinued": false,
     "HeroImage": "TR_9006_51_DEMI_AMBER_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -720,7 +720,7 @@
     "Discontinued": false,
     "HeroImage": "TR_9006_51_DEMI_BURGUNDY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -742,7 +742,7 @@
     "Discontinued": false,
     "HeroImage": "TR_9006_51_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -764,7 +764,7 @@
     "Discontinued": false,
     "HeroImage": "JAZZ_52_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -786,7 +786,7 @@
     "Discontinued": false,
     "HeroImage": "JAZZ_52_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -808,7 +808,7 @@
     "Discontinued": false,
     "HeroImage": "JAZZ_54_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -830,7 +830,7 @@
     "Discontinued": false,
     "HeroImage": "JAZZ_52_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -852,7 +852,7 @@
     "Discontinued": false,
     "HeroImage": "JAZZ_54_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -874,7 +874,7 @@
     "Discontinued": false,
     "HeroImage": "JAZZ_54_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -896,7 +896,7 @@
     "Discontinued": false,
     "HeroImage": "JAZZ_56_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -918,7 +918,7 @@
     "Discontinued": false,
     "HeroImage": "JAZZ_56_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -940,7 +940,7 @@
     "Discontinued": false,
     "HeroImage": "JAZZ_56_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -963,7 +963,7 @@
     "Discontinued": false,
     "HeroImage": "AXIS_58_DARK_GUN_GRN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": true,
     "sport": false
   }
@@ -986,7 +986,7 @@
     "Discontinued": false,
     "HeroImage": "AXIS_58_SILVER_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": true,
     "sport": false
   }
@@ -1008,7 +1008,7 @@
     "Discontinued": false,
     "HeroImage": "SPECTRE_54_MATTE_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": true,
     "sport": false
   }
@@ -1031,7 +1031,7 @@
     "Discontinued": false,
     "HeroImage": "SPECTRE_54_CRYSTAL/GREY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": true,
     "sport": false
   }
@@ -1053,7 +1053,7 @@
     "Discontinued": false,
     "HeroImage": "EN_5716_56_BROWN_FADE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1075,7 +1075,7 @@
     "Discontinued": false,
     "HeroImage": "EN_5716_52_GREY_FADE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1097,7 +1097,7 @@
     "Discontinued": false,
     "HeroImage": "EN_5716_56_GREY_FADE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1120,7 +1120,7 @@
     "Discontinued": false,
     "HeroImage": "H_4629_51_GOLD_TORT_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1143,7 +1143,7 @@
     "Discontinued": false,
     "HeroImage": "H_4629_51_SILVER_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1166,7 +1166,7 @@
     "Discontinued": false,
     "HeroImage": "H_4617_52_COBALT_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1189,7 +1189,7 @@
     "Discontinued": false,
     "HeroImage": "H_4617_52_BLACK_PINK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1212,7 +1212,7 @@
     "Discontinued": false,
     "HeroImage": "H_4617_52_RED_CRYSTAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1235,7 +1235,7 @@
     "Discontinued": false,
     "HeroImage": "H_4617_52_TEAL_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1260,7 +1260,7 @@
     "Discontinued": false,
     "HeroImage": "H_4629_51_TORTOISE_GUN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1283,7 +1283,7 @@
     "Discontinued": false,
     "HeroImage": "H_4629_51_BLACK_GUN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1307,7 +1307,7 @@
     "Discontinued": false,
     "HeroImage": "H_4665_53_MATTE_TORT_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1329,7 +1329,7 @@
     "Discontinued": false,
     "HeroImage": "H_4665_53_MATTE_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1351,7 +1351,7 @@
     "Discontinued": false,
     "HeroImage": "EH_4679_53_BROWN_MIST_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1373,7 +1373,7 @@
     "Discontinued": false,
     "HeroImage": "EH_4679_53_GREY_MIST_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1395,7 +1395,7 @@
     "Discontinued": false,
     "HeroImage": "J_5903_52_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1417,7 +1417,7 @@
     "Discontinued": false,
     "HeroImage": "J_5903_54_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1439,7 +1439,7 @@
     "Discontinued": false,
     "HeroImage": "J_5903_56_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1461,7 +1461,7 @@
     "Discontinued": false,
     "HeroImage": "J_5903_52_GOLD_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1483,7 +1483,7 @@
     "Discontinued": false,
     "HeroImage": "J_5903_54_GOLD_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1505,7 +1505,7 @@
     "Discontinued": false,
     "HeroImage": "J_5903_56_GOLD_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1527,7 +1527,7 @@
     "Discontinued": false,
     "HeroImage": "J_5903_52_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1549,7 +1549,7 @@
     "Discontinued": false,
     "HeroImage": "J_5903_54_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1571,7 +1571,7 @@
     "Discontinued": false,
     "HeroImage": "J_5903_56_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1593,7 +1593,7 @@
     "Discontinued": true,
     "HeroImage": "VS_9311_53_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1615,7 +1615,7 @@
     "Discontinued": true,
     "HeroImage": "VS_9311_53_PURPLE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1637,7 +1637,7 @@
     "Discontinued": false,
     "HeroImage": "EQ_1508_51_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1659,7 +1659,7 @@
     "Discontinued": false,
     "HeroImage": "EQ_1508_51_COBALT_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1683,7 +1683,7 @@
     "Discontinued": false,
     "HeroImage": "EQ_1508_51_TORTOISE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1705,7 +1705,7 @@
     "Discontinued": false,
     "HeroImage": "EQ_1513_54_BRIER_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1727,7 +1727,7 @@
     "Discontinued": false,
     "HeroImage": "EQ_1513_54_NAVY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1749,7 +1749,7 @@
     "Discontinued": false,
     "HeroImage": "EN_4011_48_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1771,7 +1771,7 @@
     "Discontinued": false,
     "HeroImage": "EN_4011_48_GUN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1793,7 +1793,7 @@
     "Discontinued": false,
     "HeroImage": "EQ_1513_54_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1815,7 +1815,7 @@
     "Discontinued": false,
     "HeroImage": "H_4665_53_SHINY_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1839,7 +1839,7 @@
     "Discontinued": false,
     "HeroImage": "H_4665_53_SHINY_TORT_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1861,7 +1861,7 @@
     "Discontinued": false,
     "HeroImage": "EQ_1547_54_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1883,7 +1883,7 @@
     "Discontinued": false,
     "HeroImage": "EQ_1547_54_NAVY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1905,7 +1905,7 @@
     "Discontinued": false,
     "HeroImage": "MC_6244_54_TEAL_MIX_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1927,7 +1927,7 @@
     "Discontinued": false,
     "HeroImage": "MC_6244_54_LAVENDER_MIX_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1950,7 +1950,7 @@
     "Discontinued": false,
     "HeroImage": "MC_6244_54_BROWN_PEARL_MIX_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1972,7 +1972,7 @@
     "Discontinued": false,
     "HeroImage": "7765_54_Brown_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -1994,7 +1994,7 @@
     "Discontinued": false,
     "HeroImage": "7765_57_Brown_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2016,7 +2016,7 @@
     "Discontinued": false,
     "HeroImage": "7765_54_Gunmetal_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2038,7 +2038,7 @@
     "Discontinued": false,
     "HeroImage": "7765_57_Gunmetal_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2060,7 +2060,7 @@
     "Discontinued": false,
     "HeroImage": "7766_54_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2082,7 +2082,7 @@
     "Discontinued": false,
     "HeroImage": "7766_57_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2104,7 +2104,7 @@
     "Discontinued": false,
     "HeroImage": "7766_54_GUN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2126,7 +2126,7 @@
     "Discontinued": false,
     "HeroImage": "7766_57_GUN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2148,7 +2148,7 @@
     "Discontinued": false,
     "HeroImage": "EQ_7857_53_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2170,7 +2170,7 @@
     "Discontinued": false,
     "HeroImage": "EQ_7857_56_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2192,7 +2192,7 @@
     "Discontinued": false,
     "HeroImage": "EQ_7857_53_MATT_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2214,7 +2214,7 @@
     "Discontinued": false,
     "HeroImage": "EQ_7857_56_MATT_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2236,7 +2236,7 @@
     "Discontinued": false,
     "HeroImage": "EQ_7857_53_SHINY_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2258,7 +2258,7 @@
     "Discontinued": false,
     "HeroImage": "EQ_7857_56_SHINY_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2280,7 +2280,7 @@
     "Discontinued": false,
     "HeroImage": "EQ_8844_55_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2302,7 +2302,7 @@
     "Discontinued": false,
     "HeroImage": "EQ_8844_55_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2325,7 +2325,7 @@
     "Discontinued": false,
     "HeroImage": "MC_6254_56_PURPLE_TORT_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2348,7 +2348,7 @@
     "Discontinued": false,
     "HeroImage": "MC_6254_56_BURGUNDY_TORT_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2370,7 +2370,7 @@
     "Discontinued": false,
     "HeroImage": "EN_4093_46_PURPLE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2392,7 +2392,7 @@
     "Discontinued": false,
     "HeroImage": "EN_4093_46_BLUE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2414,7 +2414,7 @@
     "Discontinued": false,
     "HeroImage": "EN_4093_46_RED_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2436,7 +2436,7 @@
     "Discontinued": false,
     "HeroImage": "EN_4093_46_GREEN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2458,7 +2458,7 @@
     "Discontinued": false,
     "HeroImage": "H_4835_50_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2482,7 +2482,7 @@
     "Discontinued": false,
     "HeroImage": "H_4835_50_TORTOISE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2504,7 +2504,7 @@
     "Discontinued": false,
     "HeroImage": "H_4835_50_CRYSTAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2526,7 +2526,7 @@
     "Discontinued": false,
     "HeroImage": "EN_4011_48_GOLD_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2548,7 +2548,7 @@
     "Discontinued": false,
     "HeroImage": "EN_4091_50_SILVER_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2570,7 +2570,7 @@
     "Discontinued": false,
     "HeroImage": "EN_4091_50_GOLD_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2592,7 +2592,7 @@
     "Discontinued": false,
     "HeroImage": "EN_4091_50_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2615,7 +2615,7 @@
     "Discontinued": false,
     "HeroImage": "MC_6268_53_BLUE_AMBER_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2638,7 +2638,7 @@
     "Discontinued": false,
     "HeroImage": "MC_6268_53_PINK_AMBER_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2661,7 +2661,7 @@
     "Discontinued": false,
     "HeroImage": "MC_6268_53_PURPLE_AMBER_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2683,7 +2683,7 @@
     "Discontinued": false,
     "HeroImage": "EN_4090_48_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2705,7 +2705,7 @@
     "Discontinued": false,
     "HeroImage": "EN_4090_48_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2728,7 +2728,7 @@
     "Discontinued": false,
     "HeroImage": "MC_6278_52_SATIN_BLK_GOLD_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2751,7 +2751,7 @@
     "Discontinued": false,
     "HeroImage": "MC_6278_52_SATIN_RED_GOLD_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2774,7 +2774,7 @@
     "Discontinued": false,
     "HeroImage": "MC_6278_52_SATIN_PURP_GOLD_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2796,7 +2796,7 @@
     "Discontinued": false,
     "HeroImage": "H_4858_49_SILVER_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2818,7 +2818,7 @@
     "Discontinued": false,
     "HeroImage": "H_4858_49_GOLD_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2840,7 +2840,7 @@
     "Discontinued": false,
     "HeroImage": "H_4858_49_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2862,7 +2862,7 @@
     "Discontinued": false,
     "HeroImage": "EN_5716_52_BROWN_FADE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2884,7 +2884,7 @@
     "Discontinued": false,
     "HeroImage": "EN_5716_54_BROWN_FADE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2906,7 +2906,7 @@
     "Discontinued": false,
     "HeroImage": "EN_5716_54_GREY_FADE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2928,7 +2928,7 @@
     "Discontinued": false,
     "HeroImage": "MC_6284_50_GREEN_FADE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2950,7 +2950,7 @@
     "Discontinued": false,
     "HeroImage": "MC_6284_50_MAUVE_FADE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2972,7 +2972,7 @@
     "Discontinued": false,
     "HeroImage": "MC_6284_50_PURPLE_FADE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -2994,7 +2994,7 @@
     "Discontinued": true,
     "HeroImage": "EQ_6733_54_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3016,7 +3016,7 @@
     "Discontinued": true,
     "HeroImage": "EQ_6733_54_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3038,7 +3038,7 @@
     "Discontinued": false,
     "HeroImage": "EQ_6763_57_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3060,7 +3060,7 @@
     "Discontinued": false,
     "HeroImage": "EQ_6763_57_GUN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3082,7 +3082,7 @@
     "Discontinued": false,
     "HeroImage": "EQ_1611_53_MATT_AMBER_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3104,7 +3104,7 @@
     "Discontinued": false,
     "HeroImage": "EQ_1611_53_MATT_SLATE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3126,7 +3126,7 @@
     "Discontinued": false,
     "HeroImage": "EN_4350_53_SHINY_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3148,7 +3148,7 @@
     "Discontinued": false,
     "HeroImage": "EN_4350_53_SHINY_COBALT_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3172,7 +3172,7 @@
     "Discontinued": false,
     "HeroImage": "EN_4350_53_SH_GRAY_CR/MA_BLK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3195,7 +3195,7 @@
     "Discontinued": false,
     "HeroImage": "EQ_1616_53_BLACK_CRYSTAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3218,7 +3218,7 @@
     "Discontinued": false,
     "HeroImage": "EQ_1616_53_BROWN_CRYSTAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3240,7 +3240,7 @@
     "Discontinued": false,
     "HeroImage": "EQ_1618_54_BROWN_WAVE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3262,7 +3262,7 @@
     "Discontinued": false,
     "HeroImage": "EQ_1618_54_GREY_WAVE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3284,7 +3284,7 @@
     "Discontinued": false,
     "HeroImage": "EN_4011_51_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3306,7 +3306,7 @@
     "Discontinued": false,
     "HeroImage": "EN_4011_51_GOLD_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3328,7 +3328,7 @@
     "Discontinued": false,
     "HeroImage": "EN_4011_51_GUN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3351,7 +3351,7 @@
     "Discontinued": false,
     "HeroImage": "D_490_54_BLACK_CRYSTAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": true,
     "sport": false
   }
@@ -3374,7 +3374,7 @@
     "Discontinued": false,
     "HeroImage": "D_490_56_BLACK_CRYSTAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": true,
     "sport": false
   }
@@ -3396,7 +3396,7 @@
     "Discontinued": false,
     "HeroImage": "TROJAN_57_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3418,7 +3418,7 @@
     "Discontinued": false,
     "HeroImage": "TROJAN_59_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3440,7 +3440,7 @@
     "Discontinued": false,
     "HeroImage": "TROJAN_57_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3462,7 +3462,7 @@
     "Discontinued": false,
     "HeroImage": "TROJAN_59_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3484,7 +3484,7 @@
     "Discontinued": false,
     "HeroImage": "TROJAN_57_NAVY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3506,7 +3506,7 @@
     "Discontinued": false,
     "HeroImage": "TROJAN_59_NAVY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3528,7 +3528,7 @@
     "Discontinued": false,
     "HeroImage": "TERRAPIN_61_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3552,7 +3552,7 @@
     "Discontinued": false,
     "HeroImage": "TERRAPIN_61_TORTOISE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3574,7 +3574,7 @@
     "Discontinued": false,
     "HeroImage": "COUGAR_58_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3596,7 +3596,7 @@
     "Discontinued": false,
     "HeroImage": "COUGAR_58_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3618,7 +3618,7 @@
     "Discontinued": false,
     "HeroImage": "M_573_54_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3640,7 +3640,7 @@
     "Discontinued": false,
     "HeroImage": "M_573_54_GOLD_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3662,7 +3662,7 @@
     "Discontinued": false,
     "HeroImage": "M_573_54_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3684,7 +3684,7 @@
     "Discontinued": false,
     "HeroImage": "ROCKAWAY_BLVD_52_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3706,7 +3706,7 @@
     "Discontinued": false,
     "HeroImage": "ROCKAWAY_BLVD_54_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3728,7 +3728,7 @@
     "Discontinued": false,
     "HeroImage": "ROCKAWAY_BLVD_52_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3750,7 +3750,7 @@
     "Discontinued": false,
     "HeroImage": "ROCKAWAY_BLVD_54_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3772,7 +3772,7 @@
     "Discontinued": false,
     "HeroImage": "ROCKAWAY_BLVD_52_NAVY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3794,7 +3794,7 @@
     "Discontinued": false,
     "HeroImage": "ROCKAWAY_BLVD_54_NAVY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3816,7 +3816,7 @@
     "Discontinued": false,
     "HeroImage": "LONGHORN_57_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3838,7 +3838,7 @@
     "Discontinued": false,
     "HeroImage": "LONGHORN_57_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3860,7 +3860,7 @@
     "Discontinued": false,
     "HeroImage": "LONGHORN_57_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3882,7 +3882,7 @@
     "Discontinued": false,
     "HeroImage": "BEARCAT_58_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3904,7 +3904,7 @@
     "Discontinued": false,
     "HeroImage": "BEARCAT_58_BLACK_DEMI_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3926,7 +3926,7 @@
     "Discontinued": false,
     "HeroImage": "BEARCAT_58_BLUE_DEMI_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3948,7 +3948,7 @@
     "Discontinued": false,
     "HeroImage": "ALONDRA_56_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3970,7 +3970,7 @@
     "Discontinued": false,
     "HeroImage": "ALONDRA_56_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -3992,7 +3992,7 @@
     "Discontinued": false,
     "HeroImage": "ALONDRA_56_LILAC_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4014,7 +4014,7 @@
     "Discontinued": false,
     "HeroImage": "I_129_53_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4036,7 +4036,7 @@
     "Discontinued": false,
     "HeroImage": "I_129_55_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4058,7 +4058,7 @@
     "Discontinued": false,
     "HeroImage": "I_129_53_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4080,7 +4080,7 @@
     "Discontinued": false,
     "HeroImage": "I_129_55_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4102,7 +4102,7 @@
     "Discontinued": false,
     "HeroImage": "I_129_53_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4124,7 +4124,7 @@
     "Discontinued": false,
     "HeroImage": "I_129_55_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4146,7 +4146,7 @@
     "Discontinued": false,
     "HeroImage": "ZELDA_49_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4168,7 +4168,7 @@
     "Discontinued": false,
     "HeroImage": "ZELDA_49_BURGUNDY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4190,7 +4190,7 @@
     "Discontinued": false,
     "HeroImage": "ZELDA_49_PLUM_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4212,7 +4212,7 @@
     "Discontinued": false,
     "HeroImage": "L_5171_P_51_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4234,7 +4234,7 @@
     "Discontinued": false,
     "HeroImage": "L_5171_P_51_PURPLE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4256,7 +4256,7 @@
     "Discontinued": false,
     "HeroImage": "L_5171_P_51_NAVY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4278,7 +4278,7 @@
     "Discontinued": false,
     "HeroImage": "SHARMAIN_55_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4300,7 +4300,7 @@
     "Discontinued": false,
     "HeroImage": "SHARMAIN_55_PLUM_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4322,7 +4322,7 @@
     "Discontinued": false,
     "HeroImage": "SHARMAIN_55_SAPPHIRE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4344,7 +4344,7 @@
     "Discontinued": false,
     "HeroImage": "M_591_P_54_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4366,7 +4366,7 @@
     "Discontinued": false,
     "HeroImage": "M_591_P_56_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4388,7 +4388,7 @@
     "Discontinued": false,
     "HeroImage": "M_591_P_54_GOLD_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4410,7 +4410,7 @@
     "Discontinued": false,
     "HeroImage": "M_591_P_56_GOLD_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4432,7 +4432,7 @@
     "Discontinued": false,
     "HeroImage": "M_591_P_54_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4454,7 +4454,7 @@
     "Discontinued": false,
     "HeroImage": "M_591_P_56_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4476,7 +4476,7 @@
     "Discontinued": false,
     "HeroImage": "BLISS_53_JET_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4498,7 +4498,7 @@
     "Discontinued": false,
     "HeroImage": "BLISS_53_NAVY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4520,7 +4520,7 @@
     "Discontinued": false,
     "HeroImage": "BLISS_53_RASPBERRY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4542,7 +4542,7 @@
     "Discontinued": false,
     "HeroImage": "LARIMER_RD_54_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4564,7 +4564,7 @@
     "Discontinued": false,
     "HeroImage": "LARIMER_RD_54_GOLD_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4586,7 +4586,7 @@
     "Discontinued": false,
     "HeroImage": "LARIMER_RD_54_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4608,7 +4608,7 @@
     "Discontinued": false,
     "HeroImage": "MARGIE_56_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4630,7 +4630,7 @@
     "Discontinued": false,
     "HeroImage": "MARGIE_56_HAVANA_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4652,7 +4652,7 @@
     "Discontinued": false,
     "HeroImage": "MARGIE_56_MAGENTA_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4674,7 +4674,7 @@
     "Discontinued": false,
     "HeroImage": "SAWYER_58_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4696,7 +4696,7 @@
     "Discontinued": false,
     "HeroImage": "SAWYER_58_SAPPHIRE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4718,7 +4718,7 @@
     "Discontinued": false,
     "HeroImage": "SAWYER_58_EGGPLANT_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4740,7 +4740,7 @@
     "Discontinued": false,
     "HeroImage": "STATESMAN_56_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4762,7 +4762,7 @@
     "Discontinued": false,
     "HeroImage": "STATESMAN_58_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4784,7 +4784,7 @@
     "Discontinued": false,
     "HeroImage": "STATESMAN_56_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4806,7 +4806,7 @@
     "Discontinued": false,
     "HeroImage": "STATESMAN_58_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4828,7 +4828,7 @@
     "Discontinued": false,
     "HeroImage": "STATESMAN_56_NAVY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4850,7 +4850,7 @@
     "Discontinued": false,
     "HeroImage": "STATESMAN_58_NAVY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4872,7 +4872,7 @@
     "Discontinued": false,
     "HeroImage": "BLESSED_51_ALABASTER_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4894,7 +4894,7 @@
     "Discontinued": false,
     "HeroImage": "BLESSED_51_DOVE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4916,7 +4916,7 @@
     "Discontinued": false,
     "HeroImage": "BLESSED_51_DUSTY_ROSE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4938,7 +4938,7 @@
     "Discontinued": true,
     "HeroImage": "CATAMOUNT_58_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4960,7 +4960,7 @@
     "Discontinued": true,
     "HeroImage": "CATAMOUNT_60_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -4982,7 +4982,7 @@
     "Discontinued": true,
     "HeroImage": "CATAMOUNT_58_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5004,7 +5004,7 @@
     "Discontinued": true,
     "HeroImage": "CATAMOUNT_60_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5026,7 +5026,7 @@
     "Discontinued": true,
     "HeroImage": "CATAMOUNT_58_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5048,7 +5048,7 @@
     "Discontinued": true,
     "HeroImage": "CATAMOUNT_60_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5070,7 +5070,7 @@
     "Discontinued": false,
     "HeroImage": "AERO_3003_54_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5092,7 +5092,7 @@
     "Discontinued": false,
     "HeroImage": "AERO_3003_54_GUN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5114,7 +5114,7 @@
     "Discontinued": false,
     "HeroImage": "AERO_3003_54_NAVY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5136,7 +5136,7 @@
     "Discontinued": false,
     "HeroImage": "PRESTON_RD_50_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5158,7 +5158,7 @@
     "Discontinued": false,
     "HeroImage": "PRESTON_RD_50_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5180,7 +5180,7 @@
     "Discontinued": false,
     "HeroImage": "AERO_1008_50_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5202,7 +5202,7 @@
     "Discontinued": false,
     "HeroImage": "AERO_1008_50_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5224,7 +5224,7 @@
     "Discontinued": false,
     "HeroImage": "AERO_1008_50_NAVY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5246,7 +5246,7 @@
     "Discontinued": false,
     "HeroImage": "STINGER_57_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5268,7 +5268,7 @@
     "Discontinued": false,
     "HeroImage": "STINGER_59_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5290,7 +5290,7 @@
     "Discontinued": false,
     "HeroImage": "STINGER_57_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5312,7 +5312,7 @@
     "Discontinued": false,
     "HeroImage": "STINGER_59_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5334,7 +5334,7 @@
     "Discontinued": false,
     "HeroImage": "STINGER_57_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5356,7 +5356,7 @@
     "Discontinued": false,
     "HeroImage": "STINGER_59_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5378,7 +5378,7 @@
     "Discontinued": false,
     "HeroImage": "BLANCHE_61_INDIGO_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5400,7 +5400,7 @@
     "Discontinued": false,
     "HeroImage": "BLANCHE_61_MULBERRY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5422,7 +5422,7 @@
     "Discontinued": false,
     "HeroImage": "BLANCHE_61_RAVEN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5444,7 +5444,7 @@
     "Discontinued": false,
     "HeroImage": "SKYHAWK_59_CRYSTAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5466,7 +5466,7 @@
     "Discontinued": false,
     "HeroImage": "SKYHAWK_59_GREY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5488,7 +5488,7 @@
     "Discontinued": false,
     "HeroImage": "SKYHAWK_59_FOREST_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5510,7 +5510,7 @@
     "Discontinued": false,
     "HeroImage": "AERO_3008_52_GRAPHITE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5532,7 +5532,7 @@
     "Discontinued": false,
     "HeroImage": "AERO_3008_52_RED_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5554,7 +5554,7 @@
     "Discontinued": false,
     "HeroImage": "AERO_3008_52_ORANGE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5576,7 +5576,7 @@
     "Discontinued": false,
     "HeroImage": "HAC_109_54_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5598,7 +5598,7 @@
     "Discontinued": false,
     "HeroImage": "HAC_109_54_SLATE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5621,7 +5621,7 @@
     "Discontinued": false,
     "HeroImage": "HAC_109_54_BLACK/RED_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5643,7 +5643,7 @@
     "Discontinued": false,
     "HeroImage": "7012_R_55_GREY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": true,
     "sport": false
   }
@@ -5665,7 +5665,7 @@
     "Discontinued": false,
     "HeroImage": "7013_R_54_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": true,
     "sport": false
   }
@@ -5687,7 +5687,7 @@
     "Discontinued": true,
     "HeroImage": "VP_126_55_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5709,7 +5709,7 @@
     "Discontinued": true,
     "HeroImage": "VP_126_55_GOLD_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5731,7 +5731,7 @@
     "Discontinued": true,
     "HeroImage": "VP_126_55_COFFEE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5753,7 +5753,7 @@
     "Discontinued": false,
     "HeroImage": "PROTECH_55_CLEAR_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5775,7 +5775,7 @@
     "Discontinued": false,
     "HeroImage": "FX_103__57_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5797,7 +5797,7 @@
     "Discontinued": false,
     "HeroImage": "FX_103__57_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5819,7 +5819,7 @@
     "Discontinued": false,
     "HeroImage": "FX_103__57_GOLD_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5841,7 +5841,7 @@
     "Discontinued": false,
     "HeroImage": "FX_107__57_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5863,7 +5863,7 @@
     "Discontinued": false,
     "HeroImage": "FX_107__57_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5885,7 +5885,7 @@
     "Discontinued": false,
     "HeroImage": "FX_107__57_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5907,7 +5907,7 @@
     "Discontinued": false,
     "HeroImage": "GR_803_61_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5929,7 +5929,7 @@
     "Discontinued": false,
     "HeroImage": "GR_803_61_GUN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5951,7 +5951,7 @@
     "Discontinued": false,
     "HeroImage": "DC_158_55_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5973,7 +5973,7 @@
     "Discontinued": false,
     "HeroImage": "DC_158_55_GOLD_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -5995,7 +5995,7 @@
     "Discontinued": false,
     "HeroImage": "US_93_48_BLUE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6017,7 +6017,7 @@
     "Discontinued": false,
     "HeroImage": "US_93_48_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6039,7 +6039,7 @@
     "Discontinued": false,
     "HeroImage": "US_93_48_PURPLE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6061,7 +6061,7 @@
     "Discontinued": false,
     "HeroImage": "U_212_51_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6083,7 +6083,7 @@
     "Discontinued": false,
     "HeroImage": "U_212_51_BURGUNDY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6105,7 +6105,7 @@
     "Discontinued": false,
     "HeroImage": "U_212_51_PURPLE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6128,7 +6128,7 @@
     "Discontinued": false,
     "HeroImage": "US_92_47_BROWN_BLUE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6151,7 +6151,7 @@
     "Discontinued": false,
     "HeroImage": "US_92_47_GREY_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6173,7 +6173,7 @@
     "Discontinued": false,
     "HeroImage": "FX_110__55_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6195,7 +6195,7 @@
     "Discontinued": false,
     "HeroImage": "FX_110__55_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6217,7 +6217,7 @@
     "Discontinued": false,
     "HeroImage": "FX_110__55_BLUE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6240,7 +6240,7 @@
     "Discontinued": false,
     "HeroImage": "DC_188_51_BLACK_GOLD_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6263,7 +6263,7 @@
     "Discontinued": false,
     "HeroImage": "DC_188_51_PURPLE_PINK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6286,7 +6286,7 @@
     "Discontinued": true,
     "HeroImage": "EMMA_55_BLACK_PURPLE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6308,7 +6308,7 @@
     "Discontinued": true,
     "HeroImage": "EMMA_55_MAROON_RED_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6331,7 +6331,7 @@
     "Discontinued": true,
     "HeroImage": "EMMA_55_BLACK_BURGUNDY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6353,7 +6353,7 @@
     "Discontinued": true,
     "HeroImage": "DC_200_51_BLUE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6375,7 +6375,7 @@
     "Discontinued": true,
     "HeroImage": "DC_200_51_PINK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6398,7 +6398,7 @@
     "Discontinued": true,
     "HeroImage": "DC_200_51_BLUSH_CLEAR_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6420,7 +6420,7 @@
     "Discontinued": false,
     "HeroImage": "UP_310_51_PINK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6442,7 +6442,7 @@
     "Discontinued": false,
     "HeroImage": "UP_310_51_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6464,7 +6464,7 @@
     "Discontinued": false,
     "HeroImage": "UP_310_51_CRYSTAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6486,7 +6486,7 @@
     "Discontinued": false,
     "HeroImage": "FX_114__52_BLUE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6508,7 +6508,7 @@
     "Discontinued": false,
     "HeroImage": "FX_114__52_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6530,7 +6530,7 @@
     "Discontinued": false,
     "HeroImage": "FX_114__52_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6552,7 +6552,7 @@
     "Discontinued": true,
     "HeroImage": "DC_350_50_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6574,7 +6574,7 @@
     "Discontinued": true,
     "HeroImage": "DC_350_50_GREY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6596,7 +6596,7 @@
     "Discontinued": true,
     "HeroImage": "DC_350_50_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6618,7 +6618,7 @@
     "Discontinued": false,
     "HeroImage": "GR_818_58_BLUE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6641,7 +6641,7 @@
     "Discontinued": false,
     "HeroImage": "GR_818_58_BLACK_CLEAR_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6663,7 +6663,7 @@
     "Discontinued": false,
     "HeroImage": "GR_818_58_CRYSTAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6687,7 +6687,7 @@
     "Discontinued": false,
     "HeroImage": "DC_355_50_TORTOISE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6709,7 +6709,7 @@
     "Discontinued": false,
     "HeroImage": "DC_355_50_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6731,7 +6731,7 @@
     "Discontinued": false,
     "HeroImage": "DC_355_50_CLEAR_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6754,7 +6754,7 @@
     "Discontinued": false,
     "HeroImage": "US_111_51_BLACK_CLEAR_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6777,7 +6777,7 @@
     "Discontinued": false,
     "HeroImage": "US_111_51_BLUE_CLEAR_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6800,7 +6800,7 @@
     "Discontinued": false,
     "HeroImage": "US_111_51_GREY_CLEAR_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6822,7 +6822,7 @@
     "Discontinued": false,
     "HeroImage": "PT_204_54_PINK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6844,7 +6844,7 @@
     "Discontinued": false,
     "HeroImage": "PT_204_54_BURGUNDY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6866,7 +6866,7 @@
     "Discontinued": false,
     "HeroImage": "PT_204_54_GOLD_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6888,7 +6888,7 @@
     "Discontinued": true,
     "HeroImage": "UP_315_54_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6910,7 +6910,7 @@
     "Discontinued": true,
     "HeroImage": "UP_315_54_RUST_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6932,7 +6932,7 @@
     "Discontinued": true,
     "HeroImage": "UP_315_54_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6954,7 +6954,7 @@
     "Discontinued": false,
     "HeroImage": "RAD_55_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6976,7 +6976,7 @@
     "Discontinued": false,
     "HeroImage": "RAD_55_BURGUNDY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -6999,7 +6999,7 @@
     "Discontinued": false,
     "HeroImage": "RAD_55_CRYSTAL_WHITE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7021,7 +7021,7 @@
     "Discontinued": false,
     "HeroImage": "MAX_56_BLUE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7043,7 +7043,7 @@
     "Discontinued": false,
     "HeroImage": "MAX_56_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7065,7 +7065,7 @@
     "Discontinued": false,
     "HeroImage": "MAX_56_CRYSTAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7087,7 +7087,7 @@
     "Discontinued": false,
     "HeroImage": "PARTY_52_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7109,7 +7109,7 @@
     "Discontinued": false,
     "HeroImage": "PARTY_52_BURGUNDY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7131,7 +7131,7 @@
     "Discontinued": false,
     "HeroImage": "PARTY_52_PURPLE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7154,7 +7154,7 @@
     "Discontinued": false,
     "HeroImage": "DC_363_50_BLACK_RED_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7177,7 +7177,7 @@
     "Discontinued": false,
     "HeroImage": "DC_363_50_CRYSTAL_GOLD_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7200,7 +7200,7 @@
     "Discontinued": false,
     "HeroImage": "DC_509_51_SILVER_GOLD_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7223,7 +7223,7 @@
     "Discontinued": false,
     "HeroImage": "DC_509_51_BLACK_SILVER_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7246,7 +7246,7 @@
     "Discontinued": false,
     "HeroImage": "DC_509_51_BLACK_GOLD_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7268,7 +7268,7 @@
     "Discontinued": true,
     "HeroImage": "ML_4_50_SHINY_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7290,7 +7290,7 @@
     "Discontinued": true,
     "HeroImage": "ML_4_50_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7312,7 +7312,7 @@
     "Discontinued": true,
     "HeroImage": "ML_4_50_MATT_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7335,7 +7335,7 @@
     "Discontinued": false,
     "HeroImage": "DC_372_52_BLACK_RED_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7359,7 +7359,7 @@
     "Discontinued": false,
     "HeroImage": "DC_372_52_CRYSTAL_RED_GREEN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7381,7 +7381,7 @@
     "Discontinued": false,
     "HeroImage": "FX_118_51_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7403,7 +7403,7 @@
     "Discontinued": false,
     "HeroImage": "FX_118_51_BURGUNDY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7425,7 +7425,7 @@
     "Discontinued": false,
     "HeroImage": "FX_118_51_GOLD_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7447,7 +7447,7 @@
     "Discontinued": false,
     "HeroImage": "FX_119_52_BURGUNDY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7469,7 +7469,7 @@
     "Discontinued": false,
     "HeroImage": "FX_119_52_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7491,7 +7491,7 @@
     "Discontinued": false,
     "HeroImage": "FX_119_52_ROSE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7513,7 +7513,7 @@
     "Discontinued": false,
     "HeroImage": "FX_115_53_BLUE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7535,7 +7535,7 @@
     "Discontinued": false,
     "HeroImage": "FX_115_53_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7557,7 +7557,7 @@
     "Discontinued": false,
     "HeroImage": "FX_115_53_BURGUNDY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7580,7 +7580,7 @@
     "Discontinued": false,
     "HeroImage": "DC_375_57_BLUE_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7603,7 +7603,7 @@
     "Discontinued": false,
     "HeroImage": "DC_375_57_BLACK_GOLD_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7625,7 +7625,7 @@
     "Discontinued": false,
     "HeroImage": "DC_381_53_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7647,7 +7647,7 @@
     "Discontinued": false,
     "HeroImage": "DC_381_53_BURGUNDY_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7669,7 +7669,7 @@
     "Discontinued": false,
     "HeroImage": "DC_381_53_CLEAR_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7693,7 +7693,7 @@
     "Discontinued": false,
     "HeroImage": "DC_385_48_DARK_TORT_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7716,7 +7716,7 @@
     "Discontinued": false,
     "HeroImage": "DC_385_48_BLACK_CLEAR_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7739,7 +7739,7 @@
     "Discontinued": false,
     "HeroImage": "DC_385_48_GREY_CLEAR_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7761,7 +7761,7 @@
     "Discontinued": false,
     "HeroImage": "DC_384_49_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7783,7 +7783,7 @@
     "Discontinued": false,
     "HeroImage": "DC_384_49_CRYSTAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7805,7 +7805,7 @@
     "Discontinued": false,
     "HeroImage": "DC_384_49_LIGHT_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7827,7 +7827,7 @@
     "Discontinued": false,
     "HeroImage": "GR_825_59_BLUE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7849,7 +7849,7 @@
     "Discontinued": false,
     "HeroImage": "GR_825_59_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7872,7 +7872,7 @@
     "Discontinued": false,
     "HeroImage": "DC_372_52_BLUE_RED_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7895,7 +7895,7 @@
     "Discontinued": false,
     "HeroImage": "OLIVE_56_BLACK_GOLD_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7917,7 +7917,7 @@
     "Discontinued": false,
     "HeroImage": "OLIVE_56_DEMI_AMBER_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7939,7 +7939,7 @@
     "Discontinued": false,
     "HeroImage": "OLIVE_58_DEMI_AMBER_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7962,7 +7962,7 @@
     "Discontinued": false,
     "HeroImage": "OLIVE_58_BLACK_GOLD_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -7984,7 +7984,7 @@
     "Discontinued": false,
     "HeroImage": "FX_6_53_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -8006,7 +8006,7 @@
     "Discontinued": false,
     "HeroImage": "FX_6_53_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -8028,7 +8028,7 @@
     "Discontinued": false,
     "HeroImage": "FX_6_53_COFFEE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -8050,7 +8050,7 @@
     "Discontinued": false,
     "HeroImage": "FX_10_55_BLACK_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -8072,7 +8072,7 @@
     "Discontinued": false,
     "HeroImage": "FX_10_55_GUN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -8094,7 +8094,7 @@
     "Discontinued": false,
     "HeroImage": "FX_10_55_COFFEE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -8116,7 +8116,7 @@
     "Discontinued": false,
     "HeroImage": "PT_68_53_GUN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -8138,7 +8138,7 @@
     "Discontinued": false,
     "HeroImage": "PT_68_53_GOLD_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -8160,7 +8160,7 @@
     "Discontinued": false,
     "HeroImage": "PT_68_53_COFFEE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -8182,7 +8182,7 @@
     "Discontinued": false,
     "HeroImage": "FX_27__53_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -8204,7 +8204,7 @@
     "Discontinued": false,
     "HeroImage": "FX_27__53_GOLD_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -8226,7 +8226,7 @@
     "Discontinued": false,
     "HeroImage": "FX_27__53_COFFEE_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -8248,7 +8248,7 @@
     "Discontinued": false,
     "HeroImage": "7730_53_BROWN_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -8270,7 +8270,7 @@
     "Discontinued": false,
     "HeroImage": "7730_53_GUNMETAL_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
@@ -8292,7 +8292,7 @@
     "Discontinued": false,
     "HeroImage": "7730_53_GOLD_Hero.jpg",
     "Images": [
-    ]
+    ],
     "safety": false,
     "sport": false
   }
