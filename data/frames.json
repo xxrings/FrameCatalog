@@ -1348,7 +1348,7 @@
     "Temple": 140,
     "FramePD": 70,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "EH_4679_53_BROWN_MIST_Hero.jpg",
     "Images": [
     ],
@@ -1370,7 +1370,7 @@
     "Temple": 140,
     "FramePD": 70,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "EH_4679_53_GREY_MIST_Hero.jpg",
     "Images": [
     ],
