@@ -8047,7 +8047,7 @@
     "Temple": 145,
     "FramePD": 72,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "FX_10_55_BLACK_Hero.jpg",
     "Images": [
     ],
@@ -8069,7 +8069,7 @@
     "Temple": 145,
     "FramePD": 72,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "FX_10_55_GUN_Hero.jpg",
     "Images": [
     ],
@@ -8091,7 +8091,7 @@
     "Temple": 145,
     "FramePD": 72,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "FX_10_55_COFFEE_Hero.jpg",
     "Images": [
     ],
