@@ -1195,29 +1195,6 @@
   }
 ,
   {
-    "SKU": "754317161663",
-    "FrameName": "H 4617",
-    "Material": "Plastic",
-    "Color": "RED/CRYSTAL ",
-    "ColorTags": [
-      "RED",
-      "CLEAR"
-    ],
-    "EyeSize": 52,
-    "DBL": 17,
-    "B": 34,
-    "Temple": 140,
-    "FramePD": 69,
-    "BackOrdered": false,
-    "Discontinued": false,
-    "HeroImage": "H_4617_52_RED_CRYSTAL_Hero.jpg",
-    "Images": [
-    ],
-    "safety": false,
-    "sport": false
-  }
-,
-  {
     "SKU": "754317161670",
     "FrameName": "H 4617",
     "Material": "Plastic",
@@ -8297,3 +8274,4 @@
     "sport": false
   }
 ]
+
