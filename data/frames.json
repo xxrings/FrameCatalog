@@ -1195,6 +1195,29 @@
   }
 ,
   {
+    "SKU": "754317161663",
+    "FrameName": "H 4617",
+    "Material": "Plastic",
+    "Color": "RED/CRYSTAL ",
+    "ColorTags": [
+      "RED",
+      "CLEAR"
+    ],
+    "EyeSize": 52,
+    "DBL": 17,
+    "B": 34,
+    "Temple": 140,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": true,
+    "HeroImage": "H_4617_52_RED_CRYSTAL_Hero.jpg",
+    "Images": [
+    ],
+    "safety": false,
+    "sport": false
+  }
+,
+  {
     "SKU": "754317161670",
     "FrameName": "H 4617",
     "Material": "Plastic",
@@ -4318,7 +4341,7 @@
     "Temple": 140,
     "FramePD": 70,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "M_591_P_54_BROWN_Hero.jpg",
     "Images": [
     ],
@@ -4340,7 +4363,7 @@
     "Temple": 145,
     "FramePD": 72,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "M_591_P_56_BROWN_Hero.jpg",
     "Images": [
     ],
@@ -4362,7 +4385,7 @@
     "Temple": 140,
     "FramePD": 70,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "M_591_P_54_GOLD_Hero.jpg",
     "Images": [
     ],
@@ -4384,7 +4407,7 @@
     "Temple": 145,
     "FramePD": 72,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "M_591_P_56_GOLD_Hero.jpg",
     "Images": [
     ],
@@ -4406,7 +4429,7 @@
     "Temple": 140,
     "FramePD": 70,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "M_591_P_54_GUNMETAL_Hero.jpg",
     "Images": [
     ],
@@ -4428,7 +4451,7 @@
     "Temple": 145,
     "FramePD": 72,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "M_591_P_56_GUNMETAL_Hero.jpg",
     "Images": [
     ],
@@ -8222,7 +8245,7 @@
     "Temple": 145,
     "FramePD": 72,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "7730_53_BROWN_Hero.jpg",
     "Images": [
     ],
@@ -8244,7 +8267,7 @@
     "Temple": 145,
     "FramePD": 72,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "7730_53_GUNMETAL_Hero.jpg",
     "Images": [
     ],
@@ -8266,7 +8289,7 @@
     "Temple": 145,
     "FramePD": 72,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "7730_53_GOLD_Hero.jpg",
     "Images": [
     ],
@@ -8274,4 +8297,3 @@
     "sport": false
   }
 ]
-
