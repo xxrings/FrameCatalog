@@ -5573,7 +5573,7 @@
     "Temple": 135,
     "FramePD": 71,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "HAC_109_54_BLACK_Hero.jpg",
     "Images": [
     ],
@@ -5595,7 +5595,7 @@
     "Temple": 135,
     "FramePD": 71,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "HAC_109_54_SLATE_Hero.jpg",
     "Images": [
     ],
@@ -5618,7 +5618,7 @@
     "Temple": 135,
     "FramePD": 71,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "HAC_109_54_BLACK/RED_Hero.jpg",
     "Images": [
     ],
