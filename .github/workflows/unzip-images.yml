@@ -1,0 +1,31 @@
+name: Unzip uploaded images
+
+on:
+  push:
+    paths:
+      - "**/*.zip"
+
+jobs:
+  unzip:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Unzip images
+        run: |
+          for z in $(find . -name "*.zip"); do
+            unzip -o "$z" -d "$(dirname "$z")"
+          done
+
+      - name: Remove zip files
+        run: |
+          find . -name "*.zip" -delete
+
+      - name: Commit extracted files
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add .
+          git commit -m "Unzip uploaded images" || echo "Nothing to commit"
+          git push
