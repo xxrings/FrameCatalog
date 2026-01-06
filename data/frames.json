@@ -477,7 +477,7 @@
     "FramePD": 0,
     "BackOrdered": false,
     "Discontinued": true,
-    "HeroImage": "POF__xxxxx_Hero.jpg",
+    "HeroImage": "POF_xxxxx_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -587,7 +587,7 @@
     "FramePD": 66,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "VERTEX__48_BURGUNDY_Hero.jpg",
+    "HeroImage": "VERTEX_48_BURGUNDY_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -609,7 +609,7 @@
     "FramePD": 66,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "VERTEX__48_NAVY_Hero.jpg",
+    "HeroImage": "VERTEX_48_NAVY_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -653,7 +653,7 @@
     "FramePD": 67,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "FRACTION__48_BLACK_Hero.jpg",
+    "HeroImage": "FRACTION_48_BLACK_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -675,7 +675,7 @@
     "FramePD": 67,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "FRACTION__48_CHOCOLATE_Hero.jpg",
+    "HeroImage": "FRACTION_48_CHOCOLATE_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -697,7 +697,7 @@
     "FramePD": 67,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "FRACTION__48_NAVY_Hero.jpg",
+    "HeroImage": "FRACTION_48_NAVY_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -719,7 +719,7 @@
     "FramePD": 70,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "MEDIAN__50_BROWN_Hero.jpg",
+    "HeroImage": "MEDIAN_50_BROWN_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -741,7 +741,7 @@
     "FramePD": 70,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "MEDIAN__50_BLACK_Hero.jpg",
+    "HeroImage": "MEDIAN_50_BLACK_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -763,7 +763,7 @@
     "FramePD": 70,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "MEDIAN__50_GUNMETAL_Hero.jpg",
+    "HeroImage": "MEDIAN_50_GUNMETAL_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -785,7 +785,7 @@
     "FramePD": 74,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "MEDIAN__54_BROWN_Hero.jpg",
+    "HeroImage": "MEDIAN_54_BROWN_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -807,7 +807,7 @@
     "FramePD": 74,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "MEDIAN__54_BLACK_Hero.jpg",
+    "HeroImage": "MEDIAN_54_BLACK_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -829,7 +829,7 @@
     "FramePD": 74,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "MEDIAN__54_GUNMETAL_Hero.jpg",
+    "HeroImage": "MEDIAN_54_GUNMETAL_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -1104,7 +1104,7 @@
     "SKU": "712316002509",
     "FrameName": "AXIS",
     "Material": "Safety",
-    "Color": "DARK GUN/GRN",
+    "Color": "DARK GUN-GRN",
     "ColorTags": [
       "GUNMETAL",
       "GREEN"
@@ -1116,7 +1116,7 @@
     "FramePD": 72,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "AXIS_58_DARK_GUN/GRN_Hero.jpg",
+    "HeroImage": "AXIS_58_DARK_GUN-GRN_Hero.jpg",
     "Images": [
     ],
     "safety": true,
@@ -1127,7 +1127,7 @@
     "SKU": "712316002523",
     "FrameName": "AXIS",
     "Material": "Safety",
-    "Color": "SILVER/BLACK",
+    "Color": "SILVER-BLACK",
     "ColorTags": [
       "SILVER",
       "BLACK"
@@ -1139,7 +1139,7 @@
     "FramePD": 72,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "AXIS_58_SILVER/BLACK_Hero.jpg",
+    "HeroImage": "AXIS_58_SILVER-BLACK_Hero.jpg",
     "Images": [
     ],
     "safety": true,
@@ -1261,7 +1261,7 @@
     "SKU": "754317150247",
     "FrameName": "H 4629",
     "Material": "Combination",
-    "Color": "GOLD/TORT",
+    "Color": "GOLD-TORT",
     "ColorTags": [
       "GOLD",
       "TORTOISE"
@@ -1273,7 +1273,7 @@
     "FramePD": 68,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "H_4629_51_GOLD/TORT_Hero.jpg",
+    "HeroImage": "H_4629_51_GOLD-TORT_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -1284,7 +1284,7 @@
     "SKU": "754317150254",
     "FrameName": "H 4629",
     "Material": "Combination",
-    "Color": "SILVER/BLACK",
+    "Color": "SILVER-BLACK",
     "ColorTags": [
       "SILVER",
       "BLACK"
@@ -1296,7 +1296,7 @@
     "FramePD": 68,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "H_4629_51_SILVER/BLACK_Hero.jpg",
+    "HeroImage": "H_4629_51_SILVER-BLACK_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -1307,7 +1307,7 @@
     "SKU": "754317161588",
     "FrameName": "H 4617",
     "Material": "Plastic",
-    "Color": "COBALT/BLACK",
+    "Color": "COBALT-BLACK",
     "ColorTags": [
       "BLACK",
       "BLUE"
@@ -1319,7 +1319,7 @@
     "FramePD": 69,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "H_4617_52_COBALT/BLACK_Hero.jpg",
+    "HeroImage": "H_4617_52_COBALT-BLACK_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -1330,7 +1330,7 @@
     "SKU": "754317161618",
     "FrameName": "H 4617",
     "Material": "Plastic",
-    "Color": "BLACK/PINK",
+    "Color": "BLACK-PINK",
     "ColorTags": [
       "BLACK",
       "PINK"
@@ -1342,7 +1342,7 @@
     "FramePD": 69,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "H_4617_52_BLACK/PINK_Hero.jpg",
+    "HeroImage": "H_4617_52_BLACK-PINK_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -1353,7 +1353,7 @@
     "SKU": "754317161663",
     "FrameName": "H 4617",
     "Material": "Plastic",
-    "Color": "RED/CRYSTAL ",
+    "Color": "RED-CRYSTAL",
     "ColorTags": [
       "RED",
       "CLEAR"
@@ -1365,7 +1365,7 @@
     "FramePD": 69,
     "BackOrdered": false,
     "Discontinued": true,
-    "HeroImage": "H_4617_52_RED/CRYSTAL__Hero.jpg",
+    "HeroImage": "H_4617_52_RED-CRYSTAL__Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -1376,7 +1376,7 @@
     "SKU": "754317161670",
     "FrameName": "H 4617",
     "Material": "Plastic",
-    "Color": "TEAL/BLACK",
+    "Color": "TEAL-BLACK",
     "ColorTags": [
       "BLUE",
       "BLACK"
@@ -1388,7 +1388,7 @@
     "FramePD": 69,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "H_4617_52_TEAL/BLACK_Hero.jpg",
+    "HeroImage": "H_4617_52_TEAL-BLACK_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -1399,7 +1399,7 @@
     "SKU": "754317162073",
     "FrameName": "H 4629",
     "Material": "Combination",
-    "Color": "TORTOISE/GUN",
+    "Color": "TORTOISE-GUN",
     "ColorTags": [
       "TORTOISE",
       "GUNMETAL",
@@ -1413,7 +1413,7 @@
     "FramePD": 68,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "H_4629_51_TORTOISE/GUN_Hero.jpg",
+    "HeroImage": "H_4629_51_TORTOISE-GUN_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -1424,7 +1424,7 @@
     "SKU": "754317162080",
     "FrameName": "H 4629",
     "Material": "Combination",
-    "Color": "BLACK/GUN",
+    "Color": "BLACK-GUN",
     "ColorTags": [
       "BLACK",
       "GUNMETAL"
@@ -1436,7 +1436,7 @@
     "FramePD": 68,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "H_4629_51_BLACK/GUN_Hero.jpg",
+    "HeroImage": "H_4629_51_BLACK-GUN_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -2433,7 +2433,7 @@
     "FramePD": 74,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "EQ_8844__55_BLACK_Hero.jpg",
+    "HeroImage": "EQ_8844_55_BLACK_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -2455,7 +2455,7 @@
     "FramePD": 74,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "EQ_8844__55_BROWN_Hero.jpg",
+    "HeroImage": "EQ_8844_55_BROWN_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -2869,7 +2869,7 @@
     "SKU": "754317202045",
     "FrameName": "MC 6278",
     "Material": "Metal",
-    "Color": "SATIN BLK/GOLD",
+    "Color": "SATIN BLK-GOLD",
     "ColorTags": [
       "BLACK",
       "GOLD"
@@ -2881,7 +2881,7 @@
     "FramePD": 70,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "MC_6278_52_SATIN_BLK/GOLD_Hero.jpg",
+    "HeroImage": "MC_6278_52_SATIN_BLK-GOLD_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -2892,7 +2892,7 @@
     "SKU": "754317202052",
     "FrameName": "MC 6278",
     "Material": "Metal",
-    "Color": "SATIN RED/GOLD",
+    "Color": "SATIN RED-GOLD",
     "ColorTags": [
       "RED",
       "GOLD"
@@ -2904,7 +2904,7 @@
     "FramePD": 70,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "MC_6278_52_SATIN_RED/GOLD_Hero.jpg",
+    "HeroImage": "MC_6278_52_SATIN_RED-GOLD_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -2915,7 +2915,7 @@
     "SKU": "754317202069",
     "FrameName": "MC 6278",
     "Material": "Metal",
-    "Color": "SATIN PURP/GOLD",
+    "Color": "SATIN PURP-GOLD",
     "ColorTags": [
       "PURPLE",
       "GOLD"
@@ -2927,7 +2927,7 @@
     "FramePD": 70,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "MC_6278_52_SATIN_PURP/GOLD_Hero.jpg",
+    "HeroImage": "MC_6278_52_SATIN_PURP-GOLD_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -3727,7 +3727,7 @@
     "FramePD": 75,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "COUGAR__58_BLACK_Hero.jpg",
+    "HeroImage": "COUGAR_58_BLACK_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -3749,7 +3749,7 @@
     "FramePD": 75,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "COUGAR__58_GUNMETAL_Hero.jpg",
+    "HeroImage": "COUGAR_58_GUNMETAL_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -5091,7 +5091,7 @@
     "FramePD": 77,
     "BackOrdered": false,
     "Discontinued": true,
-    "HeroImage": "CATAMOUNT__58_BLACK_Hero.jpg",
+    "HeroImage": "CATAMOUNT_58_BLACK_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -5113,7 +5113,7 @@
     "FramePD": 79,
     "BackOrdered": false,
     "Discontinued": true,
-    "HeroImage": "CATAMOUNT__60_BLACK_Hero.jpg",
+    "HeroImage": "CATAMOUNT_60_BLACK_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -5135,7 +5135,7 @@
     "FramePD": 77,
     "BackOrdered": false,
     "Discontinued": true,
-    "HeroImage": "CATAMOUNT__58_BROWN_Hero.jpg",
+    "HeroImage": "CATAMOUNT_58_BROWN_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -5157,7 +5157,7 @@
     "FramePD": 79,
     "BackOrdered": false,
     "Discontinued": true,
-    "HeroImage": "CATAMOUNT__60_BROWN_Hero.jpg",
+    "HeroImage": "CATAMOUNT_60_BROWN_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -5179,7 +5179,7 @@
     "FramePD": 77,
     "BackOrdered": false,
     "Discontinued": true,
-    "HeroImage": "CATAMOUNT__58_GUNMETAL_Hero.jpg",
+    "HeroImage": "CATAMOUNT_58_GUNMETAL_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -5201,7 +5201,7 @@
     "FramePD": 79,
     "BackOrdered": false,
     "Discontinued": true,
-    "HeroImage": "CATAMOUNT__60_GUNMETAL_Hero.jpg",
+    "HeroImage": "CATAMOUNT_60_GUNMETAL_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -5994,7 +5994,7 @@
     "FramePD": 75,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "FX_103__57_BROWN_Hero.jpg",
+    "HeroImage": "FX_103_57_BROWN_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -6016,7 +6016,7 @@
     "FramePD": 75,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "FX_103__57_GUNMETAL_Hero.jpg",
+    "HeroImage": "FX_103_57_GUNMETAL_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -6038,7 +6038,7 @@
     "FramePD": 75,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "FX_103__57_GOLD_Hero.jpg",
+    "HeroImage": "FX_103_57_GOLD_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -6060,7 +6060,7 @@
     "FramePD": 74,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "FX_107__57_BROWN_Hero.jpg",
+    "HeroImage": "FX_107_57_BROWN_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -6082,7 +6082,7 @@
     "FramePD": 74,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "FX_107__57_BLACK_Hero.jpg",
+    "HeroImage": "FX_107_57_BLACK_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -6104,7 +6104,7 @@
     "FramePD": 74,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "FX_107__57_GUNMETAL_Hero.jpg",
+    "HeroImage": "FX_107_57_GUNMETAL_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -6392,7 +6392,7 @@
     "FramePD": 72,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "FX_110__55_BLACK_Hero.jpg",
+    "HeroImage": "FX_110_55_BLACK_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -6414,7 +6414,7 @@
     "FramePD": 72,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "FX_110__55_GUNMETAL_Hero.jpg",
+    "HeroImage": "FX_110_55_GUNMETAL_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -6436,7 +6436,7 @@
     "FramePD": 72,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "FX_110__55_BLUE_Hero.jpg",
+    "HeroImage": "FX_110_55_BLUE_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -6705,7 +6705,7 @@
     "FramePD": 70,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "FX_114__52_BLUE_Hero.jpg",
+    "HeroImage": "FX_114_52_BLUE_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -6727,7 +6727,7 @@
     "FramePD": 70,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "FX_114__52_GUNMETAL_Hero.jpg",
+    "HeroImage": "FX_114_52_GUNMETAL_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -6749,7 +6749,7 @@
     "FramePD": 70,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "FX_114__52_BLACK_Hero.jpg",
+    "HeroImage": "FX_114_52_BLACK_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -7306,7 +7306,7 @@
     "FramePD": 69,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "PARTY__52_BLACK_Hero.jpg",
+    "HeroImage": "PARTY_52_BLACK_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -7328,7 +7328,7 @@
     "FramePD": 69,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "PARTY__52_BURGUNDY_Hero.jpg",
+    "HeroImage": "PARTY_52_BURGUNDY_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -7350,7 +7350,7 @@
     "FramePD": 69,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "PARTY__52_PURPLE_Hero.jpg",
+    "HeroImage": "PARTY_52_PURPLE_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -7361,7 +7361,7 @@
     "SKU": "9398222995",
     "FrameName": "DC 363",
     "Material": "Plastic",
-    "Color": "BLACK/RED",
+    "Color": "BLACK-RED",
     "ColorTags": [
       "BLACK",
       "RED"
@@ -7373,7 +7373,7 @@
     "FramePD": 68,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "DC_363_50_BLACK/RED_Hero.jpg",
+    "HeroImage": "DC_363_50_BLACK-RED_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -7384,7 +7384,7 @@
     "SKU": "9398223015",
     "FrameName": "DC 363",
     "Material": "Plastic",
-    "Color": "CRYSTAL/GOLD",
+    "Color": "CRYSTAL-GOLD",
     "ColorTags": [
       "CLEAR",
       "GOLD"
@@ -7396,7 +7396,7 @@
     "FramePD": 68,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "DC_363_50_CRYSTAL/GOLD_Hero.jpg",
+    "HeroImage": "DC_363_50_CRYSTAL-GOLD_Hero.jpg",
     "Images": [
     ],
     "safety": false,
