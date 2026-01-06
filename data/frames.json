@@ -198,6 +198,161 @@
   }
 ,
   {
+    "SKU": "009398233342",
+    "FrameName": "DC 391",
+    "Material": "Metal",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 56,
+    "DBL": 17,
+    "B": 0,
+    "Temple": 150,
+    "FramePD": 73,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "DC391_56_Gunmetal.jpg",
+    "Images": [
+    ],
+    "safety": false,
+    "sport": false
+  }
+,
+  {
+    "SKU": "009398233359",
+    "FrameName": "DC 391",
+    "Material": "Metal",
+    "Color": "GOLD",
+    "ColorTags": [
+      "GOLD"
+    ],
+    "EyeSize": 56,
+    "DBL": 17,
+    "B": 0,
+    "Temple": 150,
+    "FramePD": 73,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "DC391_56_ Gold.jpg",
+    "Images": [
+    ],
+    "safety": false,
+    "sport": false
+  }
+,
+  {
+    "SKU": "009398233366",
+    "FrameName": "DC 391",
+    "Material": "Metal",
+    "Color": "BLACK GOLD",
+    "ColorTags": [
+      "BLACK",
+      "GOLD"
+    ],
+    "EyeSize": 56,
+    "DBL": 17,
+    "B": 0,
+    "Temple": 150,
+    "FramePD": 73,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "DC391_56_ Black Gold.jpg",
+    "Images": [
+    ],
+    "safety": false,
+    "sport": false
+  }
+,
+  {
+    "SKU": "009398234479",
+    "FrameName": "SL 102",
+    "Material": "Metal",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 55,
+    "DBL": 17,
+    "B": 0,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "SL_102_55_Gunmetal.jpg",
+    "Images": [
+    ],
+    "safety": false,
+    "sport": false
+  }
+,
+  {
+    "SKU": "009398234493",
+    "FrameName": "SL 102",
+    "Material": "Metal",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 55,
+    "DBL": 17,
+    "B": 0,
+    "Temple": 145,
+    "FramePD": 72,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "SL_102_55_Brown.jpg",
+    "Images": [
+    ],
+    "safety": false,
+    "sport": false
+  }
+,
+  {
+    "SKU": "009398234561",
+    "FrameName": "SL 107",
+    "Material": "Semi Rimless",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 56,
+    "DBL": 18,
+    "B": 0,
+    "Temple": 145,
+    "FramePD": 74,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "SL_107_56_Gunmetal.jpg",
+    "Images": [
+    ],
+    "safety": false,
+    "sport": false
+  }
+,
+  {
+    "SKU": "009398234578",
+    "FrameName": "SL 107",
+    "Material": "Semi Rimless",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "SILVER"
+    ],
+    "EyeSize": 56,
+    "DBL": 18,
+    "B": 0,
+    "Temple": 145,
+    "FramePD": 74,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "SL_107_Silver.jpg",
+    "Images": [
+    ],
+    "safety": false,
+    "sport": false
+  }
+,
+  {
     "SKU": "10164369967",
     "FrameName": "OG 086",
     "Material": "Safety",
@@ -2135,7 +2290,7 @@
     "SKU": "754317191448",
     "FrameName": "EQ 7857",
     "Material": "Plastic",
-    "Color": "BROWN ",
+    "Color": "BROWN",
     "ColorTags": [
       "BROWN"
     ],
@@ -2157,7 +2312,7 @@
     "SKU": "754317191455",
     "FrameName": "EQ 7857",
     "Material": "Plastic",
-    "Color": "BROWN ",
+    "Color": "BROWN",
     "ColorTags": [
       "BROWN"
     ],
@@ -2179,7 +2334,7 @@
     "SKU": "754317191462",
     "FrameName": "EQ 7857",
     "Material": "Plastic",
-    "Color": "MATT BLACK ",
+    "Color": "MATT BLACK",
     "ColorTags": [
       "BLACK"
     ],
@@ -2201,7 +2356,7 @@
     "SKU": "754317191479",
     "FrameName": "EQ 7857",
     "Material": "Plastic",
-    "Color": "MATT BLACK ",
+    "Color": "MATT BLACK",
     "ColorTags": [
       "BLACK"
     ],
@@ -3025,7 +3180,7 @@
     "SKU": "754317206807",
     "FrameName": "EQ 6763",
     "Material": "Semi Rimless",
-    "Color": "BROWN ",
+    "Color": "BROWN",
     "ColorTags": [
       "BROWN"
     ],
@@ -3869,7 +4024,7 @@
     "SKU": "841356066780",
     "FrameName": "BEARCAT",
     "Material": "Plastic",
-    "Color": "BLACK  ",
+    "Color": "BLACK",
     "ColorTags": [
       "BLACK"
     ],
@@ -5553,6 +5708,72 @@
     "BackOrdered": false,
     "Discontinued": false,
     "HeroImage": "AERO_3008_52_ORANGE_Hero.jpg",
+    "Images": [
+    ],
+    "safety": false,
+    "sport": false
+  }
+,
+  {
+    "SKU": "841356096244",
+    "FrameName": "Wilbur Ave",
+    "Material": "Plastic",
+    "Color": "ASH",
+    "ColorTags": [
+      "GREY"
+    ],
+    "EyeSize": 52,
+    "DBL": 17,
+    "B": 0,
+    "Temple": 145,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "Wilbur_Ave_52_Ash.jpg",
+    "Images": [
+    ],
+    "safety": false,
+    "sport": false
+  }
+,
+  {
+    "SKU": "841356096251",
+    "FrameName": "Wilbur Ave",
+    "Material": "Plastic",
+    "Color": "MOSS",
+    "ColorTags": [
+      "GREEN"
+    ],
+    "EyeSize": 52,
+    "DBL": 17,
+    "B": 0,
+    "Temple": 145,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "Wilbur_Ave_52_Moss.jpg",
+    "Images": [
+    ],
+    "safety": false,
+    "sport": false
+  }
+,
+  {
+    "SKU": "841356096268",
+    "FrameName": "Wilbur Ave",
+    "Material": "Plastic",
+    "Color": "SANDSTONE",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 52,
+    "DBL": 17,
+    "B": 0,
+    "Temple": 145,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "Wilbur_Ave_52_Sandstone.jpg",
     "Images": [
     ],
     "safety": false,
