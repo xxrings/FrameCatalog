@@ -334,7 +334,7 @@
     "SKU": "009398234578",
     "FrameName": "SL 107",
     "Material": "Semi Rimless",
-    "Color": "GUNMETAL",
+    "Color": "SILVER",
     "ColorTags": [
       "SILVER"
     ],
@@ -345,7 +345,7 @@
     "FramePD": 74,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "SL_107_56_GUNMETAL_Hero.jpg",
+    "HeroImage": "SL_107_56_SILVER_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -609,7 +609,7 @@
     "FramePD": 66,
     "BackOrdered": false,
     "Discontinued": false,
-    "HeroImage": "VERTEX__48_NAVY_Hero.jpg",
+    "HeroImage": "VERTEX_48_NAVY_Hero.jpg",
     "Images": [
     ],
     "safety": false,
