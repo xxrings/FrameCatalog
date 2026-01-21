@@ -4935,7 +4935,7 @@
     "B": 39,
     "Temple": 150,
     "FramePD": 74,
-    "BackOrdered": false,
+    "BackOrdered": true,
     "Discontinued": false,
     "HeroImage": "STATESMAN_56_GUNMETAL_Hero.jpg",
     "Images": [
