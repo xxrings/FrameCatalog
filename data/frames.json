@@ -7418,7 +7418,7 @@
     "Temple": 145,
     "FramePD": 72,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "DC_509_51_SILVER_GOLD_Hero.jpg",
     "Images": [
     ],
@@ -7441,7 +7441,7 @@
     "Temple": 145,
     "FramePD": 72,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "DC_509_51_BLACK_SILVER_Hero.jpg",
     "Images": [
     ],
@@ -7464,7 +7464,7 @@
     "Temple": 145,
     "FramePD": 72,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "DC_509_51_BLACK_GOLD_Hero.jpg",
     "Images": [
     ],
