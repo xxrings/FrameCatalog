@@ -1834,7 +1834,7 @@
     "B": 35,
     "Temple": 140,
     "FramePD": 68,
-    "BackOrdered": false,
+    "BackOrdered": true,
     "Discontinued": false,
     "HeroImage": "EQ_1508_51_TORTOISE_Hero.jpg",
     "Images": [
