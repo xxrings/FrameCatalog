@@ -2300,7 +2300,7 @@
     "Temple": 145,
     "FramePD": 71,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "EQ_7857_53_BROWN_Hero.jpg",
     "Images": [
     ],
@@ -2322,7 +2322,7 @@
     "Temple": 150,
     "FramePD": 74,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "EQ_7857_56_BROWN_Hero.jpg",
     "Images": [
     ],
@@ -2344,7 +2344,7 @@
     "Temple": 145,
     "FramePD": 71,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "EQ_7857_53_MATT_BLACK_Hero.jpg",
     "Images": [
     ],
@@ -2366,7 +2366,7 @@
     "Temple": 150,
     "FramePD": 74,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "EQ_7857_56_MATT_BLACK_Hero.jpg",
     "Images": [
     ],
@@ -2388,7 +2388,7 @@
     "Temple": 145,
     "FramePD": 71,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "EQ_7857_53_SHINY_BLACK_Hero.jpg",
     "Images": [
     ],
@@ -2410,7 +2410,7 @@
     "Temple": 150,
     "FramePD": 74,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "EQ_7857_56_SHINY_BLACK_Hero.jpg",
     "Images": [
     ],
@@ -3726,7 +3726,7 @@
     "Temple": 150,
     "FramePD": 75,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "COUGAR_58_BLACK_Hero.jpg",
     "Images": [
     ],
@@ -3748,7 +3748,7 @@
     "Temple": 150,
     "FramePD": 75,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "COUGAR_58_GUNMETAL_Hero.jpg",
     "Images": [
     ],
