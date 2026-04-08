@@ -1,14 +1,22 @@
 import { getById, clearChildren, formatList } from './utils.js';
 import { describeActiveFilters } from './filters.js';
 
-function setImageFallback(imgEl) {
-  imgEl.addEventListener(
-    'error',
-    () => {
+function setImageFallback(imgEl, candidates = []) {
+  const queue = [...candidates];
+
+  const tryNext = () => {
+    const next = queue.shift();
+    if (next) {
+      imgEl.src = next;
+      return;
+    }
+
+    if (!imgEl.src.endsWith('/images/coming-soon.jpg') && !imgEl.src.endsWith('images/coming-soon.jpg')) {
       imgEl.src = 'images/coming-soon.jpg';
-    },
-    { once: true }
-  );
+    }
+  };
+
+  imgEl.addEventListener('error', tryNext);
 }
 
 function renderActiveFilters(state) {
@@ -80,7 +88,7 @@ export function renderThumbnails(items, totalCount, state) {
     link.href = `details.html?frame=${encodeURIComponent(item.name)}`;
     imgEl.src = item.image;
     imgEl.alt = item.imageAlt;
-    setImageFallback(imgEl);
+    setImageFallback(imgEl, item.imageCandidates.filter(candidate => candidate !== item.image));
 
     status.textContent = item.statusLabel || (item.types[0] !== 'Standard' ? item.types.join(' / ') : '');
     eyebrow.textContent = item.materialLabel;

@@ -8,6 +8,16 @@ function firstAvailableImage(variants) {
   return match?.HeroImage || 'coming-soon.jpg';
 }
 
+function imageCandidatesFor(variants) {
+  const candidates = uniqSorted(
+    variants
+      .map(variant => variant.HeroImage)
+      .filter(image => image && image !== 'coming-soon.jpg')
+  );
+
+  return candidates.length ? candidates : ['coming-soon.jpg'];
+}
+
 function buildSearchText(item) {
   return [
     item.name,
@@ -56,6 +66,7 @@ export function buildCatalogItems(frames) {
         variantColors,
         colorCount: colors.length,
         image: getImagePath(firstAvailableImage(variants)),
+        imageCandidates: imageCandidatesFor(variants).map(getImagePath),
         imageAlt: `${variants[0].FrameName} eyeglass frame in ${representative?.Color || 'featured color'}`,
         statusLabel,
         hasBackOrdered: variants.some(variant => variant.BackOrdered),
