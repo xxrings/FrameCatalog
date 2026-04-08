@@ -1,76 +1,124 @@
 import { getById } from './utils.js';
 
-// Build filter panel controls based on frames data
-export function buildFilterControls(frames) {
-  const uniq = arr => [...new Set(arr)].sort();
-  const colors = uniq(frames.flatMap(f => f.ColorTags || []));
-  const materials = uniq(frames.map(f => f.Material));
-  const eyeSizes = uniq(frames.map(f => String(f.EyeSize)));
-  const bs = uniq(frames.map(f => String(f.B)));
-  const pds = uniq(frames.map(f => String(f.FramePD)));
-  const temples = uniq(frames.map(f => String(f.Temple)));
-
-  const container = getById('filters');
-  container.innerHTML = [
-    `<div class="filter-group search-group">
-       <label for="filter-search">Search:<\/label>
-       <input type="text" id="filter-search" placeholder="Name, color, size, etc." \/>
-     <\/div>`,
-    multiDropdown('Material','filter-material', materials),
-    multiDropdown('Color','filter-color', colors),
-    multiDropdown('Eye Size','filter-eyesize', eyeSizes),
-    multiDropdown('B','filter-b', bs),
-    multiDropdown('Frame PD','filter-pd', pds),
-    multiDropdown('Temple Length','filter-temple', temples),
-    `<div class="filter-actions button-group">
-       <button id="filter-apply">Apply<\/button>
-       <button id="filter-clear">Clear<\/button>
-     <\/div>`
-  ].join('\n');
+function renderCheckboxGroup(values, name) {
+  return values
+    .map(
+      value => `
+        <label class="filter-option">
+          <input type="checkbox" name="${name}" value="${value}" />
+          <span>${value}</span>
+        </label>
+      `
+    )
+    .join('');
 }
 
-// helper to render one multi-checkbox block
-function multiDropdown(label, id, values) {
-  const opts = values.map(v => `<label><input type=\"checkbox\" value=\"${v}\"> ${v}</label>`).join('');
-  return `
-  <div class="filter-group">
-    <div class="multi-dropdown" id="${id}">
-      <button type="button" class="multi-dropdown-btn">Select ${label}</button>
-      <div class="multi-dropdown-menu">
-        ${opts}
+function renderNumericGroup(values, name) {
+  return renderCheckboxGroup(values.map(String), name);
+}
+
+export function buildFilterControls(options) {
+  const form = getById('catalog-controls');
+  form.innerHTML = `
+    <section class="search-field">
+      <label for="filter-search">Search frames</label>
+      <input
+        type="search"
+        id="filter-search"
+        placeholder="Model, color, material, eye size, PD"
+        autocomplete="off"
+      />
+      <p class="search-help">Search by model name, material, color, eye size, PD, or temple length.</p>
+    </section>
+
+    <section>
+      <p class="selector-label">Frame type</p>
+      <div class="quick-filters">
+        ${options.types
+          .map(
+            type => `
+              <label class="quick-filter">
+                <input type="checkbox" name="types" value="${type}" />
+                <span>${type}</span>
+              </label>
+            `
+          )
+          .join('')}
       </div>
+    </section>
+
+    <section class="sort-field">
+      <label for="filter-sort">Sort results</label>
+      <select id="filter-sort">
+        <option value="name-asc">Name A-Z</option>
+        <option value="name-desc">Name Z-A</option>
+        <option value="size-asc">Smallest eye size first</option>
+        <option value="size-desc">Largest eye size first</option>
+        <option value="pd-asc">Smallest PD first</option>
+        <option value="colors-desc">Most color options</option>
+      </select>
+    </section>
+
+    <details class="filter-section" open>
+      <summary>Material</summary>
+      <div class="filter-options">${renderCheckboxGroup(options.materials, 'materials')}</div>
+    </details>
+
+    <details class="filter-section" open>
+      <summary>Color family</summary>
+      <div class="filter-options">${renderCheckboxGroup(options.colors, 'colors')}</div>
+    </details>
+
+    <details class="filter-section">
+      <summary>Eye size</summary>
+      <div class="filter-options">${renderNumericGroup(options.eyeSizes, 'eyeSizes')}</div>
+    </details>
+
+    <details class="filter-section">
+      <summary>Frame PD</summary>
+      <div class="filter-options">${renderNumericGroup(options.pds, 'pds')}</div>
+    </details>
+
+    <details class="filter-section">
+      <summary>Temple length</summary>
+      <div class="filter-options">${renderNumericGroup(options.temples, 'temples')}</div>
+    </details>
+
+    <div class="filter-actions">
+      <button type="button" id="filter-clear" class="button-secondary">Clear filters</button>
     </div>
-  <\/div>`;
+  `;
 }
 
-// Read current filter inputs
+function readChecked(name) {
+  return Array.from(document.querySelectorAll(`#catalog-controls input[name="${name}"]:checked`)).map(
+    input => input.value
+  );
+}
+
 export function getFilterState() {
-  const term = (getById('filter-search').value || '').trim().toLowerCase();
-  const readChecked = id => Array.from(document.querySelectorAll(`#${id} input:checked`)).map(cb => cb.value);
   return {
-    term,
-    materials: readChecked('filter-material'),
-    colors: readChecked('filter-color'),
-    eyeSizes: readChecked('filter-eyesize'),
-    bs: readChecked('filter-b'),
-    pds: readChecked('filter-pd'),
-    temples: readChecked('filter-temple')
+    term: (getById('filter-search').value || '').trim().toLowerCase(),
+    types: readChecked('types'),
+    materials: readChecked('materials'),
+    colors: readChecked('colors'),
+    eyeSizes: readChecked('eyeSizes'),
+    pds: readChecked('pds'),
+    temples: readChecked('temples'),
+    sortBy: getById('filter-sort').value
   };
 }
 
-// Filter frames against state
-export function applyFilterLogic(frames, state) {
-  return frames.filter(f => {
-    if (state.term) {
-      const hay = [f.FrameName, f.Material, ...(f.ColorTags || [])].join(' ').toLowerCase();
-      if (!hay.includes(state.term)) return false;
-    }
-    if (state.materials.length && !state.materials.includes(f.Material)) return false;
-    if (state.colors.length && !f.ColorTags.some(c => state.colors.includes(c))) return false;
-    if (state.eyeSizes.length && !state.eyeSizes.includes(String(f.EyeSize))) return false;
-    if (state.bs.length && !state.bs.includes(String(f.B))) return false;
-    if (state.pds.length && !state.pds.includes(String(f.FramePD))) return false;
-    if (state.temples.length && !state.temples.includes(String(f.Temple))) return false;
-    return true;
-  });
+export function describeActiveFilters(state) {
+  const chips = [];
+
+  if (state.term) chips.push(`Search: ${state.term}`);
+  chips.push(...state.types.map(type => `Type: ${type}`));
+  chips.push(...state.materials.map(material => `Material: ${material}`));
+  chips.push(...state.colors.map(color => `Color: ${color}`));
+  chips.push(...state.eyeSizes.map(size => `Eye: ${size}`));
+  chips.push(...state.pds.map(pd => `PD: ${pd}`));
+  chips.push(...state.temples.map(temple => `Temple: ${temple}`));
+
+  return chips;
 }
