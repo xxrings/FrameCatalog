@@ -68,13 +68,13 @@ function renderSelectorButtons(label, values, selectedValue, type) {
   `;
 }
 
-function renderSelectors() {
+function renderSelectorsMarkup() {
   const item = state.item;
   const selected = state.selectedVariant;
   const colors = [...new Set(item.variants.map(variant => variant.Color))].sort();
   const sizes = [...new Set(item.variants.map(variant => variant.EyeSize))].sort((a, b) => a - b);
 
-  getById('selectors').innerHTML = `
+  return `
     ${renderSelectorButtons('Color', colors, selected.Color, 'color')}
     ${renderSelectorButtons('Eye size', sizes, selected.EyeSize, 'size')}
   `;
@@ -90,6 +90,19 @@ function renderGallery() {
   const gallery = getById('gallery');
   const images = getGalleryImages(variant);
   const typeChips = state.item.types.filter(type => type !== 'Standard');
+  const variantStatusMarkup = variant.BackOrdered
+    ? `
+        <section class="detail-gallery__alert" role="status" aria-live="polite">
+          <strong>Back ordered</strong>
+          <span>This selected color and size is currently on back order.</span>
+        </section>
+      `
+    : `
+        <section class="detail-gallery__alert detail-gallery__alert--available" role="status" aria-live="polite">
+          <strong>Available now</strong>
+          <span>This selected color and size is currently listed as available.</span>
+        </section>
+      `;
 
   gallery.innerHTML = `
     <div class="detail-gallery__figure">
@@ -102,9 +115,15 @@ function renderGallery() {
       <div id="gallery-thumbs" class="detail-gallery__thumbs"></div>
     </div>
     <div class="detail-gallery__info">
+      ${variantStatusMarkup}
+      <section class="detail-gallery__panel detail-gallery__panel--selectors" aria-label="Frame variants">
+        <h2>Choose your frame</h2>
+        ${renderSelectorsMarkup()}
+      </section>
       <section class="detail-gallery__panel">
         <h2>Selected variant</h2>
         <ul class="detail-gallery__facts">
+          <li><strong>Status:</strong> ${variant.BackOrdered ? 'Back ordered' : 'Available'}</li>
           <li><strong>Color:</strong> ${variant.Color}</li>
           <li><strong>Eye size:</strong> ${variant.EyeSize}</li>
           <li><strong>B measurement:</strong> ${variant.B}</li>
@@ -205,9 +224,8 @@ function syncDetailView() {
   const item = state.item;
   getById('frame-name').textContent = item.name;
   getById('frame-subtitle').textContent = `${item.summary}. Eye sizes ${formatList(item.eyeSizes.map(String), 4)} with frame PD ${formatRange(item.pds)}.`;
-  renderOverview(item);
-  renderSelectors();
   renderGallery();
+  renderOverview(item);
   renderTable();
 }
 
@@ -235,7 +253,7 @@ function selectVariant(variantOrPartial) {
 }
 
 function hookDetailEvents() {
-  getById('selectors').addEventListener('click', event => {
+  getById('gallery').addEventListener('click', event => {
     const button = event.target.closest('[data-selector]');
     if (!button) return;
 

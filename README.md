@@ -1,5 +1,5 @@
 # FrameCatalog
-Portland frame catalog
+Frame catalog
 
 ## Local preview
 

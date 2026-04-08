@@ -69,7 +69,7 @@ export function buildFilterControls(options) {
       <div class="filter-options">${renderCheckboxGroup(options.colors, 'colors')}</div>
     </details>
 
-    <details class="filter-section">
+    <details class="filter-section" open>
       <summary>Eye size</summary>
       <div class="filter-options">${renderNumericGroup(options.eyeSizes, 'eyeSizes')}</div>
     </details>
