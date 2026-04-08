@@ -1,100 +1,313 @@
-import { fetchFramesData } from './data-loader.js';
-import { getQueryParam, getById, clearChildren } from './utils.js';
+import { fetchFramesData, getImagePath } from './data-loader.js';
+import { buildCatalogItems } from './catalog-model.js';
+import { getQueryParam, getById, clearChildren, formatList, formatRange } from './utils.js';
 
-export async function initDetailPage() {
-  const frameName = getQueryParam('frame');
-  if (!frameName) return;
+const state = {
+  item: null,
+  selectedVariant: null
+};
 
-  getById('frame-name').textContent = frameName;
-  getById('back-button').addEventListener('click',()=>history.back());
-
-  try {
-    const data = await fetchFramesData();
-    const skus = data.filter(s=>s.FrameName===frameName);
-    if (!skus.length) {
-      document.body.innerHTML = '<p class="error">Frame not found.</p>';
-      return;
-    }
-    setupSelectors(skus);
-    injectDetailSections();
-    updateVariant(skus);
-  } catch (err) {
-    console.error(err);
-    document.body.innerHTML = '<p class="error">Failed to load frame details.</p>';
-  }
+function setImageFallback(imgEl) {
+  imgEl.addEventListener(
+    'error',
+    () => {
+      imgEl.src = 'images/coming-soon.jpg';
+    },
+    { once: true }
+  );
 }
 
-function setupSelectors(skus) {
-  const sel = getById('selectors');
-  const colors = [...new Set(skus.map(s=>s.Color))];
-  const sizes  = [...new Set(skus.map(s=>String(s.EyeSize)))].sort((a,b)=>a-b);
-  sel.innerHTML = `
-    <label for="detail-color">Color:</label>
-    <select id="detail-color">${colors.map(c=>`<option>${c}</option>`).join('')}</select>
-    <label for="detail-size">Eye Size:</label>
-    <select id="detail-size">${sizes.map(s=>`<option>${s}</option>`).join('')}</select>
+function renderOverview(item) {
+  const container = getById('frame-overview');
+  container.innerHTML = `
+    <article class="overview-card">
+      <p class="overview-card__label">Material</p>
+      <p class="overview-card__value">${item.materialLabel}</p>
+      <p class="overview-card__detail">${item.types.filter(type => type !== 'Standard').join(' / ') || 'Everyday optical frame'}</p>
+    </article>
+    <article class="overview-card">
+      <p class="overview-card__label">Available colors</p>
+      <p class="overview-card__value">${item.colorCount}</p>
+      <p class="overview-card__detail">${formatList(item.colors, 3)}</p>
+    </article>
+    <article class="overview-card">
+      <p class="overview-card__label">Eye sizes</p>
+      <p class="overview-card__value">${formatRange(item.eyeSizes)}</p>
+      <p class="overview-card__detail">${formatList(item.eyeSizes.map(String), 4)}</p>
+    </article>
+    <article class="overview-card">
+      <p class="overview-card__label">Frame PD</p>
+      <p class="overview-card__value">${formatRange(item.pds)}</p>
+      <p class="overview-card__detail">Temple lengths ${formatList(item.temples.map(String), 3)}</p>
+    </article>
   `;
-  ['detail-color','detail-size'].forEach(id=>{
-    getById(id).addEventListener('change',()=>updateVariant(skus));
-  });
 }
 
-function injectDetailSections() {
-  const main = document.querySelector('main');
-  main.insertAdjacentHTML('beforeend',`
-    <section id="gallery">
-      <div id="detail-main-image-container">
-        <img id="detail-main-image" src="" alt="" />
-        <div id="bo-overlay" class="hidden">BACK ORDERED</div>
+function renderSelectorButtons(label, values, selectedValue, type) {
+  return `
+    <div class="selector-row">
+      <p class="selector-label">${label}</p>
+      <div class="selector-options" role="group" aria-label="${label}">
+        ${values
+          .map(
+            value => `
+              <button
+                type="button"
+                class="selector-button"
+                data-selector="${type}"
+                data-value="${value}"
+                aria-pressed="${String(value) === String(selectedValue)}"
+              >
+                ${value}
+              </button>
+            `
+          )
+          .join('')}
       </div>
-      <div id="gallery-thumbs"></div>
-    </section>
-    <section id="sku-table">
-      <table>
-        <thead><tr><th>Color</th><th>Eye Size</th><th>B</th><th>PD</th><th>Temple</th><th>Back Ordered</th></tr></thead>
-        <tbody id="sku-table-body"></tbody>
-      </table>
-    </section>
-  `);
+    </div>
+  `;
 }
 
-function updateVariant(skus) {
-  const color = getById('detail-color').value;
-  const size  = getById('detail-size').value;
-  const variant = skus.find(s=>s.Color===color && String(s.EyeSize)===size);
-  if (!variant) return;
-  renderImage(variant);
-  renderTable(skus);
+function renderSelectorsMarkup() {
+  const item = state.item;
+  const selected = state.selectedVariant;
+  const colors = [...new Set(item.variants.map(variant => variant.Color))].sort();
+  const sizes = [...new Set(item.variants.map(variant => variant.EyeSize))].sort((a, b) => a - b);
+
+  return `
+    ${renderSelectorButtons('Color', colors, selected.Color, 'color')}
+    ${renderSelectorButtons('Eye size', sizes, selected.EyeSize, 'size')}
+  `;
 }
 
-function renderImage(variant) {
-  const mainImg = getById('detail-main-image');
-  mainImg.src = `images/${variant.HeroImage}`;
-  getById('bo-overlay').classList.toggle('hidden', !variant.BackOrdered);
+function getGalleryImages(variant) {
+  const hero = variant.HeroImage || 'coming-soon.jpg';
+  return [hero, ...variant.Images.filter(image => image !== hero)];
+}
+
+function renderGallery() {
+  const variant = state.selectedVariant;
+  const gallery = getById('gallery');
+  const images = getGalleryImages(variant);
+  const typeChips = state.item.types.filter(type => type !== 'Standard');
+  const variantStatusMarkup = variant.BackOrdered
+    ? `
+        <section class="detail-gallery__alert" role="status" aria-live="polite">
+          <strong>Back ordered</strong>
+          <span>This selected color and size is currently on back order.</span>
+        </section>
+      `
+    : `
+        <section class="detail-gallery__alert detail-gallery__alert--available" role="status" aria-live="polite">
+          <strong>Available now</strong>
+          <span>This selected color and size is currently listed as available.</span>
+        </section>
+      `;
+
+  gallery.innerHTML = `
+    <div class="detail-gallery__figure">
+      <div class="detail-gallery__frame">
+        <span class="detail-gallery__status ${variant.BackOrdered ? 'detail-gallery__status--warning' : ''}">
+          ${variant.BackOrdered ? 'Back ordered' : 'Current selection'}
+        </span>
+        <img id="detail-main-image" src="${getImagePath(images[0])}" alt="${state.item.name} frame in ${variant.Color}" />
+      </div>
+      <div id="gallery-thumbs" class="detail-gallery__thumbs"></div>
+    </div>
+    <div class="detail-gallery__info">
+      ${variantStatusMarkup}
+      <section class="detail-gallery__panel detail-gallery__panel--selectors" aria-label="Frame variants">
+        <h2>Choose your frame</h2>
+        ${renderSelectorsMarkup()}
+      </section>
+      <section class="detail-gallery__panel">
+        <h2>Selected variant</h2>
+        <ul class="detail-gallery__facts">
+          <li><strong>Status:</strong> ${variant.BackOrdered ? 'Back ordered' : 'Available'}</li>
+          <li><strong>Color:</strong> ${variant.Color}</li>
+          <li><strong>Eye size:</strong> ${variant.EyeSize}</li>
+          <li><strong>B measurement:</strong> ${variant.B}</li>
+          <li><strong>DBL:</strong> ${variant.DBL}</li>
+          <li><strong>Frame PD:</strong> ${variant.FramePD}</li>
+          <li><strong>Temple:</strong> ${variant.Temple} mm</li>
+          <li><strong>SKU:</strong> ${variant.SKU}</li>
+        </ul>
+      </section>
+      <section class="detail-gallery__panel">
+        <h2>Catalog notes</h2>
+        <p class="site-note">
+          Use this page to review available measurements and current variants before final selection.
+        </p>
+        <div class="detail-gallery__chips">
+          <span class="catalog-chip">${variant.Material}</span>
+          ${typeChips.map(type => `<span class="catalog-chip">${type}</span>`).join('')}
+          ${variant.ColorTags.map(color => `<span class="catalog-chip">${color}</span>`).join('')}
+        </div>
+      </section>
+    </div>
+  `;
+
+  const mainImage = getById('detail-main-image');
+  setImageFallback(mainImage);
 
   const thumbs = getById('gallery-thumbs');
   clearChildren(thumbs);
-  (variant.ExtraImages||[]).forEach(fn=>{
-    const img = document.createElement('img');
-    img.src = `images/${fn}`;
-    img.className = 'gallery-thumb';
-    img.alt = '';
-    img.addEventListener('click',()=> mainImg.src = `images/${fn}`);
-    thumbs.appendChild(img);
+
+  images.forEach((image, index) => {
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.className = `gallery-thumb${index === 0 ? ' is-active' : ''}`;
+    button.innerHTML = `<img src="${getImagePath(image)}" alt="${state.item.name} alternate view ${index + 1}" />`;
+    setImageFallback(button.querySelector('img'));
+    button.addEventListener('click', () => {
+      mainImage.src = getImagePath(image);
+      document.querySelectorAll('.gallery-thumb').forEach(thumb => thumb.classList.remove('is-active'));
+      button.classList.add('is-active');
+    });
+    thumbs.appendChild(button);
   });
 }
 
-function renderTable(skus) {
+function renderTable() {
+  const container = getById('sku-table');
+  container.innerHTML = `
+    <div class="variant-table__header">
+      <div>
+        <h2 id="variants-title">Available variants</h2>
+        <p class="variant-table__summary">Select a row to update the image and measurements above.</p>
+      </div>
+      <p class="variant-table__summary">${state.item.variants.length} variants listed</p>
+    </div>
+    <div class="variant-table__wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Color</th>
+            <th>Eye</th>
+            <th>B</th>
+            <th>DBL</th>
+            <th>PD</th>
+            <th>Temple</th>
+            <th>SKU</th>
+            <th>Status</th>
+          </tr>
+        </thead>
+        <tbody id="sku-table-body"></tbody>
+      </table>
+    </div>
+  `;
+
   const tbody = getById('sku-table-body');
-  clearChildren(tbody);
-  skus.forEach(sku=>{
-    const tr = document.createElement('tr');
-    ['Color','EyeSize','B','FramePD','Temple'].forEach(prop=>{
-      const td = document.createElement('td'); td.textContent = sku[prop]; tr.appendChild(td);
-    });
-    const boTd = document.createElement('td');
-    boTd.textContent = sku.BackOrdered ? 'Yes' : 'No';
-    tr.appendChild(boTd);
-    tbody.appendChild(tr);
+  state.item.variants.forEach(variant => {
+    const row = document.createElement('tr');
+    row.className = `variant-row${variant.SKU === state.selectedVariant.SKU ? ' is-selected' : ''}`;
+    row.innerHTML = `
+      <td>${variant.Color}</td>
+      <td>${variant.EyeSize}</td>
+      <td>${variant.B}</td>
+      <td>${variant.DBL}</td>
+      <td>${variant.FramePD}</td>
+      <td>${variant.Temple}</td>
+      <td>${variant.SKU}</td>
+      <td>
+        <span class="status-pill${variant.BackOrdered ? ' status-pill--warning' : ''}">
+          ${variant.BackOrdered ? 'Back ordered' : 'Available'}
+        </span>
+      </td>
+    `;
+    row.addEventListener('click', () => selectVariant(variant));
+    tbody.appendChild(row);
   });
+}
+
+function syncDetailView() {
+  const item = state.item;
+  getById('frame-name').textContent = item.name;
+  getById('frame-subtitle').textContent = `${item.summary}. Eye sizes ${formatList(item.eyeSizes.map(String), 4)} with frame PD ${formatRange(item.pds)}.`;
+  renderGallery();
+  renderOverview(item);
+  renderTable();
+}
+
+function findMatchingVariant({ color, size }) {
+  const item = state.item;
+  return (
+    item.variants.find(variant => variant.Color === color && variant.EyeSize === Number(size)) ||
+    item.variants.find(variant => variant.Color === color) ||
+    item.variants.find(variant => variant.EyeSize === Number(size)) ||
+    item.variants[0]
+  );
+}
+
+function selectVariant(variantOrPartial) {
+  const nextVariant =
+    'SKU' in variantOrPartial
+      ? variantOrPartial
+      : findMatchingVariant({
+          color: variantOrPartial.color ?? state.selectedVariant.Color,
+          size: variantOrPartial.size ?? state.selectedVariant.EyeSize
+        });
+
+  state.selectedVariant = nextVariant;
+  syncDetailView();
+}
+
+function hookDetailEvents() {
+  getById('gallery').addEventListener('click', event => {
+    const button = event.target.closest('[data-selector]');
+    if (!button) return;
+
+    if (button.dataset.selector === 'color') {
+      selectVariant({ color: button.dataset.value });
+      return;
+    }
+
+    if (button.dataset.selector === 'size') {
+      selectVariant({ size: Number(button.dataset.value) });
+    }
+  });
+}
+
+function renderError(message) {
+  document.body.innerHTML = `<main class="detail-error"><p>${message}</p></main>`;
+}
+
+export async function initDetailPage() {
+  const frameName = getQueryParam('frame');
+  if (!frameName) {
+    renderError('Frame details are unavailable because no frame was selected.');
+    return;
+  }
+
+  const backButton = getById('back-button');
+  backButton.addEventListener('click', event => {
+    try {
+      if (document.referrer && new URL(document.referrer).origin === window.location.origin) {
+        event.preventDefault();
+        window.history.back();
+      }
+    } catch (_error) {
+      // Fall back to the catalog link if the referrer cannot be parsed.
+    }
+  });
+
+  try {
+    const frames = await fetchFramesData();
+    const items = buildCatalogItems(frames);
+    const item = items.find(entry => entry.name === frameName);
+
+    if (!item) {
+      renderError('Frame not found in the current catalog.');
+      return;
+    }
+
+    state.item = item;
+    state.selectedVariant = item.heroVariant || item.variants[0];
+
+    hookDetailEvents();
+    syncDetailView();
+  } catch (err) {
+    console.error(err);
+    renderError('Failed to load frame details.');
+  }
 }

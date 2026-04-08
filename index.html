@@ -4,36 +4,65 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Frame Catalog</title>
+  <meta
+    name="description"
+    content="Browse the current frame selection by material, color, and measurements."
+  />
   <link rel="icon" href="favicon.ico" />
   <link rel="stylesheet" href="css/common.css" />
   <link rel="stylesheet" href="css/main.css" />
 </head>
-<body>
-  <header>
-    <h1>Frame Catalog</h1>
+<body class="catalog-page">
+  <a class="skip-link" href="#catalog-main">Skip to catalog</a>
+
+  <header class="site-header">
+    <div class="site-header__inner">
+      <p class="site-eyebrow">Current selection</p>
+      <h1>Frame Catalog</h1>
+      <p class="site-intro">
+        Review the current frame selection by style, color, and measurements. Patients can browse
+        visually, while VA staff can confirm available sizes and details quickly.
+      </p>
+      <p class="site-note">Availability can change. Selections shown here are for reference.</p>
+    </div>
   </header>
 
-  <main>
-    <div class="catalog-container">
-      <!-- FILTER SIDEBAR -->
-      <aside id="filters"></aside>
+  <main id="catalog-main" class="catalog-shell">
+    <aside class="filters-panel" aria-label="Catalog filters">
+      <form id="catalog-controls" novalidate></form>
+    </aside>
 
-      <!-- THUMBNAILS GRID -->
-      <section id="thumbnails"></section>
-    </div>
+    <section class="results-panel" aria-labelledby="results-title">
+      <div class="results-toolbar">
+        <div>
+          <p class="results-label">Current frame selection</p>
+          <h2 id="results-title">Available frames</h2>
+        </div>
+        <p id="results-summary" class="results-summary" aria-live="polite"></p>
+      </div>
+
+      <div id="active-filters" class="active-filters" aria-live="polite"></div>
+      <section id="thumbnails" class="catalog-grid" aria-live="polite"></section>
+    </section>
   </main>
 
-  <!-- TEMPLATE FOR THUMBNAIL -->
   <template id="thumbnail-template">
-    <div class="thumb-card">
-      <a href="#" class="thumb-link">
-        <div class="thumb-img-container">
-          <div class="thumb-label"></div>
-          <img src="" alt="Frame Image" class="thumb-img" />
+    <article class="catalog-card">
+      <a href="#" class="catalog-card__link">
+        <div class="catalog-card__media">
+          <img src="" alt="" class="catalog-card__image" />
+          <div class="catalog-card__status"></div>
         </div>
-        <div class="thumb-name"></div>
+        <div class="catalog-card__body">
+          <div class="catalog-card__eyebrow"></div>
+          <h3 class="catalog-card__title"></h3>
+          <p class="catalog-card__summary"></p>
+          <ul class="catalog-card__facts"></ul>
+          <div class="catalog-card__chips"></div>
+          <p class="catalog-card__cta">View sizes and colors</p>
+        </div>
       </a>
-    </div>
+    </article>
   </template>
 
   <script type="module">

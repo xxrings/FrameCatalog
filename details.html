@@ -3,21 +3,32 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Frame Details</title>
+  <title>Frame Details | Frame Catalog</title>
+  <meta
+    name="description"
+    content="Review frame details, measurements, available colors, and variant status."
+  />
   <link rel="icon" href="favicon.ico" />
   <link rel="stylesheet" href="css/common.css" />
   <link rel="stylesheet" href="css/detail.css" />
 </head>
-<body>
-  <header>
-    <button id="back-button">← Back</button>
-    <h1 id="frame-name"></h1>
+<body class="detail-page">
+  <a class="skip-link" href="#detail-main">Skip to frame details</a>
+
+  <header class="detail-header">
+    <div class="detail-header__inner">
+      <a href="index.html" id="back-button" class="back-link">&larr; Back to catalog</a>
+      <p class="site-eyebrow">Current selection</p>
+      <h1 id="frame-name">Frame details</h1>
+      <p id="frame-subtitle" class="detail-header__subtitle"></p>
+      <p class="site-note detail-header__note">Availability can change. Selections shown here are for reference.</p>
+    </div>
   </header>
 
-  <main>
-    <!-- Selector controls injected here -->
-    <section id="selectors"></section>
-    <!-- Gallery and table injected by JS -->
+  <main id="detail-main" class="detail-shell">
+    <section id="gallery" class="detail-gallery" aria-live="polite"></section>
+    <section id="frame-overview" class="detail-overview" aria-live="polite"></section>
+    <section id="sku-table" class="variant-table" aria-labelledby="variants-title"></section>
   </main>
 
   <script type="module">
