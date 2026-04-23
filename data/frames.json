@@ -1834,7 +1834,7 @@
     "B": 35,
     "Temple": 140,
     "FramePD": 68,
-    "BackOrdered": true,
+    "BackOrdered": false,
     "Discontinued": false,
     "HeroImage": "EQ_1508_51_TORTOISE_Hero.jpg",
     "Images": [
@@ -2880,7 +2880,7 @@
     "Temple": 140,
     "FramePD": 70,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "MC_6278_52_SATIN_BLK_GOLD_Hero.jpg",
     "Images": [
     ],
@@ -2903,7 +2903,7 @@
     "Temple": 140,
     "FramePD": 70,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "MC_6278_52_SATIN_RED_GOLD_Hero.jpg",
     "Images": [
     ],
@@ -2926,7 +2926,7 @@
     "Temple": 140,
     "FramePD": 70,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "MC_6278_52_SATIN_PURP_GOLD_Hero.jpg",
     "Images": [
     ],
@@ -3726,7 +3726,7 @@
     "Temple": 150,
     "FramePD": 75,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "COUGAR_58_BLACK_Hero.jpg",
     "Images": [
     ],
@@ -3748,7 +3748,7 @@
     "Temple": 150,
     "FramePD": 75,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "COUGAR_58_GUNMETAL_Hero.jpg",
     "Images": [
     ],
@@ -4011,7 +4011,7 @@
     "B": 33,
     "Temple": 145,
     "FramePD": 75,
-    "BackOrdered": true,
+    "BackOrdered": false,
     "Discontinued": false,
     "HeroImage": "LONGHORN_57_GUNMETAL_Hero.jpg",
     "Images": [
@@ -4979,7 +4979,7 @@
     "B": 39,
     "Temple": 150,
     "FramePD": 74,
-    "BackOrdered": true,
+    "BackOrdered": false,
     "Discontinued": false,
     "HeroImage": "STATESMAN_56_NAVY_Hero.jpg",
     "Images": [
@@ -5243,7 +5243,7 @@
     "B": 34,
     "Temple": 140,
     "FramePD": 72,
-    "BackOrdered": true,
+    "BackOrdered": false,
     "Discontinued": false,
     "HeroImage": "AERO_3003_54_GUN_Hero.jpg",
     "Images": [
