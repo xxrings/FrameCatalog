@@ -4009,7 +4009,7 @@
     "B": 33,
     "Temple": 145,
     "FramePD": 75,
-    "BackOrdered": false,
+    "BackOrdered": true,
     "Discontinued": false,
     "HeroImage": "LONGHORN_57_GUNMETAL_Hero.jpg",
     "Images": [
@@ -4977,7 +4977,7 @@
     "B": 39,
     "Temple": 150,
     "FramePD": 74,
-    "BackOrdered": false,
+    "BackOrdered": true,
     "Discontinued": false,
     "HeroImage": "STATESMAN_56_NAVY_Hero.jpg",
     "Images": [
@@ -5241,7 +5241,7 @@
     "B": 34,
     "Temple": 140,
     "FramePD": 72,
-    "BackOrdered": false,
+    "BackOrdered": true,
     "Discontinued": false,
     "HeroImage": "AERO_3003_54_GUN_Hero.jpg",
     "Images": [
