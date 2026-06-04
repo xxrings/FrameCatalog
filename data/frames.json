@@ -4031,7 +4031,7 @@
     "B": 38,
     "Temple": 150,
     "FramePD": 75,
-    "BackOrdered": false,
+    "BackOrdered": true,
     "Discontinued": false,
     "HeroImage": "BEARCAT_58_BLACK_Hero.jpg",
     "Images": [
