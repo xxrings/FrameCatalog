@@ -1,5 +1,27 @@
 [
   {
+    "SKU": "0",
+    "FrameName": "U 213",
+    "Material": "Plastic",
+    "Color": "BLUE",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 49,
+    "DBL": 16,
+    "B": 29,
+    "Temple": 130,
+    "FramePD": 65,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "U213 Blue-HERO.JPG",
+    "Images": [
+    ],
+    "safety": false,
+    "sport": false
+  }
+,
+  {
     "SKU": "009398228348",
     "FrameName": "FX 118",
     "Material": "Metal",
@@ -322,7 +344,7 @@
     "Temple": 145,
     "FramePD": 74,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "SL_107_56_GUNMETAL_Hero.jpg",
     "Images": [
     ],
@@ -344,8 +366,30 @@
     "Temple": 145,
     "FramePD": 74,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "SL_107_56_SILVER_Hero.jpg",
+    "Images": [
+    ],
+    "safety": false,
+    "sport": false
+  }
+,
+  {
+    "SKU": "1",
+    "FrameName": "U 213",
+    "Material": "Plastic",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 49,
+    "DBL": 16,
+    "B": 29,
+    "Temple": 130,
+    "FramePD": 65,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "U213 black-HERO.JPG",
     "Images": [
     ],
     "safety": false,
@@ -901,6 +945,117 @@
   }
 ,
   {
+    "SKU": "2",
+    "FrameName": "U 213",
+    "Material": "Plastic",
+    "Color": "CRYSTAL",
+    "ColorTags": [
+      "CRYSTAL",
+      "CLEAR"
+    ],
+    "EyeSize": 53,
+    "DBL": 16,
+    "B": 31,
+    "Temple": 140,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "U213 Crystal-HERO.JPG",
+    "Images": [
+    ],
+    "safety": false,
+    "sport": false
+  }
+,
+  {
+    "SKU": "3",
+    "FrameName": "U 213",
+    "Material": "Plastic",
+    "Color": "BLUE",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 53,
+    "DBL": 16,
+    "B": 31,
+    "Temple": 140,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "U213 Blue-HERO.JPG",
+    "Images": [
+    ],
+    "safety": false,
+    "sport": false
+  }
+,
+  {
+    "SKU": "4",
+    "FrameName": "U 213",
+    "Material": "Plastic",
+    "Color": "BLACK",
+    "ColorTags": [
+      "BLACK"
+    ],
+    "EyeSize": 53,
+    "DBL": 16,
+    "B": 31,
+    "Temple": 140,
+    "FramePD": 69,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "U213 blue-HERO.JPG",
+    "Images": [
+    ],
+    "safety": false,
+    "sport": false
+  }
+,
+  {
+    "SKU": "5",
+    "FrameName": "SL 101",
+    "Material": "Metal",
+    "Color": "BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 55,
+    "DBL": 15,
+    "B": 42,
+    "Temple": 145,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "SL101 Brown-Hero.JPG",
+    "Images": [
+    ],
+    "safety": false,
+    "sport": false
+  }
+,
+  {
+    "SKU": "6",
+    "FrameName": "SL 101",
+    "Material": "Metal",
+    "Color": "GUNMETAL",
+    "ColorTags": [
+      "GUNMETAL"
+    ],
+    "EyeSize": 55,
+    "DBL": 15,
+    "B": 42,
+    "Temple": 145,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "SL101 Gunmetal-Hero.JPG",
+    "Images": [
+    ],
+    "safety": false,
+    "sport": false
+  }
+,
+  {
     "SKU": "675254111101",
     "FrameName": "JAZZ",
     "Material": "Metal",
@@ -1092,6 +1247,29 @@
     "BackOrdered": false,
     "Discontinued": false,
     "HeroImage": "JAZZ_56_GUNMETAL_Hero.jpg",
+    "Images": [
+    ],
+    "safety": false,
+    "sport": false
+  }
+,
+  {
+    "SKU": "7",
+    "FrameName": "GR 827",
+    "Material": "Metal",
+    "Color": "BLACK SILVER",
+    "ColorTags": [
+      "BLACK",
+      "SILVER"
+    ],
+    "EyeSize": 59,
+    "DBL": 18,
+    "B": 45,
+    "Temple": 150,
+    "FramePD": 77,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "GR827-Black Silver-Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -2430,7 +2608,7 @@
     "Temple": 145,
     "FramePD": 74,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "EQ_8844_55_BLACK_Hero.jpg",
     "Images": [
     ],
@@ -2452,7 +2630,7 @@
     "Temple": 145,
     "FramePD": 74,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "EQ_8844_55_BROWN_Hero.jpg",
     "Images": [
     ],
@@ -2466,8 +2644,7 @@
     "Material": "Plastic",
     "Color": "PURPLE TORT",
     "ColorTags": [
-      "PURPLE",
-      "TORTOISE"
+      "PURPLE"
     ],
     "EyeSize": 56,
     "DBL": 17,
@@ -2489,8 +2666,7 @@
     "Material": "Plastic",
     "Color": "BURGUNDY TORT",
     "ColorTags": [
-      "RED",
-      "TORTOISE"
+      "RED"
     ],
     "EyeSize": 56,
     "DBL": 17,
@@ -2946,7 +3122,7 @@
     "Temple": 140,
     "FramePD": 68,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "H_4858_49_SILVER_Hero.jpg",
     "Images": [
     ],
@@ -2968,7 +3144,7 @@
     "Temple": 140,
     "FramePD": 68,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "H_4858_49_GOLD_Hero.jpg",
     "Images": [
     ],
@@ -2990,7 +3166,7 @@
     "Temple": 140,
     "FramePD": 68,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "H_4858_49_GUNMETAL_Hero.jpg",
     "Images": [
     ],
@@ -3188,7 +3364,7 @@
     "Temple": 145,
     "FramePD": 74,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "EQ_6763_57_BROWN_Hero.jpg",
     "Images": [
     ],
@@ -3210,7 +3386,7 @@
     "Temple": 145,
     "FramePD": 74,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "EQ_6763_57_GUN_Hero.jpg",
     "Images": [
     ],
@@ -3487,6 +3663,29 @@
   }
 ,
   {
+    "SKU": "8",
+    "FrameName": "GR 827",
+    "Material": "Metal",
+    "Color": "BLACK GOLD",
+    "ColorTags": [
+      "BLACK",
+      "GOLD"
+    ],
+    "EyeSize": 59,
+    "DBL": 18,
+    "B": 45,
+    "Temple": 150,
+    "FramePD": 77,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "GR827-Black Gold-Hero.JPG",
+    "Images": [
+    ],
+    "safety": false,
+    "sport": false
+  }
+,
+  {
     "SKU": "819253021577",
     "FrameName": "D 490",
     "Material": "Safety",
@@ -3546,7 +3745,7 @@
     "Temple": 145,
     "FramePD": 74,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "TROJAN_57_BLACK_Hero.jpg",
     "Images": [
     ],
@@ -3568,7 +3767,7 @@
     "Temple": 150,
     "FramePD": 76,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "TROJAN_59_BLACK_Hero.jpg",
     "Images": [
     ],
@@ -3590,7 +3789,7 @@
     "Temple": 145,
     "FramePD": 74,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "TROJAN_57_GUNMETAL_Hero.jpg",
     "Images": [
     ],
@@ -3612,7 +3811,7 @@
     "Temple": 150,
     "FramePD": 76,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "TROJAN_59_GUNMETAL_Hero.jpg",
     "Images": [
     ],
@@ -3634,7 +3833,7 @@
     "Temple": 145,
     "FramePD": 74,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "TROJAN_57_NAVY_Hero.jpg",
     "Images": [
     ],
@@ -3656,7 +3855,7 @@
     "Temple": 150,
     "FramePD": 76,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "TROJAN_59_NAVY_Hero.jpg",
     "Images": [
     ],
@@ -3724,7 +3923,7 @@
     "Temple": 150,
     "FramePD": 75,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "COUGAR_58_BLACK_Hero.jpg",
     "Images": [
     ],
@@ -3746,7 +3945,7 @@
     "Temple": 150,
     "FramePD": 75,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "COUGAR_58_GUNMETAL_Hero.jpg",
     "Images": [
     ],
@@ -3834,7 +4033,7 @@
     "Temple": 135,
     "FramePD": 69,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "ROCKAWAY_BLVD_52_BLACK_Hero.jpg",
     "Images": [
     ],
@@ -3856,7 +4055,7 @@
     "Temple": 140,
     "FramePD": 71,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "ROCKAWAY_BLVD_54_BLACK_Hero.jpg",
     "Images": [
     ],
@@ -3878,7 +4077,7 @@
     "Temple": 135,
     "FramePD": 69,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "ROCKAWAY_BLVD_52_GUNMETAL_Hero.jpg",
     "Images": [
     ],
@@ -3900,7 +4099,7 @@
     "Temple": 140,
     "FramePD": 71,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "ROCKAWAY_BLVD_54_GUNMETAL_Hero.jpg",
     "Images": [
     ],
@@ -3922,7 +4121,7 @@
     "Temple": 135,
     "FramePD": 69,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "ROCKAWAY_BLVD_52_NAVY_Hero.jpg",
     "Images": [
     ],
@@ -3944,7 +4143,7 @@
     "Temple": 140,
     "FramePD": 71,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "ROCKAWAY_BLVD_54_NAVY_Hero.jpg",
     "Images": [
     ],
@@ -3966,7 +4165,7 @@
     "Temple": 145,
     "FramePD": 75,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "LONGHORN_57_BLACK_Hero.jpg",
     "Images": [
     ],
@@ -3988,7 +4187,7 @@
     "Temple": 145,
     "FramePD": 75,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "LONGHORN_57_BROWN_Hero.jpg",
     "Images": [
     ],
@@ -4010,7 +4209,7 @@
     "Temple": 145,
     "FramePD": 75,
     "BackOrdered": true,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "LONGHORN_57_GUNMETAL_Hero.jpg",
     "Images": [
     ],
@@ -4296,7 +4495,7 @@
     "Temple": 135,
     "FramePD": 66,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "ZELDA_49_BLACK_Hero.jpg",
     "Images": [
     ],
@@ -4318,7 +4517,7 @@
     "Temple": 135,
     "FramePD": 66,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "ZELDA_49_BURGUNDY_Hero.jpg",
     "Images": [
     ],
@@ -4340,7 +4539,7 @@
     "Temple": 135,
     "FramePD": 66,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "ZELDA_49_PLUM_Hero.jpg",
     "Images": [
     ],
@@ -5220,7 +5419,7 @@
     "Temple": 140,
     "FramePD": 72,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "AERO_3003_54_BLACK_Hero.jpg",
     "Images": [
     ],
@@ -5242,7 +5441,7 @@
     "Temple": 140,
     "FramePD": 72,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "AERO_3003_54_GUN_Hero.jpg",
     "Images": [
     ],
@@ -5264,7 +5463,7 @@
     "Temple": 140,
     "FramePD": 72,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "AERO_3003_54_NAVY_Hero.jpg",
     "Images": [
     ],
@@ -5286,7 +5485,7 @@
     "Temple": 140,
     "FramePD": 71,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "PRESTON_RD_50_BLACK_Hero.jpg",
     "Images": [
     ],
@@ -5308,7 +5507,7 @@
     "Temple": 140,
     "FramePD": 71,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "PRESTON_RD_50_GUNMETAL_Hero.jpg",
     "Images": [
     ],
@@ -5886,6 +6085,73 @@
     "Images": [
     ],
     "safety": true,
+    "sport": false
+  }
+,
+  {
+    "SKU": "9",
+    "FrameName": "GR 827",
+    "Material": "Metal",
+    "Color": "BLUE GUNMETAL",
+    "ColorTags": [
+      "BLUE",
+      "GOLD"
+    ],
+    "EyeSize": 59,
+    "DBL": 18,
+    "B": 45,
+    "Temple": 150,
+    "FramePD": 77,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "GR827-Blue Gunmetal-Hero.JPG",
+    "Images": [
+    ],
+    "safety": false,
+    "sport": false
+  }
+,
+  {
+    "SKU": "92",
+    "FrameName": "H 4922",
+    "Material": "Plastic",
+    "Color": "GREEN FADE",
+    "ColorTags": [
+      "GREEN"
+    ],
+    "EyeSize": 51,
+    "DBL": 17,
+    "B": 41,
+    "Temple": 143,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "H4922-Green-Fade-Hero.JPG",
+    "Images": [
+    ],
+    "safety": false,
+    "sport": false
+  }
+,
+  {
+    "SKU": "93",
+    "FrameName": "H 4922",
+    "Material": "Plastic",
+    "Color": "SMOKE FADE",
+    "ColorTags": [
+      "SMOKE"
+    ],
+    "EyeSize": 51,
+    "DBL": 17,
+    "B": 41,
+    "Temple": 143,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "H4922-Smoke-Fade-Hero.JPG",
+    "Images": [
+    ],
+    "safety": false,
     "sport": false
   }
 ,
@@ -6702,7 +6968,7 @@
     "Temple": 140,
     "FramePD": 70,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "FX_114__52_BLUE_Hero.jpg",
     "Images": [
     ],
@@ -6724,7 +6990,7 @@
     "Temple": 140,
     "FramePD": 70,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "FX_114__52_GUNMETAL_Hero.jpg",
     "Images": [
     ],
@@ -6746,7 +7012,7 @@
     "Temple": 140,
     "FramePD": 70,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "FX_114__52_BLACK_Hero.jpg",
     "Images": [
     ],
@@ -8200,7 +8466,7 @@
     "Temple": 145,
     "FramePD": 73,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "FX_6_53_BLACK_Hero.jpg",
     "Images": [
     ],
@@ -8222,7 +8488,7 @@
     "Temple": 145,
     "FramePD": 73,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "FX_6_53_GUNMETAL_Hero.jpg",
     "Images": [
     ],
@@ -8244,7 +8510,7 @@
     "Temple": 145,
     "FramePD": 73,
     "BackOrdered": false,
-    "Discontinued": false,
+    "Discontinued": true,
     "HeroImage": "FX_6_53_COFFEE_Hero.jpg",
     "Images": [
     ],
@@ -8510,6 +8776,143 @@
     "BackOrdered": false,
     "Discontinued": true,
     "HeroImage": "7730_53_GOLD_Hero.jpg",
+    "Images": [
+    ],
+    "safety": false,
+    "sport": false
+  }
+,
+  {
+    "SKU": "94",
+    "FrameName": "H 4922",
+    "Material": "Plastic",
+    "Color": "BROWN FADE",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 51,
+    "DBL": 17,
+    "B": 41,
+    "Temple": 143,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "H4922-Brown-Fade-Hero.JPG",
+    "Images": [
+    ],
+    "safety": false,
+    "sport": false
+  }
+,
+  {
+    "SKU": "95",
+    "FrameName": "H 4922",
+    "Material": "Plastic",
+    "Color": "BLUE FADE",
+    "ColorTags": [
+      "BLUE"
+    ],
+    "EyeSize": 51,
+    "DBL": 17,
+    "B": 41,
+    "Temple": 143,
+    "FramePD": 68,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "H4922-Blue-Fade-Hero.JPG",
+    "Images": [
+    ],
+    "safety": false,
+    "sport": false
+  }
+,
+  {
+    "SKU": "96",
+    "FrameName": "H 4903",
+    "Material": "Plastic",
+    "Color": "DEMI BROWN",
+    "ColorTags": [
+      "BROWN"
+    ],
+    "EyeSize": 49,
+    "DBL": 18,
+    "B": 43,
+    "Temple": 140,
+    "FramePD": 67,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "H4903-DEMI-BROWN-HERO.JPG",
+    "Images": [
+    ],
+    "safety": false,
+    "sport": false
+  }
+,
+  {
+    "SKU": "97",
+    "FrameName": "H 4903",
+    "Material": "Plastic",
+    "Color": "DEMI BLUE",
+    "ColorTags": [
+      "PINK",
+      "BLUE",
+      "BROWN"
+    ],
+    "EyeSize": 49,
+    "DBL": 18,
+    "B": 43,
+    "Temple": 140,
+    "FramePD": 67,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "H4903-DEMI-BLUE-HERO.JPG",
+    "Images": [
+    ],
+    "safety": false,
+    "sport": false
+  }
+,
+  {
+    "SKU": "98",
+    "FrameName": "H 4903",
+    "Material": "Plastic",
+    "Color": "DEMI MAUVE",
+    "ColorTags": [
+      "PINK",
+      "BLUE",
+      "BROWN"
+    ],
+    "EyeSize": 49,
+    "DBL": 18,
+    "B": 43,
+    "Temple": 140,
+    "FramePD": 67,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "H4903-DEMI-MAUVE-HERO.JPG",
+    "Images": [
+    ],
+    "safety": false,
+    "sport": false
+  }
+,
+  {
+    "SKU": "99",
+    "FrameName": "U 213",
+    "Material": "Plastic",
+    "Color": "CRYSTAL",
+    "ColorTags": [
+      "CRYSTAL",
+      "CLEAR"
+    ],
+    "EyeSize": 49,
+    "DBL": 16,
+    "B": 29,
+    "Temple": 130,
+    "FramePD": 65,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "U213 Crystal-HERO.JPG",
     "Images": [
     ],
     "safety": false,
