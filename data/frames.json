@@ -498,7 +498,7 @@
     "FramePD": 0,
     "BackOrdered": false,
     "Discontinued": true,
-    "HeroImage": "SIDE_SHIELD___Hero.jpg",
+    "HeroImage": "coming-soon.jpg",
     "Images": [
     ],
     "safety": false,
@@ -509,7 +509,7 @@
     "SKU": "1111100000",
     "FrameName": "POF",
     "Material": "Plastic",
-    "Color": "xxxxx",
+    "Color": "",
     "ColorTags": [
     ],
     "EyeSize": 0,
@@ -519,7 +519,7 @@
     "FramePD": 0,
     "BackOrdered": false,
     "Discontinued": true,
-    "HeroImage": "POF_xxxxx_Hero.jpg",
+    "HeroImage": "coming-soon.jpg",
     "Images": [
     ],
     "safety": false,
@@ -3321,7 +3321,7 @@
     "FramePD": 0,
     "BackOrdered": false,
     "Discontinued": true,
-    "HeroImage": "EQ_6733_54_BLACK_Hero.jpg",
+    "HeroImage": "coming-soon.jpg",
     "Images": [
     ],
     "safety": false,
@@ -3332,7 +3332,7 @@
     "SKU": "754317206791",
     "FrameName": "EQ 6733",
     "Material": "Semi Rimless",
-    "Color": "BROWN ",
+    "Color": "BROWN",
     "ColorTags": [
       "BROWN"
     ],
@@ -3343,7 +3343,7 @@
     "FramePD": 0,
     "BackOrdered": false,
     "Discontinued": true,
-    "HeroImage": "EQ_6733_54_BROWN__Hero.jpg",
+    "HeroImage": "coming-soon.jpg",
     "Images": [
     ],
     "safety": false,
@@ -6881,7 +6881,7 @@
     "FramePD": 0,
     "BackOrdered": false,
     "Discontinued": true,
-    "HeroImage": "DC_200_51_BLUSH_CLEAR_Hero.jpg",
+    "HeroImage": "coming-soon.jpg",
     "Images": [
     ],
     "safety": false,
