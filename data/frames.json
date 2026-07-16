@@ -344,7 +344,7 @@
     "Temple": 145,
     "FramePD": 74,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "SL_107_56_GUNMETAL_Hero.jpg",
     "Images": [
     ],
@@ -366,7 +366,7 @@
     "Temple": 145,
     "FramePD": 74,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "SL_107_56_SILVER_Hero.jpg",
     "Images": [
     ],
@@ -498,7 +498,7 @@
     "FramePD": 0,
     "BackOrdered": false,
     "Discontinued": true,
-    "HeroImage": "coming-soon.jpg",
+    "HeroImage": "SIDE_SHIELD___Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -509,7 +509,7 @@
     "SKU": "1111100000",
     "FrameName": "POF",
     "Material": "Plastic",
-    "Color": "",
+    "Color": "xxxxx",
     "ColorTags": [
     ],
     "EyeSize": 0,
@@ -519,7 +519,7 @@
     "FramePD": 0,
     "BackOrdered": false,
     "Discontinued": true,
-    "HeroImage": "coming-soon.jpg",
+    "HeroImage": "POF_xxxxx_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -2608,7 +2608,7 @@
     "Temple": 145,
     "FramePD": 74,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "EQ_8844_55_BLACK_Hero.jpg",
     "Images": [
     ],
@@ -2630,7 +2630,7 @@
     "Temple": 145,
     "FramePD": 74,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "EQ_8844_55_BROWN_Hero.jpg",
     "Images": [
     ],
@@ -3122,7 +3122,7 @@
     "Temple": 140,
     "FramePD": 68,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "H_4858_49_SILVER_Hero.jpg",
     "Images": [
     ],
@@ -3144,7 +3144,7 @@
     "Temple": 140,
     "FramePD": 68,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "H_4858_49_GOLD_Hero.jpg",
     "Images": [
     ],
@@ -3166,7 +3166,7 @@
     "Temple": 140,
     "FramePD": 68,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "H_4858_49_GUNMETAL_Hero.jpg",
     "Images": [
     ],
@@ -3321,7 +3321,7 @@
     "FramePD": 0,
     "BackOrdered": false,
     "Discontinued": true,
-    "HeroImage": "coming-soon.jpg",
+    "HeroImage": "EQ_6733_54_BLACK_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -3332,7 +3332,7 @@
     "SKU": "754317206791",
     "FrameName": "EQ 6733",
     "Material": "Semi Rimless",
-    "Color": "BROWN",
+    "Color": "BROWN ",
     "ColorTags": [
       "BROWN"
     ],
@@ -3343,7 +3343,7 @@
     "FramePD": 0,
     "BackOrdered": false,
     "Discontinued": true,
-    "HeroImage": "coming-soon.jpg",
+    "HeroImage": "EQ_6733_54_BROWN__Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -3364,7 +3364,7 @@
     "Temple": 145,
     "FramePD": 74,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "EQ_6763_57_BROWN_Hero.jpg",
     "Images": [
     ],
@@ -3386,7 +3386,7 @@
     "Temple": 145,
     "FramePD": 74,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "EQ_6763_57_GUN_Hero.jpg",
     "Images": [
     ],
@@ -3745,7 +3745,7 @@
     "Temple": 145,
     "FramePD": 74,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "TROJAN_57_BLACK_Hero.jpg",
     "Images": [
     ],
@@ -3767,7 +3767,7 @@
     "Temple": 150,
     "FramePD": 76,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "TROJAN_59_BLACK_Hero.jpg",
     "Images": [
     ],
@@ -3789,7 +3789,7 @@
     "Temple": 145,
     "FramePD": 74,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "TROJAN_57_GUNMETAL_Hero.jpg",
     "Images": [
     ],
@@ -3811,7 +3811,7 @@
     "Temple": 150,
     "FramePD": 76,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "TROJAN_59_GUNMETAL_Hero.jpg",
     "Images": [
     ],
@@ -3833,7 +3833,7 @@
     "Temple": 145,
     "FramePD": 74,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "TROJAN_57_NAVY_Hero.jpg",
     "Images": [
     ],
@@ -3855,7 +3855,7 @@
     "Temple": 150,
     "FramePD": 76,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "TROJAN_59_NAVY_Hero.jpg",
     "Images": [
     ],
@@ -3923,7 +3923,7 @@
     "Temple": 150,
     "FramePD": 75,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "COUGAR_58_BLACK_Hero.jpg",
     "Images": [
     ],
@@ -3945,7 +3945,7 @@
     "Temple": 150,
     "FramePD": 75,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "COUGAR_58_GUNMETAL_Hero.jpg",
     "Images": [
     ],
@@ -4033,7 +4033,7 @@
     "Temple": 135,
     "FramePD": 69,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "ROCKAWAY_BLVD_52_BLACK_Hero.jpg",
     "Images": [
     ],
@@ -4055,7 +4055,7 @@
     "Temple": 140,
     "FramePD": 71,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "ROCKAWAY_BLVD_54_BLACK_Hero.jpg",
     "Images": [
     ],
@@ -4077,7 +4077,7 @@
     "Temple": 135,
     "FramePD": 69,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "ROCKAWAY_BLVD_52_GUNMETAL_Hero.jpg",
     "Images": [
     ],
@@ -4099,7 +4099,7 @@
     "Temple": 140,
     "FramePD": 71,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "ROCKAWAY_BLVD_54_GUNMETAL_Hero.jpg",
     "Images": [
     ],
@@ -4121,7 +4121,7 @@
     "Temple": 135,
     "FramePD": 69,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "ROCKAWAY_BLVD_52_NAVY_Hero.jpg",
     "Images": [
     ],
@@ -4143,7 +4143,7 @@
     "Temple": 140,
     "FramePD": 71,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "ROCKAWAY_BLVD_54_NAVY_Hero.jpg",
     "Images": [
     ],
@@ -4165,7 +4165,7 @@
     "Temple": 145,
     "FramePD": 75,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "LONGHORN_57_BLACK_Hero.jpg",
     "Images": [
     ],
@@ -4187,7 +4187,7 @@
     "Temple": 145,
     "FramePD": 75,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "LONGHORN_57_BROWN_Hero.jpg",
     "Images": [
     ],
@@ -4209,7 +4209,7 @@
     "Temple": 145,
     "FramePD": 75,
     "BackOrdered": true,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "LONGHORN_57_GUNMETAL_Hero.jpg",
     "Images": [
     ],
@@ -4230,7 +4230,7 @@
     "B": 38,
     "Temple": 150,
     "FramePD": 75,
-    "BackOrdered": true,
+    "BackOrdered": false,
     "Discontinued": false,
     "HeroImage": "BEARCAT_58_BLACK_Hero.jpg",
     "Images": [
@@ -4495,7 +4495,7 @@
     "Temple": 135,
     "FramePD": 66,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "ZELDA_49_BLACK_Hero.jpg",
     "Images": [
     ],
@@ -4517,7 +4517,7 @@
     "Temple": 135,
     "FramePD": 66,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "ZELDA_49_BURGUNDY_Hero.jpg",
     "Images": [
     ],
@@ -4539,7 +4539,7 @@
     "Temple": 135,
     "FramePD": 66,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "ZELDA_49_PLUM_Hero.jpg",
     "Images": [
     ],
@@ -5419,7 +5419,7 @@
     "Temple": 140,
     "FramePD": 72,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "AERO_3003_54_BLACK_Hero.jpg",
     "Images": [
     ],
@@ -5441,7 +5441,7 @@
     "Temple": 140,
     "FramePD": 72,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "AERO_3003_54_GUN_Hero.jpg",
     "Images": [
     ],
@@ -5463,7 +5463,7 @@
     "Temple": 140,
     "FramePD": 72,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "AERO_3003_54_NAVY_Hero.jpg",
     "Images": [
     ],
@@ -5485,7 +5485,7 @@
     "Temple": 140,
     "FramePD": 71,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "PRESTON_RD_50_BLACK_Hero.jpg",
     "Images": [
     ],
@@ -5507,7 +5507,7 @@
     "Temple": 140,
     "FramePD": 71,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "PRESTON_RD_50_GUNMETAL_Hero.jpg",
     "Images": [
     ],
@@ -6881,7 +6881,7 @@
     "FramePD": 0,
     "BackOrdered": false,
     "Discontinued": true,
-    "HeroImage": "coming-soon.jpg",
+    "HeroImage": "DC_200_51_BLUSH_CLEAR_Hero.jpg",
     "Images": [
     ],
     "safety": false,
@@ -6968,7 +6968,7 @@
     "Temple": 140,
     "FramePD": 70,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "FX_114__52_BLUE_Hero.jpg",
     "Images": [
     ],
@@ -6990,7 +6990,7 @@
     "Temple": 140,
     "FramePD": 70,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "FX_114__52_GUNMETAL_Hero.jpg",
     "Images": [
     ],
@@ -7012,7 +7012,7 @@
     "Temple": 140,
     "FramePD": 70,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "FX_114__52_BLACK_Hero.jpg",
     "Images": [
     ],
@@ -8466,7 +8466,7 @@
     "Temple": 145,
     "FramePD": 73,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "FX_6_53_BLACK_Hero.jpg",
     "Images": [
     ],
@@ -8488,7 +8488,7 @@
     "Temple": 145,
     "FramePD": 73,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "FX_6_53_GUNMETAL_Hero.jpg",
     "Images": [
     ],
@@ -8510,7 +8510,7 @@
     "Temple": 145,
     "FramePD": 73,
     "BackOrdered": false,
-    "Discontinued": true,
+    "Discontinued": false,
     "HeroImage": "FX_6_53_COFFEE_Hero.jpg",
     "Images": [
     ],
