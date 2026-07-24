@@ -41,12 +41,12 @@ export function buildCatalogItems(frames) {
       const pds = uniqSorted(variants.map(variant => variant.FramePD), NUMERIC_COMPARE);
       const temples = uniqSorted(variants.map(variant => variant.Temple), NUMERIC_COMPARE);
       const bs = uniqSorted(variants.map(variant => variant.B), NUMERIC_COMPARE);
-      const materials = uniqSorted(variants.map(variant => variant.Material));
+      const materials = [...new Set(variants.flatMap(variant => variant.Materials))];
       const types = uniqSorted(variants.map(variant => variant.type));
       const colors = uniqSorted(variants.flatMap(variant => variant.ColorTags));
       const variantColors = uniqSorted(variants.map(variant => variant.Color));
       const representative = variants.find(variant => variant.HeroImage && variant.HeroImage !== 'coming-soon.jpg') || variants[0];
-      const materialLabel = materials.length === 1 ? materials[0] : 'Mixed materials';
+      const materialLabel = materials.join(' / ') || 'Material not listed';
       const statusLabel = variants.some(variant => variant.BackOrdered) ? 'Includes backorders' : '';
 
       const item = {

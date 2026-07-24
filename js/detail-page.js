@@ -139,7 +139,7 @@ function renderGallery() {
           Use this page to review available measurements and current variants before final selection.
         </p>
         <div class="detail-gallery__chips">
-          <span class="catalog-chip">${variant.Material}</span>
+          ${variant.Materials.map(material => `<span class="catalog-chip">${material}</span>`).join('')}
           ${typeChips.map(type => `<span class="catalog-chip">${type}</span>`).join('')}
           ${variant.ColorTags.map(color => `<span class="catalog-chip">${color}</span>`).join('')}
         </div>
