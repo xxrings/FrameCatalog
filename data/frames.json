@@ -3993,6 +3993,78 @@
   }
 ,
   {
+    "SKU": "754317220292",
+    "FrameName": "MC 6341",
+    "Material": "Plastic",
+    "Material1": "Plastic",
+    "Material2": "",
+    "Color": "Butterscotch",
+    "ColorTags": [
+      "Brown"
+    ],
+    "EyeSize": 53,
+    "DBL": 17,
+    "B": 40,
+    "Temple": 140,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "MC_6341_butterscotch_Hero.JPG",
+    "Images": [
+    ],
+    "safety": false,
+    "sport": false
+  }
+,
+  {
+    "SKU": "754317220308",
+    "FrameName": "MC 6341",
+    "Material": "Plastic",
+    "Material1": "Plastic",
+    "Material2": "",
+    "Color": "Onyx",
+    "ColorTags": [
+      "Black"
+    ],
+    "EyeSize": 53,
+    "DBL": 17,
+    "B": 40,
+    "Temple": 140,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "MC_6341_onyx_Hero.JPG",
+    "Images": [
+    ],
+    "safety": false,
+    "sport": false
+  }
+,
+  {
+    "SKU": "754317220315",
+    "FrameName": "MC 6341",
+    "Material": "Plastic",
+    "Material1": "Plastic",
+    "Material2": "",
+    "Color": "Pearl",
+    "ColorTags": [
+      "White"
+    ],
+    "EyeSize": 53,
+    "DBL": 17,
+    "B": 40,
+    "Temple": 140,
+    "FramePD": 70,
+    "BackOrdered": false,
+    "Discontinued": false,
+    "HeroImage": "MC_6341_pearl_Hero.JPG",
+    "Images": [
+    ],
+    "safety": false,
+    "sport": false
+  }
+,
+  {
     "SKU": "8",
     "FrameName": "GR 827",
     "Material": "Metal",
